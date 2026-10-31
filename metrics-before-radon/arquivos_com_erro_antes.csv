@@ -1,0 +1,2 @@
+arquivo,origem,erro
+tests/parser/docx/test_smart_heading_features.py,teste,SyntaxError at line: 541

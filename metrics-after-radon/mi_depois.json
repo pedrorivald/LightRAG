@@ -1,0 +1,3109 @@
+{
+  "lightrag/pipeline_metrics.py": {
+    "mi": 73.59892919508052,
+    "rank": "A"
+  },
+  "lightrag/rerank.py": {
+    "mi": 45.22286090550182,
+    "rank": "A"
+  },
+  "lightrag/file_atomic.py": {
+    "mi": 70.14985659057325,
+    "rank": "A"
+  },
+  "lightrag/addon_params.py": {
+    "mi": 65.5700368643112,
+    "rank": "A"
+  },
+  "lightrag/table_markup.py": {
+    "mi": 64.12121440153516,
+    "rank": "A"
+  },
+  "lightrag/llm_roles.py": {
+    "mi": 39.11369976772632,
+    "rank": "A"
+  },
+  "lightrag/_version.py": {
+    "mi": 100.0,
+    "rank": "A"
+  },
+  "lightrag/lightrag.py": {
+    "mi": 0.0,
+    "rank": "C"
+  },
+  "lightrag/query_validation.py": {
+    "mi": 69.94562392312372,
+    "rank": "A"
+  },
+  "lightrag/constants.py": {
+    "mi": 35.418690417547054,
+    "rank": "A"
+  },
+  "lightrag/__init__.py": {
+    "mi": 68.01417779800212,
+    "rank": "A"
+  },
+  "lightrag/types.py": {
+    "mi": 100.0,
+    "rank": "A"
+  },
+  "lightrag/operate.py": {
+    "mi": 0.0,
+    "rank": "C"
+  },
+  "lightrag/utils.py": {
+    "mi": 0.0,
+    "rank": "C"
+  },
+  "lightrag/pipeline.py": {
+    "mi": 0.0,
+    "rank": "C"
+  },
+  "lightrag/storage_migrations.py": {
+    "mi": 46.37542896495877,
+    "rank": "A"
+  },
+  "lightrag/exceptions.py": {
+    "mi": 45.477911081733666,
+    "rank": "A"
+  },
+  "lightrag/multimodal_context.py": {
+    "mi": 23.6364298187973,
+    "rank": "A"
+  },
+  "lightrag/utils_graph.py": {
+    "mi": 0.0,
+    "rank": "C"
+  },
+  "lightrag/prompt.py": {
+    "mi": 44.915932059678866,
+    "rank": "A"
+  },
+  "lightrag/utils_pipeline.py": {
+    "mi": 23.032196737866748,
+    "rank": "A"
+  },
+  "lightrag/namespace.py": {
+    "mi": 100.0,
+    "rank": "A"
+  },
+  "lightrag/chunk_schema.py": {
+    "mi": 55.04596862140683,
+    "rank": "A"
+  },
+  "lightrag/base.py": {
+    "mi": 7.514796058188716,
+    "rank": "C"
+  },
+  "lightrag/prompt_multimodal.py": {
+    "mi": 85.42750502853588,
+    "rank": "A"
+  },
+  "lightrag/tools/hash_password.py": {
+    "mi": 60.581493588788554,
+    "rank": "A"
+  },
+  "lightrag/tools/clean_llm_query_cache.py": {
+    "mi": 11.366009908181914,
+    "rank": "B"
+  },
+  "lightrag/tools/__init__.py": {
+    "mi": 100.0,
+    "rank": "A"
+  },
+  "lightrag/tools/kg_integrity_repair.py": {
+    "mi": 52.31539362062239,
+    "rank": "A"
+  },
+  "lightrag/tools/download_cache.py": {
+    "mi": 51.43072117983896,
+    "rank": "A"
+  },
+  "lightrag/tools/source_conflict_repair.py": {
+    "mi": 50.862906727460064,
+    "rank": "A"
+  },
+  "lightrag/tools/chunk_tracking_repair.py": {
+    "mi": 2.667485702948799,
+    "rank": "C"
+  },
+  "lightrag/tools/rebuild_vdb.py": {
+    "mi": 16.738499575508925,
+    "rank": "B"
+  },
+  "lightrag/tools/check_initialization.py": {
+    "mi": 64.92650487321987,
+    "rank": "A"
+  },
+  "lightrag/tools/migrate_llm_cache.py": {
+    "mi": 7.962943153649218,
+    "rank": "C"
+  },
+  "lightrag/tools/migrate_graph_storage.py": {
+    "mi": 30.817217670653797,
+    "rank": "A"
+  },
+  "lightrag/llm/nvidia_openai.py": {
+    "mi": 81.32850797432376,
+    "rank": "A"
+  },
+  "lightrag/llm/_error_utils.py": {
+    "mi": 83.34517567274602,
+    "rank": "A"
+  },
+  "lightrag/llm/lmdeploy.py": {
+    "mi": 72.14142734202537,
+    "rank": "A"
+  },
+  "lightrag/llm/zhipu.py": {
+    "mi": 60.2548995532239,
+    "rank": "A"
+  },
+  "lightrag/llm/jina.py": {
+    "mi": 67.53757550757504,
+    "rank": "A"
+  },
+  "lightrag/llm/__init__.py": {
+    "mi": 100.0,
+    "rank": "A"
+  },
+  "lightrag/llm/voyageai.py": {
+    "mi": 73.97816796375851,
+    "rank": "A"
+  },
+  "lightrag/llm/gemini.py": {
+    "mi": 37.026743862512596,
+    "rank": "A"
+  },
+  "lightrag/llm/_vision_utils.py": {
+    "mi": 46.62762317251937,
+    "rank": "A"
+  },
+  "lightrag/llm/binding_options.py": {
+    "mi": 37.58191302615279,
+    "rank": "A"
+  },
+  "lightrag/llm/lollms.py": {
+    "mi": 67.44651735168358,
+    "rank": "A"
+  },
+  "lightrag/llm/openai.py": {
+    "mi": 28.81138337170975,
+    "rank": "A"
+  },
+  "lightrag/llm/azure_openai.py": {
+    "mi": 100.0,
+    "rank": "A"
+  },
+  "lightrag/llm/anthropic.py": {
+    "mi": 46.95189249739257,
+    "rank": "A"
+  },
+  "lightrag/llm/llama_index_impl.py": {
+    "mi": 66.58713601148517,
+    "rank": "A"
+  },
+  "lightrag/llm/ollama.py": {
+    "mi": 46.1715930499939,
+    "rank": "A"
+  },
+  "lightrag/llm/bedrock.py": {
+    "mi": 40.06664918207618,
+    "rank": "A"
+  },
+  "lightrag/llm/hf.py": {
+    "mi": 56.746589707159735,
+    "rank": "A"
+  },
+  "lightrag/llm/deprecated/siliconcloud.py": {
+    "mi": 61.152973035510044,
+    "rank": "A"
+  },
+  "lightrag/parser/plugins.py": {
+    "mi": 88.03886803119605,
+    "rank": "A"
+  },
+  "lightrag/parser/param_schema.py": {
+    "mi": 35.6564713294591,
+    "rank": "A"
+  },
+  "lightrag/parser/native_dispatch.py": {
+    "mi": 82.77889864751707,
+    "rank": "A"
+  },
+  "lightrag/parser/registry.py": {
+    "mi": 60.759847916687875,
+    "rank": "A"
+  },
+  "lightrag/parser/_html_table.py": {
+    "mi": 51.60322965772778,
+    "rank": "A"
+  },
+  "lightrag/parser/__init__.py": {
+    "mi": 100.0,
+    "rank": "A"
+  },
+  "lightrag/parser/llm_bridge.py": {
+    "mi": 80.73816855510044,
+    "rank": "A"
+  },
+  "lightrag/parser/cli.py": {
+    "mi": 54.85853154211322,
+    "rank": "A"
+  },
+  "lightrag/parser/_markdown.py": {
+    "mi": 64.23343183772494,
+    "rank": "A"
+  },
+  "lightrag/parser/routing.py": {
+    "mi": 14.35363660818971,
+    "rank": "B"
+  },
+  "lightrag/parser/debug.py": {
+    "mi": 83.06849706365284,
+    "rank": "A"
+  },
+  "lightrag/parser/noop.py": {
+    "mi": 95.78596586047244,
+    "rank": "A"
+  },
+  "lightrag/parser/native_base.py": {
+    "mi": 58.9691097933765,
+    "rank": "A"
+  },
+  "lightrag/parser/exceptions.py": {
+    "mi": 92.25372496561022,
+    "rank": "A"
+  },
+  "lightrag/parser/base.py": {
+    "mi": 71.43308893584863,
+    "rank": "A"
+  },
+  "lightrag/parser/markdown/ir_builder.py": {
+    "mi": 51.63939735639236,
+    "rank": "A"
+  },
+  "lightrag/parser/markdown/__init__.py": {
+    "mi": 100.0,
+    "rank": "A"
+  },
+  "lightrag/parser/markdown/parser.py": {
+    "mi": 9.367318052698009,
+    "rank": "B"
+  },
+  "lightrag/parser/markdown/raw_cache.py": {
+    "mi": 56.70851049448615,
+    "rank": "A"
+  },
+  "lightrag/parser/markdown/extract.py": {
+    "mi": 35.708355142454515,
+    "rank": "A"
+  },
+  "lightrag/parser/legacy/extractors.py": {
+    "mi": 56.339716046748066,
+    "rank": "A"
+  },
+  "lightrag/parser/legacy/__init__.py": {
+    "mi": 100.0,
+    "rank": "A"
+  },
+  "lightrag/parser/legacy/parser.py": {
+    "mi": 80.28550827000193,
+    "rank": "A"
+  },
+  "lightrag/parser/external/_manifest.py": {
+    "mi": 58.85310683053953,
+    "rank": "A"
+  },
+  "lightrag/parser/external/_base.py": {
+    "mi": 72.58530449958961,
+    "rank": "A"
+  },
+  "lightrag/parser/external/_zip.py": {
+    "mi": 80.01419286006741,
+    "rank": "A"
+  },
+  "lightrag/parser/external/_common.py": {
+    "mi": 57.43906810028953,
+    "rank": "A"
+  },
+  "lightrag/parser/external/__init__.py": {
+    "mi": 100.0,
+    "rank": "A"
+  },
+  "lightrag/parser/external/docling/ir_builder.py": {
+    "mi": 10.192826262356238,
+    "rank": "B"
+  },
+  "lightrag/parser/external/docling/manifest.py": {
+    "mi": 72.56253759102029,
+    "rank": "A"
+  },
+  "lightrag/parser/external/docling/client.py": {
+    "mi": 48.10636886195476,
+    "rank": "A"
+  },
+  "lightrag/parser/external/docling/cache.py": {
+    "mi": 65.01490375684754,
+    "rank": "A"
+  },
+  "lightrag/parser/external/docling/__init__.py": {
+    "mi": 100.0,
+    "rank": "A"
+  },
+  "lightrag/parser/external/docling/parser.py": {
+    "mi": 81.51568904544683,
+    "rank": "A"
+  },
+  "lightrag/parser/external/mineru/ir_builder.py": {
+    "mi": 24.875841844243553,
+    "rank": "A"
+  },
+  "lightrag/parser/external/mineru/manifest.py": {
+    "mi": 59.911295437274894,
+    "rank": "A"
+  },
+  "lightrag/parser/external/mineru/client.py": {
+    "mi": 26.860742632395148,
+    "rank": "A"
+  },
+  "lightrag/parser/external/mineru/cache.py": {
+    "mi": 42.94644831356748,
+    "rank": "A"
+  },
+  "lightrag/parser/external/mineru/__init__.py": {
+    "mi": 100.0,
+    "rank": "A"
+  },
+  "lightrag/parser/external/mineru/parser.py": {
+    "mi": 100.0,
+    "rank": "A"
+  },
+  "lightrag/parser/docx/ir_builder.py": {
+    "mi": 52.0026814464405,
+    "rank": "A"
+  },
+  "lightrag/parser/docx/__init__.py": {
+    "mi": 100.0,
+    "rank": "A"
+  },
+  "lightrag/parser/docx/zip_budget.py": {
+    "mi": 67.6981507440496,
+    "rank": "A"
+  },
+  "lightrag/parser/docx/parser.py": {
+    "mi": 70.39776373268158,
+    "rank": "A"
+  },
+  "lightrag/parser/docx/numbering_resolver.py": {
+    "mi": 31.737343120804784,
+    "rank": "A"
+  },
+  "lightrag/parser/docx/parse_document.py": {
+    "mi": 18.23769365204433,
+    "rank": "B"
+  },
+  "lightrag/parser/docx/drawing_image_extractor.py": {
+    "mi": 27.102833884715963,
+    "rank": "A"
+  },
+  "lightrag/parser/docx/utils.py": {
+    "mi": 41.18465100659807,
+    "rank": "A"
+  },
+  "lightrag/parser/docx/table_extractor.py": {
+    "mi": 47.452534389793485,
+    "rank": "A"
+  },
+  "lightrag/parser/docx/smart_heading/__init__.py": {
+    "mi": 100.0,
+    "rank": "A"
+  },
+  "lightrag/parser/docx/smart_heading/features.py": {
+    "mi": 35.69141521614148,
+    "rank": "A"
+  },
+  "lightrag/parser/docx/smart_heading/heading_flow.py": {
+    "mi": 0.0,
+    "rank": "C"
+  },
+  "lightrag/parser/docx/smart_heading/nlp.py": {
+    "mi": 64.03198879333839,
+    "rank": "A"
+  },
+  "lightrag/parser/docx/smart_heading/guardrails.py": {
+    "mi": 18.408845358250044,
+    "rank": "B"
+  },
+  "lightrag/parser/docx/smart_heading/title_block.py": {
+    "mi": 5.536544735578209,
+    "rank": "C"
+  },
+  "lightrag/parser/docx/smart_heading/style_key.py": {
+    "mi": 38.42999015888645,
+    "rank": "A"
+  },
+  "lightrag/parser/docx/omml/__init__.py": {
+    "mi": 100.0,
+    "rank": "A"
+  },
+  "lightrag/parser/docx/omml/utils.py": {
+    "mi": 89.43995560731588,
+    "rank": "A"
+  },
+  "lightrag/parser/docx/omml/ommlparser.py": {
+    "mi": 18.895284871311436,
+    "rank": "B"
+  },
+  "lightrag/parser/docx/omml/cleaners.py": {
+    "mi": 100.0,
+    "rank": "A"
+  },
+  "lightrag/kg/qdrant_impl.py": {
+    "mi": 13.596523511316242,
+    "rank": "B"
+  },
+  "lightrag/kg/networkx_impl.py": {
+    "mi": 18.42018742391521,
+    "rank": "B"
+  },
+  "lightrag/kg/pgtable_impl.py": {
+    "mi": 25.411283279625618,
+    "rank": "A"
+  },
+  "lightrag/kg/mongo_impl.py": {
+    "mi": 0.0,
+    "rank": "C"
+  },
+  "lightrag/kg/postgres_impl.py": {
+    "mi": 0.0,
+    "rank": "C"
+  },
+  "lightrag/kg/faiss_impl.py": {
+    "mi": 7.968017799156606,
+    "rank": "C"
+  },
+  "lightrag/kg/pipeline_ingress.py": {
+    "mi": 31.118595660030156,
+    "rank": "A"
+  },
+  "lightrag/kg/noop_vector_db_impl.py": {
+    "mi": 78.67885608239625,
+    "rank": "A"
+  },
+  "lightrag/kg/file_fingerprint.py": {
+    "mi": 33.146577662930184,
+    "rank": "A"
+  },
+  "lightrag/kg/__init__.py": {
+    "mi": 85.8135432132899,
+    "rank": "A"
+  },
+  "lightrag/kg/factory.py": {
+    "mi": 88.67631226441588,
+    "rank": "A"
+  },
+  "lightrag/kg/shared_storage.py": {
+    "mi": 0.0,
+    "rank": "C"
+  },
+  "lightrag/kg/opensearch_impl.py": {
+    "mi": 0.0,
+    "rank": "C"
+  },
+  "lightrag/kg/scan_job_store.py": {
+    "mi": 35.786700822642075,
+    "rank": "A"
+  },
+  "lightrag/kg/milvus_impl.py": {
+    "mi": 0.0,
+    "rank": "C"
+  },
+  "lightrag/kg/write_seq.py": {
+    "mi": 28.877303482825457,
+    "rank": "A"
+  },
+  "lightrag/kg/nano_vector_db_impl.py": {
+    "mi": 17.700326398552622,
+    "rank": "B"
+  },
+  "lightrag/kg/memgraph_impl.py": {
+    "mi": 13.99103201255739,
+    "rank": "B"
+  },
+  "lightrag/kg/json_kv_impl.py": {
+    "mi": 51.238046811352845,
+    "rank": "A"
+  },
+  "lightrag/kg/json_doc_status_impl.py": {
+    "mi": 17.693989212660437,
+    "rank": "B"
+  },
+  "lightrag/kg/neo4j_impl.py": {
+    "mi": 10.666659700184509,
+    "rank": "B"
+  },
+  "lightrag/kg/redis_impl.py": {
+    "mi": 0.0,
+    "rank": "C"
+  },
+  "lightrag/kg/vector_space.py": {
+    "mi": 69.08894996817399,
+    "rank": "A"
+  },
+  "lightrag/kg/deprecated/chroma_impl.py": {
+    "mi": 52.86974020690966,
+    "rank": "A"
+  },
+  "lightrag/api/auth.py": {
+    "mi": 63.147424718986464,
+    "rank": "A"
+  },
+  "lightrag/api/config.py": {
+    "mi": 32.20270412064404,
+    "rank": "A"
+  },
+  "lightrag/api/input_limits.py": {
+    "mi": 94.91128835650849,
+    "rank": "A"
+  },
+  "lightrag/api/ui_customization.py": {
+    "mi": 22.83986549482342,
+    "rank": "A"
+  },
+  "lightrag/api/utils_api.py": {
+    "mi": 39.876575922325024,
+    "rank": "A"
+  },
+  "lightrag/api/asgi_helpers.py": {
+    "mi": 76.18578895337582,
+    "rank": "A"
+  },
+  "lightrag/api/admission_middleware.py": {
+    "mi": 72.18330765924877,
+    "rank": "A"
+  },
+  "lightrag/api/__init__.py": {
+    "mi": 100.0,
+    "rank": "A"
+  },
+  "lightrag/api/gunicorn_worker.py": {
+    "mi": 83.6616073323304,
+    "rank": "A"
+  },
+  "lightrag/api/gunicorn_config.py": {
+    "mi": 73.12986004576253,
+    "rank": "A"
+  },
+  "lightrag/api/run_with_gunicorn.py": {
+    "mi": 55.324980825836136,
+    "rank": "A"
+  },
+  "lightrag/api/admission.py": {
+    "mi": 77.10973911490932,
+    "rank": "A"
+  },
+  "lightrag/api/passwords.py": {
+    "mi": 91.95631905889336,
+    "rank": "A"
+  },
+  "lightrag/api/body_limit_middleware.py": {
+    "mi": 69.05848922035746,
+    "rank": "A"
+  },
+  "lightrag/api/runtime_validation.py": {
+    "mi": 41.89349339063947,
+    "rank": "A"
+  },
+  "lightrag/api/lightrag_server.py": {
+    "mi": 9.03386970651567,
+    "rank": "B"
+  },
+  "lightrag/api/login_rate_limit.py": {
+    "mi": 57.36605209406064,
+    "rank": "A"
+  },
+  "lightrag/api/routers/ui_customization_routes.py": {
+    "mi": 78.08041783932968,
+    "rank": "A"
+  },
+  "lightrag/api/routers/ollama_api.py": {
+    "mi": 39.26317687541151,
+    "rank": "A"
+  },
+  "lightrag/api/routers/graph_routes.py": {
+    "mi": 56.71402389531771,
+    "rank": "A"
+  },
+  "lightrag/api/routers/__init__.py": {
+    "mi": 100.0,
+    "rank": "A"
+  },
+  "lightrag/api/routers/query_routes.py": {
+    "mi": 52.23763601449723,
+    "rank": "A"
+  },
+  "lightrag/api/routers/document_routes.py": {
+    "mi": 0.0,
+    "rank": "C"
+  },
+  "lightrag/evaluation/eval_rag_quality.py": {
+    "mi": 37.86293184454995,
+    "rank": "A"
+  },
+  "lightrag/evaluation/__init__.py": {
+    "mi": 88.44196419350052,
+    "rank": "A"
+  },
+  "lightrag/evaluation/offline_retrieval_check.py": {
+    "mi": 36.11060144105857,
+    "rank": "A"
+  },
+  "lightrag/sidecar/__init__.py": {
+    "mi": 100.0,
+    "rank": "A"
+  },
+  "lightrag/sidecar/ir.py": {
+    "mi": 56.44814856929501,
+    "rank": "A"
+  },
+  "lightrag/sidecar/backfill.py": {
+    "mi": 59.62518639976828,
+    "rank": "A"
+  },
+  "lightrag/sidecar/writer.py": {
+    "mi": 40.908746459015745,
+    "rank": "A"
+  },
+  "lightrag/sidecar/placeholders.py": {
+    "mi": 82.29202569862363,
+    "rank": "A"
+  },
+  "lightrag/chunker/plugins.py": {
+    "mi": 100.0,
+    "rank": "A"
+  },
+  "lightrag/chunker/registry.py": {
+    "mi": 45.44108075329746,
+    "rank": "A"
+  },
+  "lightrag/chunker/semantic_vector.py": {
+    "mi": 45.46996101034452,
+    "rank": "A"
+  },
+  "lightrag/chunker/__init__.py": {
+    "mi": 89.85741503152313,
+    "rank": "A"
+  },
+  "lightrag/chunker/token_size.py": {
+    "mi": 59.1641813047392,
+    "rank": "A"
+  },
+  "lightrag/chunker/paragraph_semantic.py": {
+    "mi": 0.0,
+    "rank": "C"
+  },
+  "lightrag/chunker/recursive_character.py": {
+    "mi": 38.928706332317645,
+    "rank": "A"
+  },
+  "tests/test_cosine_threshold_env.py": {
+    "mi": 100.0,
+    "rank": "A"
+  },
+  "tests/conftest.py": {
+    "mi": 62.73590184891875,
+    "rank": "A"
+  },
+  "tests/test_cosine_similarity.py": {
+    "mi": 59.36223771573737,
+    "rank": "A"
+  },
+  "tests/test_queryparam_empty_int_env.py": {
+    "mi": 99.7234212229889,
+    "rank": "A"
+  },
+  "tests/test_create_prefixed_exception.py": {
+    "mi": 82.48482524696642,
+    "rank": "A"
+  },
+  "tests/test_doc_processing_status_from_stored.py": {
+    "mi": 77.26267103316387,
+    "rank": "A"
+  },
+  "tests/test_kg_vector_chunk_quota.py": {
+    "mi": 63.36762634034212,
+    "rank": "A"
+  },
+  "tests/test_parse_optional_float.py": {
+    "mi": 63.42863905278425,
+    "rank": "A"
+  },
+  "tests/test_operate_vector_context.py": {
+    "mi": 82.54005158919861,
+    "rank": "A"
+  },
+  "tests/test_strip_control_characters.py": {
+    "mi": 82.69692937989181,
+    "rank": "A"
+  },
+  "tests/__init__.py": {
+    "mi": 100.0,
+    "rank": "A"
+  },
+  "tests/test_cosine_similarity_nonfinite.py": {
+    "mi": 67.28666784000676,
+    "rank": "A"
+  },
+  "tests/test_rerank_null_chunk_index_score.py": {
+    "mi": 87.54561383390688,
+    "rank": "A"
+  },
+  "tests/test_get_env_value_nonfinite.py": {
+    "mi": 63.24025303832485,
+    "rank": "A"
+  },
+  "tests/test_dataclass_positional_compatibility.py": {
+    "mi": 69.87081175915915,
+    "rank": "A"
+  },
+  "tests/test_sync_wrapper_guard.py": {
+    "mi": 69.0212319585805,
+    "rank": "A"
+  },
+  "tests/_env_import_probe.py": {
+    "mi": 85.39418446672865,
+    "rank": "A"
+  },
+  "tests/test_aclear_cache_contract.py": {
+    "mi": 76.04419720897204,
+    "rank": "A"
+  },
+  "tests/test_lightrag_query_validation.py": {
+    "mi": 100.0,
+    "rank": "A"
+  },
+  "tests/test_query_validation.py": {
+    "mi": 61.66072628909198,
+    "rank": "A"
+  },
+  "tests/test_operate_entity_chunk_selection.py": {
+    "mi": 64.39697378405175,
+    "rank": "A"
+  },
+  "tests/test_operate_truncation_order.py": {
+    "mi": 51.591600107137445,
+    "rank": "A"
+  },
+  "tests/test_split_text_by_token_limit.py": {
+    "mi": 55.15585556142047,
+    "rank": "A"
+  },
+  "tests/test_storage_migrations_strict_read.py": {
+    "mi": 71.22294163914185,
+    "rank": "A"
+  },
+  "tests/test_addon_params.py": {
+    "mi": 64.99531744582954,
+    "rank": "A"
+  },
+  "tests/test_weighted_polling_nonpositive_max.py": {
+    "mi": 78.86068498093931,
+    "rank": "A"
+  },
+  "tests/test_user_prompt_prefix_env.py": {
+    "mi": 56.165320409751544,
+    "rank": "A"
+  },
+  "tests/test_get_env_value_padded_bool.py": {
+    "mi": 69.4527506598751,
+    "rank": "A"
+  },
+  "tests/test_empty_int_env_field_defaults.py": {
+    "mi": 98.09192432700041,
+    "rank": "A"
+  },
+  "tests/test_docstring_budget.py": {
+    "mi": 57.7534229423852,
+    "rank": "A"
+  },
+  "tests/pipeline/test_chunking_snapshot_replay.py": {
+    "mi": 65.43961785169184,
+    "rank": "A"
+  },
+  "tests/pipeline/test_pipeline_failed_retry_semantics.py": {
+    "mi": 51.31838565322862,
+    "rank": "A"
+  },
+  "tests/pipeline/test_pipeline_internal_abort.py": {
+    "mi": 46.14303938576513,
+    "rank": "A"
+  },
+  "tests/pipeline/test_bounded_scheduling.py": {
+    "mi": 59.56074945916484,
+    "rank": "A"
+  },
+  "tests/pipeline/test_document_file_path_normalization.py": {
+    "mi": 37.13528666951804,
+    "rank": "A"
+  },
+  "tests/pipeline/test_custom_chunk_patch.py": {
+    "mi": 29.224347112409593,
+    "rank": "A"
+  },
+  "tests/pipeline/test_duplicate_track_id_retrieval.py": {
+    "mi": 68.81470996138809,
+    "rank": "A"
+  },
+  "tests/pipeline/test_insert_done_error_handling.py": {
+    "mi": 13.25082969725882,
+    "rank": "B"
+  },
+  "tests/pipeline/conftest.py": {
+    "mi": 100.0,
+    "rank": "A"
+  },
+  "tests/pipeline/test_scheduler_memory_bounded_e2e.py": {
+    "mi": 28.001776172767986,
+    "rank": "A"
+  },
+  "tests/pipeline/test_parse_warnings_split_persist.py": {
+    "mi": 65.22524680715703,
+    "rank": "A"
+  },
+  "tests/pipeline/test_tolerant_load_json_dict.py": {
+    "mi": 59.86460535908989,
+    "rank": "A"
+  },
+  "tests/pipeline/test_graph_keyed_locks.py": {
+    "mi": 35.19542015716829,
+    "rank": "A"
+  },
+  "tests/pipeline/test_custom_chunk_rollback.py": {
+    "mi": 23.584114560292374,
+    "rank": "A"
+  },
+  "tests/pipeline/test_chunking_func_contract.py": {
+    "mi": 66.63942178213452,
+    "rank": "A"
+  },
+  "tests/pipeline/test_enqueue_basename_strict.py": {
+    "mi": 52.12716779054522,
+    "rank": "A"
+  },
+  "tests/pipeline/test_pipeline_ingress_exit.py": {
+    "mi": 28.915947748014812,
+    "rank": "A"
+  },
+  "tests/pipeline/test_empty_chunks_document.py": {
+    "mi": 66.1988766417651,
+    "rank": "A"
+  },
+  "tests/pipeline/test_enqueue_smart_heading_seed.py": {
+    "mi": 70.51495598683904,
+    "rank": "A"
+  },
+  "tests/pipeline/test_enqueue_ingress_exclusion.py": {
+    "mi": 57.66138864787158,
+    "rank": "A"
+  },
+  "tests/pipeline/test_demotion_survives_the_pipeline.py": {
+    "mi": 62.24050717107498,
+    "rank": "A"
+  },
+  "tests/pipeline/test_admin_write_gate.py": {
+    "mi": 18.731169996078336,
+    "rank": "B"
+  },
+  "tests/pipeline/test_content_hash_normalization.py": {
+    "mi": 80.80237899132045,
+    "rank": "A"
+  },
+  "tests/pipeline/test_graph_deletion_tracking_ordering.py": {
+    "mi": 0.0,
+    "rank": "C"
+  },
+  "tests/pipeline/test_admission_capacity.py": {
+    "mi": 53.54939094931822,
+    "rank": "A"
+  },
+  "tests/pipeline/test_content_hash_dedup.py": {
+    "mi": 56.00256086396576,
+    "rank": "A"
+  },
+  "tests/pipeline/__init__.py": {
+    "mi": 100.0,
+    "rank": "A"
+  },
+  "tests/pipeline/test_strict_capability_gate.py": {
+    "mi": 71.98730031436463,
+    "rank": "A"
+  },
+  "tests/pipeline/test_processed_after_flush.py": {
+    "mi": 63.74131139390035,
+    "rank": "A"
+  },
+  "tests/pipeline/test_pipeline_content_reread.py": {
+    "mi": 40.52440807255629,
+    "rank": "A"
+  },
+  "tests/pipeline/test_delete_fail_closed.py": {
+    "mi": 23.05020553497598,
+    "rank": "A"
+  },
+  "tests/pipeline/test_pipeline_cancellation.py": {
+    "mi": 39.02726729462233,
+    "rank": "A"
+  },
+  "tests/pipeline/test_multimodal_path_containment.py": {
+    "mi": 59.9875973922787,
+    "rank": "A"
+  },
+  "tests/pipeline/test_manual_drain_progress.py": {
+    "mi": 47.97192369677582,
+    "rank": "A"
+  },
+  "tests/pipeline/test_custom_kg_self_loop_rejection.py": {
+    "mi": 100.0,
+    "rank": "A"
+  },
+  "tests/pipeline/test_custom_chunking_selector.py": {
+    "mi": 28.303306385694082,
+    "rank": "A"
+  },
+  "tests/pipeline/test_multimodal_content_truncation.py": {
+    "mi": 35.615617779800246,
+    "rank": "A"
+  },
+  "tests/pipeline/test_persist_parsed_control_chars.py": {
+    "mi": 78.75678709367085,
+    "rank": "A"
+  },
+  "tests/pipeline/test_cache_reference_flush_order.py": {
+    "mi": 46.6800912594212,
+    "rank": "A"
+  },
+  "tests/pipeline/test_pipeline_ingress_feed.py": {
+    "mi": 51.794771193063205,
+    "rank": "A"
+  },
+  "tests/pipeline/test_embedding_chunk_overlap_config.py": {
+    "mi": 73.0577531043511,
+    "rank": "A"
+  },
+  "tests/pipeline/test_graph_merge_rename_tracking_order.py": {
+    "mi": 26.1044537438534,
+    "rank": "A"
+  },
+  "tests/pipeline/test_chunking_executor_bounds.py": {
+    "mi": 65.35494551188457,
+    "rank": "A"
+  },
+  "tests/pipeline/test_parse_engine_early_persist.py": {
+    "mi": 60.7723180760399,
+    "rank": "A"
+  },
+  "tests/pipeline/test_vlm_empty_int_env.py": {
+    "mi": 57.217074152601796,
+    "rank": "A"
+  },
+  "tests/pipeline/test_scheduler_memory_bounded.py": {
+    "mi": 57.93033922426632,
+    "rank": "A"
+  },
+  "tests/pipeline/test_fault_injection_matrix.py": {
+    "mi": 44.6665988452175,
+    "rank": "A"
+  },
+  "tests/pipeline/test_pipeline_metrics.py": {
+    "mi": 62.991813979085116,
+    "rank": "A"
+  },
+  "tests/pipeline/test_purge_primitive.py": {
+    "mi": 25.224486463154296,
+    "rank": "A"
+  },
+  "tests/pipeline/test_pipeline_orchestrator_get_by_id_failure.py": {
+    "mi": 61.99993568636185,
+    "rank": "A"
+  },
+  "tests/pipeline/test_manual_exclusive_reset.py": {
+    "mi": 41.608592627772836,
+    "rank": "A"
+  },
+  "tests/pipeline/test_validator_strict_content_probe.py": {
+    "mi": 63.446309336498615,
+    "rank": "A"
+  },
+  "tests/pipeline/test_multimodal_surrounding_context.py": {
+    "mi": 26.989833682680935,
+    "rank": "A"
+  },
+  "tests/pipeline/test_pipeline_analyze_multimodal.py": {
+    "mi": 3.703350913284838,
+    "rank": "C"
+  },
+  "tests/pipeline/test_chunk_options_regex_scrub.py": {
+    "mi": 62.016231639382255,
+    "rank": "A"
+  },
+  "tests/pipeline/test_parse_worker_content_sanitized.py": {
+    "mi": 72.0332325504385,
+    "rank": "A"
+  },
+  "tests/pipeline/test_pipeline_release_closure.py": {
+    "mi": 7.111673774669327,
+    "rank": "C"
+  },
+  "tests/pipeline/test_doc_status_chunk_preservation.py": {
+    "mi": 0.0,
+    "rank": "C"
+  },
+  "tests/pipeline/test_purge_fail_closed.py": {
+    "mi": 31.819255741805264,
+    "rank": "A"
+  },
+  "tests/pipeline/test_graph_deletion_tracking.py": {
+    "mi": 24.504769792878214,
+    "rank": "A"
+  },
+  "tests/pipeline/test_chunking_off_event_loop.py": {
+    "mi": 54.71579027217961,
+    "rank": "A"
+  },
+  "tests/pipeline/test_manual_drain_enqueue_stall_fence.py": {
+    "mi": 51.921583214042165,
+    "rank": "A"
+  },
+  "tests/pipeline/test_doc_status_reset_metadata.py": {
+    "mi": 42.98270348971902,
+    "rank": "A"
+  },
+  "tests/pipeline/test_enqueue_created_at.py": {
+    "mi": 62.416915576163376,
+    "rank": "A"
+  },
+  "tests/pipeline/test_truncation_doc_status_metadata.py": {
+    "mi": 64.14341931073983,
+    "rank": "A"
+  },
+  "tests/pipeline/test_parse_failure_doc_status_fields.py": {
+    "mi": 41.899088082868,
+    "rank": "A"
+  },
+  "tests/tools/conftest.py": {
+    "mi": 100.0,
+    "rank": "A"
+  },
+  "tests/tools/test_migrate_graph_storage.py": {
+    "mi": 0.0,
+    "rank": "C"
+  },
+  "tests/tools/test_chunk_tracking_repair.py": {
+    "mi": 3.4955152482456286,
+    "rank": "C"
+  },
+  "tests/tools/__init__.py": {
+    "mi": 100.0,
+    "rank": "A"
+  },
+  "tests/tools/test_migrate_llm_cache.py": {
+    "mi": 56.50096313584157,
+    "rank": "A"
+  },
+  "tests/tools/test_migrate_graph_storage_networkx.py": {
+    "mi": 58.21479062011578,
+    "rank": "A"
+  },
+  "tests/tools/test_clean_llm_query_cache_modes.py": {
+    "mi": 87.62107805376583,
+    "rank": "A"
+  },
+  "tests/tools/test_rebuild_vdb.py": {
+    "mi": 18.52105598676449,
+    "rank": "B"
+  },
+  "tests/tools/test_source_conflict_repair_cli.py": {
+    "mi": 39.62979426095491,
+    "rank": "A"
+  },
+  "tests/llm/test_asymmetric_embedding.py": {
+    "mi": 48.01303475125272,
+    "rank": "A"
+  },
+  "tests/llm/test_vlm_cache_key.py": {
+    "mi": 56.51163751471552,
+    "rank": "A"
+  },
+  "tests/llm/test_query_truncated_response_not_cached.py": {
+    "mi": 62.016780709983585,
+    "rank": "A"
+  },
+  "tests/llm/test_batch_embeddings.py": {
+    "mi": 48.93685523380319,
+    "rank": "A"
+  },
+  "tests/llm/test_bypass_truncated_response.py": {
+    "mi": 69.05434873553364,
+    "rank": "A"
+  },
+  "tests/llm/test_runtime_target_validation.py": {
+    "mi": 42.380517254369565,
+    "rank": "A"
+  },
+  "tests/llm/test_process_chunks_unified_two_stage_truncation.py": {
+    "mi": 68.67625291157654,
+    "rank": "A"
+  },
+  "tests/llm/test_query_cache_conversation_history.py": {
+    "mi": 43.32480290389538,
+    "rank": "A"
+  },
+  "tests/llm/test_llm_cache_identity.py": {
+    "mi": 50.30255597524871,
+    "rank": "A"
+  },
+  "tests/llm/test_llm_binding_image_payload.py": {
+    "mi": 43.432845977772494,
+    "rank": "A"
+  },
+  "tests/llm/test_llm_role_runtime.py": {
+    "mi": 3.5934324743593766,
+    "rank": "C"
+  },
+  "tests/llm/test_token_executor.py": {
+    "mi": 64.58387185702695,
+    "rank": "A"
+  },
+  "tests/llm/__init__.py": {
+    "mi": 100.0,
+    "rank": "A"
+  },
+  "tests/llm/test_provider_install_guards.py": {
+    "mi": 61.774341647995975,
+    "rank": "A"
+  },
+  "tests/llm/test_vlm_image_inputs.py": {
+    "mi": 42.91868648588001,
+    "rank": "A"
+  },
+  "tests/llm/test_tokenizer_contract.py": {
+    "mi": 62.13731843157363,
+    "rank": "A"
+  },
+  "tests/llm/test_global_concurrency_queue.py": {
+    "mi": 24.79222987614059,
+    "rank": "A"
+  },
+  "tests/llm/test_vlm_json_escape_repair.py": {
+    "mi": 35.49183792117203,
+    "rank": "A"
+  },
+  "tests/llm/test_tokenizer_split_truncate_contract.py": {
+    "mi": 31.746650769293637,
+    "rank": "A"
+  },
+  "tests/llm/test_query_cache_user_prompt_prefix.py": {
+    "mi": 37.744132255450666,
+    "rank": "A"
+  },
+  "tests/llm/test_remove_think_tags.py": {
+    "mi": 60.658161108977644,
+    "rank": "A"
+  },
+  "tests/llm/test_dimension_mismatch.py": {
+    "mi": 57.173063552352794,
+    "rank": "A"
+  },
+  "tests/llm/test_bounded_submit.py": {
+    "mi": 55.25392764576708,
+    "rank": "A"
+  },
+  "tests/llm/test_no_model_suffix_safety.py": {
+    "mi": 72.89481803199165,
+    "rank": "A"
+  },
+  "tests/llm/test_query_cache_kg_chunk_selection.py": {
+    "mi": 42.61456143430766,
+    "rank": "A"
+  },
+  "tests/llm/test_apply_rerank_result_validation.py": {
+    "mi": 56.233759939788406,
+    "rank": "A"
+  },
+  "tests/llm/test_utils_llm_cache.py": {
+    "mi": 40.69721474561354,
+    "rank": "A"
+  },
+  "tests/llm/lollms_impl/test_lollms_max_tokens.py": {
+    "mi": 44.217535657976235,
+    "rank": "A"
+  },
+  "tests/llm/lollms_impl/__init__.py": {
+    "mi": 100.0,
+    "rank": "A"
+  },
+  "tests/llm/nvidia_impl/__init__.py": {
+    "mi": 100.0,
+    "rank": "A"
+  },
+  "tests/llm/nvidia_impl/test_nvidia_client_cleanup.py": {
+    "mi": 80.86597950465601,
+    "rank": "A"
+  },
+  "tests/llm/nvidia_impl/test_nvidia_input_type_context.py": {
+    "mi": 72.88836715041202,
+    "rank": "A"
+  },
+  "tests/llm/voyageai_impl/__init__.py": {
+    "mi": 100.0,
+    "rank": "A"
+  },
+  "tests/llm/voyageai_impl/test_voyageai_embed.py": {
+    "mi": 53.01797084917819,
+    "rank": "A"
+  },
+  "tests/llm/bedrock_impl/__init__.py": {
+    "mi": 100.0,
+    "rank": "A"
+  },
+  "tests/llm/bedrock_impl/test_bedrock_llm.py": {
+    "mi": 5.900388184685707,
+    "rank": "C"
+  },
+  "tests/llm/bedrock_impl/test_bedrock_token_usage.py": {
+    "mi": 44.5366661814352,
+    "rank": "A"
+  },
+  "tests/llm/gemini_impl/__init__.py": {
+    "mi": 100.0,
+    "rank": "A"
+  },
+  "tests/llm/gemini_impl/test_gemini_llm.py": {
+    "mi": 37.78873637110417,
+    "rank": "A"
+  },
+  "tests/llm/ollama_impl/test_ollama_role_kwargs.py": {
+    "mi": 52.73707924223713,
+    "rank": "A"
+  },
+  "tests/llm/ollama_impl/test_ollama_truncation.py": {
+    "mi": 63.912796139972365,
+    "rank": "A"
+  },
+  "tests/llm/ollama_impl/test_ollama_embed_dimension_forwarding.py": {
+    "mi": 100.0,
+    "rank": "A"
+  },
+  "tests/llm/ollama_impl/__init__.py": {
+    "mi": 100.0,
+    "rank": "A"
+  },
+  "tests/llm/ollama_impl/test_ollama_think_option.py": {
+    "mi": 69.05940551017187,
+    "rank": "A"
+  },
+  "tests/llm/ollama_impl/test_ollama_token_usage.py": {
+    "mi": 57.25028916683165,
+    "rank": "A"
+  },
+  "tests/llm/ollama_impl/test_ollama_max_tokens.py": {
+    "mi": 49.7726960027313,
+    "rank": "A"
+  },
+  "tests/llm/zhipu_impl/__init__.py": {
+    "mi": 100.0,
+    "rank": "A"
+  },
+  "tests/llm/zhipu_impl/test_zhipu_llm.py": {
+    "mi": 34.16486005975153,
+    "rank": "A"
+  },
+  "tests/llm/azure_openai_impl/test_azure_embed_truncation_forwarding.py": {
+    "mi": 65.80114122222092,
+    "rank": "A"
+  },
+  "tests/llm/azure_openai_impl/__init__.py": {
+    "mi": 100.0,
+    "rank": "A"
+  },
+  "tests/llm/hf_impl/test_hf_model_if_cache_device_placement.py": {
+    "mi": 58.18239757515837,
+    "rank": "A"
+  },
+  "tests/llm/hf_impl/conftest.py": {
+    "mi": 82.77587199787011,
+    "rank": "A"
+  },
+  "tests/llm/hf_impl/__init__.py": {
+    "mi": 100.0,
+    "rank": "A"
+  },
+  "tests/llm/hf_impl/test_hf_off_event_loop.py": {
+    "mi": 33.313434259767185,
+    "rank": "A"
+  },
+  "tests/llm/hf_impl/test_hf_embed_masked_pooling.py": {
+    "mi": 54.366613358456405,
+    "rank": "A"
+  },
+  "tests/llm/hf_impl/_fork_probe.py": {
+    "mi": 70.24288890945957,
+    "rank": "A"
+  },
+  "tests/llm/lmdeploy_impl/__init__.py": {
+    "mi": 100.0,
+    "rank": "A"
+  },
+  "tests/llm/lmdeploy_impl/test_lmdeploy_do_sample.py": {
+    "mi": 68.37752796262247,
+    "rank": "A"
+  },
+  "tests/llm/anthropic_impl/test_anthropic_truncation.py": {
+    "mi": 55.174770079510694,
+    "rank": "A"
+  },
+  "tests/llm/anthropic_impl/test_anthropic_token_usage.py": {
+    "mi": 60.42909323520974,
+    "rank": "A"
+  },
+  "tests/llm/anthropic_impl/test_anthropic_client_cleanup.py": {
+    "mi": 57.77029861140722,
+    "rank": "A"
+  },
+  "tests/llm/anthropic_impl/__init__.py": {
+    "mi": 100.0,
+    "rank": "A"
+  },
+  "tests/llm/openai_impl/test_openai_length_finish_reason.py": {
+    "mi": 46.010374067232874,
+    "rank": "A"
+  },
+  "tests/llm/openai_impl/test_openai_permanent_rate_limit.py": {
+    "mi": 55.977103833275564,
+    "rank": "A"
+  },
+  "tests/llm/openai_impl/__init__.py": {
+    "mi": 100.0,
+    "rank": "A"
+  },
+  "tests/llm/openai_impl/test_openai_stream_generatorexit_cot_cleanup.py": {
+    "mi": 70.56161418560936,
+    "rank": "A"
+  },
+  "tests/llm/openai_impl/test_openai_retry_transient.py": {
+    "mi": 75.42580226330722,
+    "rank": "A"
+  },
+  "tests/llm/openai_impl/test_openai_embed_special_token.py": {
+    "mi": 68.34999507337228,
+    "rank": "A"
+  },
+  "tests/llm/jina_impl/test_jina_api_key_isolation.py": {
+    "mi": 62.30262798414255,
+    "rank": "A"
+  },
+  "tests/llm/llama_index_impl/__init__.py": {
+    "mi": 100.0,
+    "rank": "A"
+  },
+  "tests/llm/llama_index_impl/test_llama_index_complete_and_embed.py": {
+    "mi": 72.3955796361819,
+    "rank": "A"
+  },
+  "tests/workspace/test_workspace_sanitization.py": {
+    "mi": 62.39719814333553,
+    "rank": "A"
+  },
+  "tests/workspace/__init__.py": {
+    "mi": 100.0,
+    "rank": "A"
+  },
+  "tests/workspace/test_workspace_path_validation.py": {
+    "mi": 64.79385678928823,
+    "rank": "A"
+  },
+  "tests/workspace/test_workspace_migration_isolation.py": {
+    "mi": 59.6119395324653,
+    "rank": "A"
+  },
+  "tests/workspace/test_workspace_isolation.py": {
+    "mi": 33.85193384544328,
+    "rank": "A"
+  },
+  "tests/setup/test_misc.py": {
+    "mi": 0.0,
+    "rank": "C"
+  },
+  "tests/setup/test_collect.py": {
+    "mi": 2.784224426352538,
+    "rank": "C"
+  },
+  "tests/setup/__init__.py": {
+    "mi": 100.0,
+    "rank": "A"
+  },
+  "tests/setup/test_env.py": {
+    "mi": 0.0,
+    "rank": "C"
+  },
+  "tests/setup/test_generate.py": {
+    "mi": 0.0,
+    "rank": "C"
+  },
+  "tests/setup/test_apple_container.py": {
+    "mi": 55.24505238181961,
+    "rank": "A"
+  },
+  "tests/setup/test_validate.py": {
+    "mi": 14.351694820401404,
+    "rank": "B"
+  },
+  "tests/setup/_helpers.py": {
+    "mi": 58.23914975176667,
+    "rank": "A"
+  },
+  "tests/utils/test_embedding_func_shape_validation.py": {
+    "mi": 61.26794699879952,
+    "rank": "A"
+  },
+  "tests/utils/test_has_chunk_tracking_row.py": {
+    "mi": 97.01439252586738,
+    "rank": "A"
+  },
+  "tests/utils/test_aexport_data_excel.py": {
+    "mi": 58.09290333965681,
+    "rank": "A"
+  },
+  "tests/utils/test_pick_by_vector_similarity.py": {
+    "mi": 65.6158144065913,
+    "rank": "A"
+  },
+  "tests/utils/test_aexport_data_portable_relationships.py": {
+    "mi": 60.2949288578141,
+    "rank": "A"
+  },
+  "tests/utils/test_subtract_source_ids.py": {
+    "mi": 72.56300107532734,
+    "rank": "A"
+  },
+  "tests/utils/test_pick_by_vector_similarity_order.py": {
+    "mi": 55.136313099984456,
+    "rank": "A"
+  },
+  "tests/utils/test_storage_io_offload.py": {
+    "mi": 50.3419210813472,
+    "rank": "A"
+  },
+  "tests/utils/test_graph_attribute_validator.py": {
+    "mi": 55.821943520044336,
+    "rank": "A"
+  },
+  "tests/utils/test_deferred_cancellation_stamp.py": {
+    "mi": 61.98460846062874,
+    "rank": "A"
+  },
+  "tests/utils/test_merge_source_ids.py": {
+    "mi": 72.26450645519022,
+    "rank": "A"
+  },
+  "tests/utils/test_validate_file_path_security.py": {
+    "mi": 64.03510416795817,
+    "rank": "A"
+  },
+  "tests/utils/__init__.py": {
+    "mi": 100.0,
+    "rank": "A"
+  },
+  "tests/utils/test_compute_args_hash.py": {
+    "mi": 73.09014846003973,
+    "rank": "A"
+  },
+  "tests/utils/test_load_json.py": {
+    "mi": 51.95330802067812,
+    "rank": "A"
+  },
+  "tests/utils/test_log_without_raising.py": {
+    "mi": 87.36937853275006,
+    "rank": "A"
+  },
+  "tests/utils/test_safe_log_value.py": {
+    "mi": 89.77912640875185,
+    "rank": "A"
+  },
+  "tests/utils/test_update_chunk_cache_list.py": {
+    "mi": 64.32790837115697,
+    "rank": "A"
+  },
+  "tests/utils/test_normalize_rerank_result.py": {
+    "mi": 70.4175766104521,
+    "rank": "A"
+  },
+  "tests/utils/test_compute_incremental_chunk_ids.py": {
+    "mi": 78.68488076142906,
+    "rank": "A"
+  },
+  "tests/utils/test_resolve_user_prompt.py": {
+    "mi": 65.86082465544845,
+    "rank": "A"
+  },
+  "tests/utils/test_merge_attributes_join_unique_order.py": {
+    "mi": 74.57032750021935,
+    "rank": "A"
+  },
+  "tests/utils/test_truncation_tally.py": {
+    "mi": 47.0399091511762,
+    "rank": "A"
+  },
+  "tests/parser/test_chunk_r_separators_env.py": {
+    "mi": 76.06333003267639,
+    "rank": "A"
+  },
+  "tests/parser/test_registry.py": {
+    "mi": 49.57131191541894,
+    "rank": "A"
+  },
+  "tests/parser/test_plugins.py": {
+    "mi": 60.99553932869215,
+    "rank": "A"
+  },
+  "tests/parser/test_parse_native_lightrag_e2e.py": {
+    "mi": 50.75647064189702,
+    "rank": "A"
+  },
+  "tests/parser/test_engine_params.py": {
+    "mi": 45.26204849361733,
+    "rank": "A"
+  },
+  "tests/parser/test_legacy_extractors.py": {
+    "mi": 60.084258708647624,
+    "rank": "A"
+  },
+  "tests/parser/test_llm_bridge.py": {
+    "mi": 45.09362148168929,
+    "rank": "A"
+  },
+  "tests/parser/test_parser_exceptions.py": {
+    "mi": 100.0,
+    "rank": "A"
+  },
+  "tests/parser/test_engine_param_cache_signature.py": {
+    "mi": 65.37533524676078,
+    "rank": "A"
+  },
+  "tests/parser/test_chunk_size_empty_env.py": {
+    "mi": 55.677423326883854,
+    "rank": "A"
+  },
+  "tests/parser/__init__.py": {
+    "mi": 100.0,
+    "rank": "A"
+  },
+  "tests/parser/test_legacy_parser.py": {
+    "mi": 52.212614463125675,
+    "rank": "A"
+  },
+  "tests/parser/test_parser_cli.py": {
+    "mi": 48.24416955390365,
+    "rank": "A"
+  },
+  "tests/parser/test_chunk_v_buffer_empty_env.py": {
+    "mi": 67.28666784000676,
+    "rank": "A"
+  },
+  "tests/parser/test_smart_heading_global_default.py": {
+    "mi": 54.37322701348582,
+    "rank": "A"
+  },
+  "tests/parser/test_hint_params.py": {
+    "mi": 47.652762698440014,
+    "rank": "A"
+  },
+  "tests/parser/test_markdown.py": {
+    "mi": 80.22746882626478,
+    "rank": "A"
+  },
+  "tests/parser/markdown/test_parser.py": {
+    "mi": 31.617300153753817,
+    "rank": "A"
+  },
+  "tests/parser/markdown/conftest.py": {
+    "mi": 92.80835155674008,
+    "rank": "A"
+  },
+  "tests/parser/markdown/test_raw_cache.py": {
+    "mi": 45.616598078755196,
+    "rank": "A"
+  },
+  "tests/parser/markdown/test_image_budgets.py": {
+    "mi": 33.180098420960306,
+    "rank": "A"
+  },
+  "tests/parser/markdown/test_e2e_sidecar.py": {
+    "mi": 43.79537397135312,
+    "rank": "A"
+  },
+  "tests/parser/markdown/__init__.py": {
+    "mi": 100.0,
+    "rank": "A"
+  },
+  "tests/parser/markdown/test_routing.py": {
+    "mi": 63.14690826106061,
+    "rank": "A"
+  },
+  "tests/parser/markdown/test_download_deadline.py": {
+    "mi": 36.85599179968467,
+    "rank": "A"
+  },
+  "tests/parser/markdown/test_redirect_guard.py": {
+    "mi": 48.83226570633573,
+    "rank": "A"
+  },
+  "tests/parser/markdown/test_extract.py": {
+    "mi": 34.21771676886683,
+    "rank": "A"
+  },
+  "tests/parser/markdown/test_ir_builder.py": {
+    "mi": 43.327765509283545,
+    "rank": "A"
+  },
+  "tests/parser/external/test_common.py": {
+    "mi": 45.26182475492403,
+    "rank": "A"
+  },
+  "tests/parser/external/__init__.py": {
+    "mi": 100.0,
+    "rank": "A"
+  },
+  "tests/parser/external/test_engine_param_thread.py": {
+    "mi": 67.95762516627703,
+    "rank": "A"
+  },
+  "tests/parser/external/docling/test_docling_download_bounds.py": {
+    "mi": 57.454634316147505,
+    "rank": "A"
+  },
+  "tests/parser/external/docling/__init__.py": {
+    "mi": 100.0,
+    "rank": "A"
+  },
+  "tests/parser/external/docling/test_manifest.py": {
+    "mi": 82.4531717856809,
+    "rank": "A"
+  },
+  "tests/parser/external/docling/test_client.py": {
+    "mi": 23.120141753992044,
+    "rank": "A"
+  },
+  "tests/parser/external/docling/test_ir_builder.py": {
+    "mi": 21.974650126458226,
+    "rank": "A"
+  },
+  "tests/parser/external/docling/test_cache.py": {
+    "mi": 56.17170568415964,
+    "rank": "A"
+  },
+  "tests/parser/external/docling/test_parse_docling_sidecar.py": {
+    "mi": 39.49459022057774,
+    "rank": "A"
+  },
+  "tests/parser/external/mineru/test_mineru_download_bounds.py": {
+    "mi": 59.449440253107674,
+    "rank": "A"
+  },
+  "tests/parser/external/mineru/test_parse_mineru_sidecar.py": {
+    "mi": 41.967932628141334,
+    "rank": "A"
+  },
+  "tests/parser/external/mineru/__init__.py": {
+    "mi": 100.0,
+    "rank": "A"
+  },
+  "tests/parser/external/mineru/test_delete_file_variants_mineru_raw.py": {
+    "mi": 59.64392491497718,
+    "rank": "A"
+  },
+  "tests/parser/external/mineru/test_client.py": {
+    "mi": 6.289243104798405,
+    "rank": "C"
+  },
+  "tests/parser/external/mineru/test_ir_builder.py": {
+    "mi": 16.160611101339843,
+    "rank": "B"
+  },
+  "tests/parser/external/mineru/test_cache.py": {
+    "mi": 38.25286652231506,
+    "rank": "A"
+  },
+  "tests/parser/docx/test_smart_heading_title_block.py": {
+    "mi": 0.0,
+    "rank": "C"
+  },
+  "tests/parser/docx/_native_docx_fixtures.py": {
+    "mi": 79.53692918960363,
+    "rank": "A"
+  },
+  "tests/parser/docx/test_smart_heading_flow.py": {
+    "mi": 0.0,
+    "rank": "C"
+  },
+  "tests/parser/docx/test_ir_builder_doc_title.py": {
+    "mi": 81.27952859117144,
+    "rank": "A"
+  },
+  "tests/parser/docx/test_is_openai_retryable_spend_stop.py": {
+    "mi": 79.1507063236193,
+    "rank": "A"
+  },
+  "tests/parser/docx/test_extract_blocks_characterization.py": {
+    "mi": 53.641977968756116,
+    "rank": "A"
+  },
+  "tests/parser/docx/test_numbering_resolver.py": {
+    "mi": 32.486686921179306,
+    "rank": "A"
+  },
+  "tests/parser/docx/test_native_docx_golden.py": {
+    "mi": 66.35901288614706,
+    "rank": "A"
+  },
+  "tests/parser/docx/test_smart_heading_wiring.py": {
+    "mi": 40.110458876379155,
+    "rank": "A"
+  },
+  "tests/parser/docx/__init__.py": {
+    "mi": 100.0,
+    "rank": "A"
+  },
+  "tests/parser/docx/test_smart_heading_skeleton.py": {
+    "mi": 28.437047135889546,
+    "rank": "A"
+  },
+  "tests/parser/docx/test_smart_heading_guards.py": {
+    "mi": 44.84378348879619,
+    "rank": "A"
+  },
+  "tests/parser/docx/test_smart_heading_features.py": {
+    "error": "SyntaxError at line: 541"
+  },
+  "tests/parser/docx/test_smart_heading_e2e.py": {
+    "mi": 12.988996479718436,
+    "rank": "B"
+  },
+  "tests/parser/docx/test_smart_heading_guardrails.py": {
+    "mi": 28.810355663675224,
+    "rank": "A"
+  },
+  "tests/parser/docx/test_smart_heading_nesting.py": {
+    "mi": 65.00600314771613,
+    "rank": "A"
+  },
+  "tests/parser/docx/test_zip_budget.py": {
+    "mi": 38.09903242539847,
+    "rank": "A"
+  },
+  "tests/parser/docx/test_ir_builder_security.py": {
+    "mi": 61.33194164404562,
+    "rank": "A"
+  },
+  "tests/parser/docx/test_smart_heading_style_key.py": {
+    "mi": 34.74153050041001,
+    "rank": "A"
+  },
+  "tests/parser/docx/test_omml_latex_delimiters.py": {
+    "mi": 66.90016209339339,
+    "rank": "A"
+  },
+  "tests/parser/docx/test_smart_heading_anchoring.py": {
+    "mi": 58.081534456477335,
+    "rank": "A"
+  },
+  "tests/parser/docx/test_drawing_image_extractor.py": {
+    "mi": 18.772209981984634,
+    "rank": "B"
+  },
+  "tests/parser/docx/test_native_docx_extract.py": {
+    "mi": 48.231880208946265,
+    "rank": "A"
+  },
+  "tests/parser/docx/test_validation_raises.py": {
+    "mi": 88.73351286362792,
+    "rank": "A"
+  },
+  "tests/kg/conftest_scheduling_backends.py": {
+    "mi": 67.44379511026264,
+    "rank": "A"
+  },
+  "tests/kg/test_unified_lock_safety.py": {
+    "mi": 81.47844246249946,
+    "rank": "A"
+  },
+  "tests/kg/test_vector_space.py": {
+    "mi": 72.23820420749345,
+    "rank": "A"
+  },
+  "tests/kg/test_reservation_architecture.py": {
+    "mi": 57.29172466394762,
+    "rank": "A"
+  },
+  "tests/kg/test_keyed_holder_table.py": {
+    "mi": 35.139197692065515,
+    "rank": "A"
+  },
+  "tests/kg/test_shared_storage_rpc_counts.py": {
+    "mi": 48.53412093912336,
+    "rank": "A"
+  },
+  "tests/kg/test_reserved_background_task.py": {
+    "mi": 61.74200981356816,
+    "rank": "A"
+  },
+  "tests/kg/test_committed_background_task.py": {
+    "mi": 48.35622722161228,
+    "rank": "A"
+  },
+  "tests/kg/test_batch_graph_operations.py": {
+    "mi": 8.050373775049888,
+    "rank": "C"
+  },
+  "tests/kg/test_pipeline_status_logger.py": {
+    "mi": 47.034286409679574,
+    "rank": "A"
+  },
+  "tests/kg/test_scheduling_page_plans.py": {
+    "mi": 58.51577318526773,
+    "rank": "A"
+  },
+  "tests/kg/test_keyed_lock_cancel_safety.py": {
+    "mi": 64.664574852962,
+    "rank": "A"
+  },
+  "tests/kg/test_file_atomic.py": {
+    "mi": 45.40052938459801,
+    "rank": "A"
+  },
+  "tests/kg/test_keyed_lock_dead_worker_recovery.py": {
+    "mi": 58.59251312033097,
+    "rank": "A"
+  },
+  "tests/kg/__init__.py": {
+    "mi": 100.0,
+    "rank": "A"
+  },
+  "tests/kg/test_bounded_pipeline_history.py": {
+    "mi": 57.208126691255664,
+    "rank": "A"
+  },
+  "tests/kg/test_keyed_lock_async_registry.py": {
+    "mi": 49.117665047611254,
+    "rank": "A"
+  },
+  "tests/kg/test_write_seq.py": {
+    "mi": 72.40751911667623,
+    "rank": "A"
+  },
+  "tests/kg/test_get_all_update_flags_status.py": {
+    "mi": 76.40471050698726,
+    "rank": "A"
+  },
+  "tests/kg/test_scan_job_store.py": {
+    "mi": 36.572786979677204,
+    "rank": "A"
+  },
+  "tests/kg/test_pipeline_ingress.py": {
+    "mi": 27.144353918252893,
+    "rank": "A"
+  },
+  "tests/kg/test_scheduling_base_defaults.py": {
+    "mi": 56.746973288280344,
+    "rank": "A"
+  },
+  "tests/kg/test_scheduling_backend_fixture.py": {
+    "mi": 78.9636474054408,
+    "rank": "A"
+  },
+  "tests/kg/test_global_concurrency_slots.py": {
+    "mi": 38.19647650948205,
+    "rank": "A"
+  },
+  "tests/kg/test_doc_status_scheduling_contract.py": {
+    "mi": 37.349324678536284,
+    "rank": "A"
+  },
+  "tests/kg/test_degree_return_type.py": {
+    "mi": 63.11764483837035,
+    "rank": "A"
+  },
+  "tests/kg/test_file_backed_vector_space.py": {
+    "mi": 48.90846429666087,
+    "rank": "A"
+  },
+  "tests/kg/test_graph_storage.py": {
+    "mi": 0.0,
+    "rank": "C"
+  },
+  "tests/kg/test_reservation_dead_process_recovery.py": {
+    "mi": 31.535060703993782,
+    "rank": "A"
+  },
+  "tests/kg/test_reservation_primitives.py": {
+    "mi": 24.986423779460104,
+    "rank": "A"
+  },
+  "tests/kg/test_doc_status_strict_parse_branches.py": {
+    "mi": 67.8789525087282,
+    "rank": "A"
+  },
+  "tests/kg/faiss_impl/test_faiss_deferred_embedding.py": {
+    "mi": 0.0,
+    "rank": "C"
+  },
+  "tests/kg/faiss_impl/test_faiss_fingerprint_fence.py": {
+    "mi": 38.91252604214135,
+    "rank": "A"
+  },
+  "tests/kg/faiss_impl/test_faiss_deferred_delete.py": {
+    "mi": 32.18447842208677,
+    "rank": "A"
+  },
+  "tests/kg/faiss_impl/test_faiss_meta_inconsistency.py": {
+    "mi": 62.46853362257679,
+    "rank": "A"
+  },
+  "tests/kg/faiss_impl/test_atomic_write_faiss.py": {
+    "mi": 68.7303712032157,
+    "rank": "A"
+  },
+  "tests/kg/faiss_impl/__init__.py": {
+    "mi": 100.0,
+    "rank": "A"
+  },
+  "tests/kg/faiss_impl/test_faiss_drop.py": {
+    "mi": 37.26311354777097,
+    "rank": "A"
+  },
+  "tests/kg/faiss_impl/test_faiss_write_off_event_loop.py": {
+    "mi": 56.82828282439681,
+    "rank": "A"
+  },
+  "tests/kg/redis_impl/test_redis_doc_status_lookup.py": {
+    "mi": 58.03292606917003,
+    "rank": "A"
+  },
+  "tests/kg/redis_impl/__init__.py": {
+    "mi": 100.0,
+    "rank": "A"
+  },
+  "tests/kg/redis_impl/test_redis_scheduling_pages.py": {
+    "mi": 30.413131874219577,
+    "rank": "A"
+  },
+  "tests/kg/redis_impl/test_redis_kv_upsert_create_time.py": {
+    "mi": 40.76288142994032,
+    "rank": "A"
+  },
+  "tests/kg/redis_impl/test_redis_eviction_guard.py": {
+    "mi": 57.655542253178496,
+    "rank": "A"
+  },
+  "tests/kg/redis_impl/test_redis_doc_status_track_id_hydration.py": {
+    "mi": 74.30312618298571,
+    "rank": "A"
+  },
+  "tests/kg/redis_impl/test_redis_kv_create_time_integration.py": {
+    "mi": 44.02409809282952,
+    "rank": "A"
+  },
+  "tests/kg/redis_impl/test_redis_finalize.py": {
+    "mi": 52.6238834243145,
+    "rank": "A"
+  },
+  "tests/kg/redis_impl/fake_redis.py": {
+    "mi": 23.29271760743366,
+    "rank": "A"
+  },
+  "tests/kg/qdrant_impl/test_qdrant_deferred_embedding.py": {
+    "mi": 30.705376271703813,
+    "rank": "A"
+  },
+  "tests/kg/qdrant_impl/test_qdrant_vector_space.py": {
+    "mi": 66.89923809274985,
+    "rank": "A"
+  },
+  "tests/kg/qdrant_impl/test_qdrant_upsert_batching.py": {
+    "mi": 55.54913541467183,
+    "rank": "A"
+  },
+  "tests/kg/qdrant_impl/__init__.py": {
+    "mi": 100.0,
+    "rank": "A"
+  },
+  "tests/kg/qdrant_impl/test_qdrant_migration.py": {
+    "mi": 51.06368039263868,
+    "rank": "A"
+  },
+  "tests/kg/postgres_impl/test_postgres_upsert.py": {
+    "mi": 28.195206988192663,
+    "rank": "A"
+  },
+  "tests/kg/postgres_impl/test_postgres_vector_deferred.py": {
+    "mi": 22.867340551921597,
+    "rank": "A"
+  },
+  "tests/kg/postgres_impl/test_postgres_graph_read_contract.py": {
+    "mi": 65.2617385920995,
+    "rank": "A"
+  },
+  "tests/kg/postgres_impl/test_postgres_migration.py": {
+    "mi": 38.88964314259827,
+    "rank": "A"
+  },
+  "tests/kg/postgres_impl/test_postgres_graph_batch.py": {
+    "mi": 53.61809835469152,
+    "rank": "A"
+  },
+  "tests/kg/postgres_impl/test_postgres_index_name.py": {
+    "mi": 64.28244458022407,
+    "rank": "A"
+  },
+  "tests/kg/postgres_impl/test_postgres_batch_limits.py": {
+    "mi": 58.08883005209737,
+    "rank": "A"
+  },
+  "tests/kg/postgres_impl/test_postgres_age_graph_ensure.py": {
+    "mi": 37.93895022984703,
+    "rank": "A"
+  },
+  "tests/kg/postgres_impl/test_pg_scheduling_pages.py": {
+    "mi": 20.09092370236467,
+    "rank": "A"
+  },
+  "tests/kg/postgres_impl/test_postgres_get_all_complete_or_raise.py": {
+    "mi": 75.20252471162068,
+    "rank": "A"
+  },
+  "tests/kg/postgres_impl/test_pg_scheduling_index_migration.py": {
+    "mi": 60.39051010463561,
+    "rank": "A"
+  },
+  "tests/kg/postgres_impl/__init__.py": {
+    "mi": 100.0,
+    "rank": "A"
+  },
+  "tests/kg/postgres_impl/test_postgres_performance_timing.py": {
+    "mi": 65.50210385544248,
+    "rank": "A"
+  },
+  "tests/kg/postgres_impl/test_postgres_client_manager.py": {
+    "mi": 66.0945263250186,
+    "rank": "A"
+  },
+  "tests/kg/postgres_impl/test_postgres_doc_status_lookup.py": {
+    "mi": 50.001674650055065,
+    "rank": "A"
+  },
+  "tests/kg/postgres_impl/test_postgres_search_path_table_exists.py": {
+    "mi": 62.879234339967816,
+    "rank": "A"
+  },
+  "tests/kg/postgres_impl/test_postgres_vector_space.py": {
+    "mi": 67.94852305899242,
+    "rank": "A"
+  },
+  "tests/kg/postgres_impl/test_postgres_delete_set_ids.py": {
+    "mi": 73.98253809290289,
+    "rank": "A"
+  },
+  "tests/kg/postgres_impl/test_postgres_halfvec.py": {
+    "mi": 41.67014865443569,
+    "rank": "A"
+  },
+  "tests/kg/postgres_impl/test_postgres_age_version_gate.py": {
+    "mi": 14.952741334529808,
+    "rank": "B"
+  },
+  "tests/kg/postgres_impl/test_postgres_cypher_injection.py": {
+    "mi": 37.37209153434741,
+    "rank": "A"
+  },
+  "tests/kg/postgres_impl/test_doc_full_parse_engine_text.py": {
+    "mi": 70.97667065792228,
+    "rank": "A"
+  },
+  "tests/kg/postgres_impl/test_postgres_retry_integration.py": {
+    "mi": 52.259796542449855,
+    "rank": "A"
+  },
+  "tests/kg/postgres_impl/test_postgres_self_loop_listing.py": {
+    "mi": 80.17119873574836,
+    "rank": "A"
+  },
+  "tests/kg/postgres_impl/test_postgres_age_quote_fix.py": {
+    "mi": 52.143076990581044,
+    "rank": "A"
+  },
+  "tests/kg/postgres_impl/test_postgres_vector_payload_strips_embedding.py": {
+    "mi": 72.69343630063072,
+    "rank": "A"
+  },
+  "tests/kg/postgres_impl/test_postgres_doc_status_track_id_hydration.py": {
+    "mi": 72.51476300013417,
+    "rank": "A"
+  },
+  "tests/kg/postgres_impl/test_postgres_upsert_edge_cypher.py": {
+    "mi": 41.07435787990818,
+    "rank": "A"
+  },
+  "tests/kg/postgres_impl/test_postgres_get_knowledge_graph_all.py": {
+    "mi": 61.39188812047635,
+    "rank": "A"
+  },
+  "tests/kg/milvus_impl/test_milvus_off_event_loop.py": {
+    "mi": 26.827600503002586,
+    "rank": "A"
+  },
+  "tests/kg/milvus_impl/test_milvus_query_paging.py": {
+    "mi": 38.569358011418124,
+    "rank": "A"
+  },
+  "tests/kg/milvus_impl/test_milvus_index_config.py": {
+    "mi": 29.619040377422156,
+    "rank": "A"
+  },
+  "tests/kg/milvus_impl/test_milvus_index_creation.py": {
+    "mi": 23.278549675411405,
+    "rank": "A"
+  },
+  "tests/kg/milvus_impl/test_milvus_deferred_embedding.py": {
+    "mi": 30.14219146789393,
+    "rank": "A"
+  },
+  "tests/kg/milvus_impl/__init__.py": {
+    "mi": 100.0,
+    "rank": "A"
+  },
+  "tests/kg/milvus_impl/test_milvus_vector_space.py": {
+    "mi": 71.59199246834758,
+    "rank": "A"
+  },
+  "tests/kg/milvus_impl/test_milvus_kwargs_bridge.py": {
+    "mi": 54.71265678716065,
+    "rank": "A"
+  },
+  "tests/kg/milvus_impl/test_milvus_migration_retry.py": {
+    "mi": 27.795629249549926,
+    "rank": "A"
+  },
+  "tests/kg/milvus_impl/test_milvus_migration_memory.py": {
+    "mi": 52.21181153722233,
+    "rank": "A"
+  },
+  "tests/kg/milvus_impl/test_milvus_escape_filter.py": {
+    "mi": 38.835789016181785,
+    "rank": "A"
+  },
+  "tests/kg/json_impl/test_json_scheduling_pages.py": {
+    "mi": 36.40358689807472,
+    "rank": "A"
+  },
+  "tests/kg/json_impl/test_json_write_off_event_loop.py": {
+    "mi": 58.12081340749509,
+    "rank": "A"
+  },
+  "tests/kg/json_impl/test_json_kv_upsert_create_time.py": {
+    "mi": 48.64538207164291,
+    "rank": "A"
+  },
+  "tests/kg/json_impl/test_json_doc_status_track_id_hydration.py": {
+    "mi": 73.16348454120131,
+    "rank": "A"
+  },
+  "tests/kg/json_impl/__init__.py": {
+    "mi": 100.0,
+    "rank": "A"
+  },
+  "tests/kg/json_impl/test_json_storage_rpc_counts.py": {
+    "mi": 58.55194372996625,
+    "rank": "A"
+  },
+  "tests/kg/json_impl/test_json_kv_copy_on_read.py": {
+    "mi": 67.01952138078485,
+    "rank": "A"
+  },
+  "tests/kg/json_impl/test_json_commit_reconciliation.py": {
+    "mi": 62.82453575113847,
+    "rank": "A"
+  },
+  "tests/kg/json_impl/test_atomic_write_write_json.py": {
+    "mi": 69.85280727634097,
+    "rank": "A"
+  },
+  "tests/kg/json_impl/test_write_json_optimization.py": {
+    "mi": 36.085317514410754,
+    "rank": "A"
+  },
+  "tests/kg/json_impl/test_json_doc_status_storage.py": {
+    "mi": 53.787547685011276,
+    "rank": "A"
+  },
+  "tests/kg/json_impl/test_json_doc_status_copy_on_read.py": {
+    "mi": 47.97959186992538,
+    "rank": "A"
+  },
+  "tests/kg/mongo_impl/test_mongo_doc_status_track_id_hydration.py": {
+    "mi": 68.97181722399841,
+    "rank": "A"
+  },
+  "tests/kg/mongo_impl/test_mongo_doc_status_id_sort.py": {
+    "mi": 42.736993593457356,
+    "rank": "A"
+  },
+  "tests/kg/mongo_impl/test_mongo_edge_batch_methods.py": {
+    "mi": 42.21517240846928,
+    "rank": "A"
+  },
+  "tests/kg/mongo_impl/test_mongo_vector_query_cosine_threshold.py": {
+    "mi": 75.70001331971797,
+    "rank": "A"
+  },
+  "tests/kg/mongo_impl/test_mongo_self_loop_contract.py": {
+    "mi": 69.98174062538256,
+    "rank": "A"
+  },
+  "tests/kg/mongo_impl/test_mongo_dedupe_legacy_edges.py": {
+    "mi": 58.85258005829019,
+    "rank": "A"
+  },
+  "tests/kg/mongo_impl/test_client_manager_lifecycle.py": {
+    "mi": 61.4634608721814,
+    "rank": "A"
+  },
+  "tests/kg/mongo_impl/test_mongo_deferred_embedding.py": {
+    "mi": 28.908689890225286,
+    "rank": "A"
+  },
+  "tests/kg/mongo_impl/test_mongo_vector_space.py": {
+    "mi": 45.61568619208975,
+    "rank": "A"
+  },
+  "tests/kg/mongo_impl/test_mongo_storage.py": {
+    "mi": 2.178325690942726,
+    "rank": "C"
+  },
+  "tests/kg/mongo_impl/test_mongo_node_degrees_batch.py": {
+    "mi": 84.02022425330303,
+    "rank": "A"
+  },
+  "tests/kg/mongo_impl/__init__.py": {
+    "mi": 100.0,
+    "rank": "A"
+  },
+  "tests/kg/mongo_impl/test_mongo_scheduling_pages.py": {
+    "mi": 22.140312032518626,
+    "rank": "A"
+  },
+  "tests/kg/mongo_impl/test_mongo_bfs_tie_break.py": {
+    "mi": 58.329182686047524,
+    "rank": "A"
+  },
+  "tests/kg/mongo_impl/test_mongo_attribute_names.py": {
+    "mi": 61.584679953730586,
+    "rank": "A"
+  },
+  "tests/kg/memgraph_impl/test_memgraph_storage.py": {
+    "mi": 53.62680757042376,
+    "rank": "A"
+  },
+  "tests/kg/memgraph_impl/test_memgraph_graph_read_contract.py": {
+    "mi": 65.73029871446322,
+    "rank": "A"
+  },
+  "tests/kg/memgraph_impl/test_memgraph_kg_tie_break.py": {
+    "mi": 70.60766218357675,
+    "rank": "A"
+  },
+  "tests/kg/memgraph_impl/test_memgraph_all_edges_dedup.py": {
+    "mi": 58.92640982590097,
+    "rank": "A"
+  },
+  "tests/kg/memgraph_impl/__init__.py": {
+    "mi": 100.0,
+    "rank": "A"
+  },
+  "tests/kg/neo4j_impl/test_neo4j_robust_fallback_truncation.py": {
+    "mi": 63.14835750789288,
+    "rank": "A"
+  },
+  "tests/kg/neo4j_impl/test_neo4j_graph_read_contract.py": {
+    "mi": 55.803374697214934,
+    "rank": "A"
+  },
+  "tests/kg/neo4j_impl/test_workspace_label_injection.py": {
+    "mi": 72.15345633321435,
+    "rank": "A"
+  },
+  "tests/kg/neo4j_impl/test_neo4j_fulltext_index.py": {
+    "mi": 58.816204130875576,
+    "rank": "A"
+  },
+  "tests/kg/neo4j_impl/__init__.py": {
+    "mi": 100.0,
+    "rank": "A"
+  },
+  "tests/kg/neo4j_impl/test_neo4j_all_edges_dedup.py": {
+    "mi": 58.624414776386054,
+    "rank": "A"
+  },
+  "tests/kg/neo4j_impl/test_neo4j_kg_tie_break.py": {
+    "mi": 72.73662221268897,
+    "rank": "A"
+  },
+  "tests/kg/neo4j_impl/test_search_labels_sanitize.py": {
+    "mi": 100.0,
+    "rank": "A"
+  },
+  "tests/kg/opensearch_impl/test_opensearch_storage.py": {
+    "mi": 0.0,
+    "rank": "C"
+  },
+  "tests/kg/opensearch_impl/test_os_scheduling_pages.py": {
+    "mi": 16.414817852594165,
+    "rank": "B"
+  },
+  "tests/kg/opensearch_impl/test_opensearch_kv_create_time_integration.py": {
+    "mi": 52.528312605690495,
+    "rank": "A"
+  },
+  "tests/kg/opensearch_impl/test_workspace_index_collision.py": {
+    "mi": 40.52212677154909,
+    "rank": "A"
+  },
+  "tests/kg/opensearch_impl/test_cwe89_opensearch_injection.py": {
+    "mi": 55.349130859023646,
+    "rank": "A"
+  },
+  "tests/kg/opensearch_impl/__init__.py": {
+    "mi": 100.0,
+    "rank": "A"
+  },
+  "tests/kg/opensearch_impl/test_opensearch_kv_upsert_create_time.py": {
+    "mi": 54.445490888977545,
+    "rank": "A"
+  },
+  "tests/kg/opensearch_impl/test_opensearch_merge_edge_payloads.py": {
+    "mi": 75.30000363785919,
+    "rank": "A"
+  },
+  "tests/kg/opensearch_impl/test_opensearch_edge_degrees_batch.py": {
+    "mi": 63.88702871021952,
+    "rank": "A"
+  },
+  "tests/kg/opensearch_impl/test_opensearch_strict_reads.py": {
+    "mi": 38.425635814605606,
+    "rank": "A"
+  },
+  "tests/kg/opensearch_impl/test_opensearch_bfs_tie_break.py": {
+    "mi": 55.51559610399681,
+    "rank": "A"
+  },
+  "tests/kg/opensearch_impl/test_opensearch_self_loop_contract.py": {
+    "mi": 72.29141359701255,
+    "rank": "A"
+  },
+  "tests/kg/opensearch_impl/test_opensearch_vector_space.py": {
+    "mi": 49.14850774276736,
+    "rank": "A"
+  },
+  "tests/kg/opensearch_impl/test_llm_cache_tools_opensearch.py": {
+    "mi": 44.21310851489002,
+    "rank": "A"
+  },
+  "tests/kg/noop_impl/test_noop_vector_storage.py": {
+    "mi": 39.23932320196303,
+    "rank": "A"
+  },
+  "tests/kg/noop_impl/__init__.py": {
+    "mi": 100.0,
+    "rank": "A"
+  },
+  "tests/kg/nano_impl/test_nano_deferred_embedding.py": {
+    "mi": 12.90769228397747,
+    "rank": "B"
+  },
+  "tests/kg/nano_impl/test_nano_drop.py": {
+    "mi": 44.8476595370248,
+    "rank": "A"
+  },
+  "tests/kg/nano_impl/test_nano_fingerprint_fence.py": {
+    "mi": 47.15832976956804,
+    "rank": "A"
+  },
+  "tests/kg/nano_impl/__init__.py": {
+    "mi": 100.0,
+    "rank": "A"
+  },
+  "tests/kg/nano_impl/test_atomic_write_nano.py": {
+    "mi": 73.71210418312366,
+    "rank": "A"
+  },
+  "tests/kg/nano_impl/test_nano_save_off_event_loop.py": {
+    "mi": 54.623689090584975,
+    "rank": "A"
+  },
+  "tests/kg/nano_impl/test_nano_deferred_delete.py": {
+    "mi": 26.69992407251386,
+    "rank": "A"
+  },
+  "tests/kg/pgtable_impl/test_pgtable_smoke.py": {
+    "mi": 0.0,
+    "rank": "C"
+  },
+  "tests/kg/pgtable_impl/test_pgtable_graph_storage.py": {
+    "mi": 10.300271626655862,
+    "rank": "B"
+  },
+  "tests/kg/pgtable_impl/__init__.py": {
+    "mi": 100.0,
+    "rank": "A"
+  },
+  "tests/kg/networkx_impl/test_networkx_attribute_validation.py": {
+    "mi": 38.14328466920951,
+    "rank": "A"
+  },
+  "tests/kg/networkx_impl/test_networkx_atomic_write.py": {
+    "mi": 65.5458957821443,
+    "rank": "A"
+  },
+  "tests/kg/networkx_impl/test_networkx_drop.py": {
+    "mi": 40.35601528396689,
+    "rank": "A"
+  },
+  "tests/kg/networkx_impl/test_networkx_fingerprint_fence.py": {
+    "mi": 12.816189236519659,
+    "rank": "B"
+  },
+  "tests/kg/networkx_impl/__init__.py": {
+    "mi": 100.0,
+    "rank": "A"
+  },
+  "tests/kg/networkx_impl/test_networkx_kg_star_tie_break.py": {
+    "mi": 53.633124395204334,
+    "rank": "A"
+  },
+  "tests/kg/networkx_impl/test_networkx_popular_labels.py": {
+    "mi": 78.68385726047727,
+    "rank": "A"
+  },
+  "tests/kg/networkx_impl/test_networkx_index_done.py": {
+    "mi": 64.8766037838324,
+    "rank": "A"
+  },
+  "tests/kg/networkx_impl/test_networkx_dirty_discard.py": {
+    "mi": 46.28163849422267,
+    "rank": "A"
+  },
+  "tests/kg/networkx_impl/test_networkx_bounded_iteration.py": {
+    "mi": 55.23820831398004,
+    "rank": "A"
+  },
+  "tests/kg/networkx_impl/test_networkx_get_node_edge_copy_on_read.py": {
+    "mi": 49.537128970697125,
+    "rank": "A"
+  },
+  "tests/kg/networkx_impl/test_networkx_commit_gate.py": {
+    "mi": 50.72881357498413,
+    "rank": "A"
+  },
+  "tests/kg/networkx_impl/test_networkx_get_kg_truncation.py": {
+    "mi": 76.74934714525382,
+    "rank": "A"
+  },
+  "tests/api/test_cors.py": {
+    "mi": 67.44184266285349,
+    "rank": "A"
+  },
+  "tests/api/test_ollama_query_mode.py": {
+    "mi": 77.8880501293219,
+    "rank": "A"
+  },
+  "tests/api/test_lightrag_ollama_chat.py": {
+    "mi": 39.213656572686,
+    "rank": "A"
+  },
+  "tests/api/test_body_limit_middleware.py": {
+    "mi": 45.883938843120475,
+    "rank": "A"
+  },
+  "tests/api/conftest.py": {
+    "mi": 82.45801050460565,
+    "rank": "A"
+  },
+  "tests/api/test_api_docs_toggle.py": {
+    "mi": 55.908677548696204,
+    "rank": "A"
+  },
+  "tests/api/test_webui_title_injection.py": {
+    "mi": 63.72651408744894,
+    "rank": "A"
+  },
+  "tests/api/test_custom_chunker_startup.py": {
+    "mi": 44.33708791098329,
+    "rank": "A"
+  },
+  "tests/api/test_workspace_entry_mount.py": {
+    "mi": 40.10111199043702,
+    "rank": "A"
+  },
+  "tests/api/test_embedding_model_required.py": {
+    "mi": 81.01547918427927,
+    "rank": "A"
+  },
+  "tests/api/__init__.py": {
+    "mi": 100.0,
+    "rank": "A"
+  },
+  "tests/api/test_ai_content_notice.py": {
+    "mi": 64.20529634977156,
+    "rank": "A"
+  },
+  "tests/api/test_recovery_fence_visibility.py": {
+    "mi": 74.36606572352129,
+    "rank": "A"
+  },
+  "tests/api/test_path_prefixes.py": {
+    "mi": 32.04416817551958,
+    "rank": "A"
+  },
+  "tests/api/test_health_scheduling_view.py": {
+    "mi": 62.73892015663508,
+    "rank": "A"
+  },
+  "tests/api/test_error_message_sanitization.py": {
+    "mi": 67.37677895785242,
+    "rank": "A"
+  },
+  "tests/api/test_gunicorn_worker_orphan_exit.py": {
+    "mi": 70.45608333689007,
+    "rank": "A"
+  },
+  "tests/api/test_auth_verify.py": {
+    "mi": 67.41223989267857,
+    "rank": "A"
+  },
+  "tests/api/test_ui_customization.py": {
+    "mi": 0.0,
+    "rank": "C"
+  },
+  "tests/api/test_admission_middleware.py": {
+    "mi": 37.39403157497533,
+    "rank": "A"
+  },
+  "tests/api/test_health_auth.py": {
+    "mi": 53.43273661548817,
+    "rank": "A"
+  },
+  "tests/api/config/test_api_config_bedrock.py": {
+    "mi": 38.72287153359274,
+    "rank": "A"
+  },
+  "tests/api/config/test_api_config_embedding_chunk_overlap.py": {
+    "mi": 76.91957884644523,
+    "rank": "A"
+  },
+  "tests/api/config/test_api_config_admission.py": {
+    "mi": 58.46889898320805,
+    "rank": "A"
+  },
+  "tests/api/config/test_ollama_embedding_dimension.py": {
+    "mi": 62.74334392173627,
+    "rank": "A"
+  },
+  "tests/api/config/test_embedding_dimension_guard.py": {
+    "mi": 52.04864584980798,
+    "rank": "A"
+  },
+  "tests/api/config/test_api_config_role_max_async.py": {
+    "mi": 43.26137887226857,
+    "rank": "A"
+  },
+  "tests/api/config/__init__.py": {
+    "mi": 100.0,
+    "rank": "A"
+  },
+  "tests/api/config/test_splash_ollama_warning.py": {
+    "mi": 78.16654168900588,
+    "rank": "A"
+  },
+  "tests/api/config/test_api_config_lollms_host.py": {
+    "mi": 69.26827090394285,
+    "rank": "A"
+  },
+  "tests/api/config/test_whitelist_exposes_api_routes.py": {
+    "mi": 86.24475747054066,
+    "rank": "A"
+  },
+  "tests/api/config/test_api_config_enable_api_docs.py": {
+    "mi": 63.69150300280243,
+    "rank": "A"
+  },
+  "tests/api/config/test_api_config_ollama_role_think.py": {
+    "mi": 73.55399545605769,
+    "rank": "A"
+  },
+  "tests/api/config/test_api_config_vlm_enable.py": {
+    "mi": 53.53406688846038,
+    "rank": "A"
+  },
+  "tests/api/config/test_api_config_scan_batch.py": {
+    "mi": 78.86502915489736,
+    "rank": "A"
+  },
+  "tests/api/config/test_api_config_custom_chunker.py": {
+    "mi": 66.58459231433994,
+    "rank": "A"
+  },
+  "tests/api/config/test_ollama_think_startup_validation.py": {
+    "mi": 80.72923396530771,
+    "rank": "A"
+  },
+  "tests/api/config/test_api_config_gemini.py": {
+    "mi": 78.01508585192973,
+    "rank": "A"
+  },
+  "tests/api/auth/test_token_renewal_bounds.py": {
+    "mi": 35.380579820696965,
+    "rank": "A"
+  },
+  "tests/api/auth/test_shared_credential_check.py": {
+    "mi": 61.5980602715558,
+    "rank": "A"
+  },
+  "tests/api/auth/test_auth.py": {
+    "mi": 47.35165350438624,
+    "rank": "A"
+  },
+  "tests/api/auth/test_login_rate_limit.py": {
+    "mi": 47.904780336338256,
+    "rank": "A"
+  },
+  "tests/api/auth/__init__.py": {
+    "mi": 100.0,
+    "rank": "A"
+  },
+  "tests/api/auth/test_whitelist_path_prefix.py": {
+    "mi": 70.25980304825471,
+    "rank": "A"
+  },
+  "tests/api/routes/test_supported_extensions_markdown.py": {
+    "mi": 84.10651993006839,
+    "rank": "A"
+  },
+  "tests/api/routes/test_insert_text_whitespace.py": {
+    "mi": 60.362470390654,
+    "rank": "A"
+  },
+  "tests/api/routes/test_supported_file_types_endpoint.py": {
+    "mi": 62.17711740069576,
+    "rank": "A"
+  },
+  "tests/api/routes/test_description_api_validation.py": {
+    "mi": 39.002358075888594,
+    "rank": "A"
+  },
+  "tests/api/routes/test_query_history_content_type.py": {
+    "mi": 64.49503616691781,
+    "rank": "A"
+  },
+  "tests/api/routes/test_clear_documents_llm_cache.py": {
+    "mi": 48.65282224631452,
+    "rank": "A"
+  },
+  "tests/api/routes/test_graph_attribute_validation.py": {
+    "mi": 34.40444717370351,
+    "rank": "A"
+  },
+  "tests/api/routes/test_source_conflict_routes.py": {
+    "mi": 28.361470172581242,
+    "rank": "A"
+  },
+  "tests/api/routes/test_graph_self_loop_rejection.py": {
+    "mi": 82.26249421964782,
+    "rank": "A"
+  },
+  "tests/api/routes/test_scan_candidate_spool.py": {
+    "mi": 53.49243493032997,
+    "rank": "A"
+  },
+  "tests/api/routes/test_document_source_characters.py": {
+    "mi": 68.78950782432189,
+    "rank": "A"
+  },
+  "tests/api/routes/test_document_status_truncation_metadata.py": {
+    "mi": 86.14630002428159,
+    "rank": "A"
+  },
+  "tests/api/routes/test_graph_entity_name_normalization.py": {
+    "mi": 30.246499408137094,
+    "rank": "A"
+  },
+  "tests/api/routes/test_scan_mtime_ordering.py": {
+    "mi": 69.99123963896324,
+    "rank": "A"
+  },
+  "tests/api/routes/test_force_reset_drops_stalled_enqueues.py": {
+    "mi": 61.349548517783305,
+    "rank": "A"
+  },
+  "tests/api/routes/__init__.py": {
+    "mi": 100.0,
+    "rank": "A"
+  },
+  "tests/api/routes/test_scan_classification_exits.py": {
+    "mi": 44.39816061912636,
+    "rank": "A"
+  },
+  "tests/api/routes/test_graph_entity_rename_self_loop.py": {
+    "mi": 46.35112412551086,
+    "rank": "A"
+  },
+  "tests/api/routes/test_graph_entity_name_whitespace.py": {
+    "mi": 53.1188332318342,
+    "rank": "A"
+  },
+  "tests/api/routes/test_texts_per_request_limit.py": {
+    "mi": 65.63819289172434,
+    "rank": "A"
+  },
+  "tests/api/routes/test_query_llm_generated.py": {
+    "mi": 59.85399628688313,
+    "rank": "A"
+  },
+  "tests/api/routes/test_stall_fence_spares_admitted_text.py": {
+    "mi": 68.0569667873448,
+    "rank": "A"
+  },
+  "tests/api/routes/test_graph_routes_pipeline_busy.py": {
+    "mi": 53.441924505597704,
+    "rank": "A"
+  },
+  "tests/api/routes/test_aquery_data_endpoint.py": {
+    "mi": 21.243226024331644,
+    "rank": "A"
+  },
+  "tests/api/routes/test_query_user_prompt_prefix_field.py": {
+    "mi": 76.76929129413978,
+    "rank": "A"
+  },
+  "tests/api/routes/test_admission_released_before_processing.py": {
+    "mi": 55.36512022559341,
+    "rank": "A"
+  },
+  "tests/api/routes/test_admission_endpoints.py": {
+    "mi": 60.852854767129784,
+    "rank": "A"
+  },
+  "tests/api/routes/test_clear_documents_parsed_files.py": {
+    "mi": 48.37164683076054,
+    "rank": "A"
+  },
+  "tests/api/routes/test_login_route.py": {
+    "mi": 52.19880196117759,
+    "rank": "A"
+  },
+  "tests/api/routes/test_clear_documents_ingress.py": {
+    "mi": 50.69617774400461,
+    "rank": "A"
+  },
+  "tests/api/routes/test_document_routes_docx_archive.py": {
+    "mi": 0.0,
+    "rank": "C"
+  },
+  "tests/api/routes/test_query_input_limits.py": {
+    "mi": 62.96997461359754,
+    "rank": "A"
+  },
+  "tests/api/routes/test_document_routes_paginated.py": {
+    "mi": 49.1770075928513,
+    "rank": "A"
+  },
+  "tests/api/routes/test_scan_manual_retry.py": {
+    "mi": 46.083810084133056,
+    "rank": "A"
+  },
+  "tests/api/routes/test_query_stream_routes.py": {
+    "mi": 41.60113246250296,
+    "rank": "A"
+  },
+  "tests/api/routes/test_document_routes_chunking.py": {
+    "mi": 28.92563881093066,
+    "rank": "A"
+  },
+  "tests/api/routes/test_scan_unsafe_source.py": {
+    "mi": 56.148601670144046,
+    "rank": "A"
+  },
+  "tests/api/routes/test_query_request_strip.py": {
+    "mi": 79.09329846104234,
+    "rank": "A"
+  },
+  "tests/api/routes/test_scan_streaming_batches.py": {
+    "mi": 50.34802740890951,
+    "rank": "A"
+  },
+  "tests/api/routes/test_query_validation_responses.py": {
+    "mi": 70.63737121263627,
+    "rank": "A"
+  },
+  "tests/api/routes/test_concurrent_query_tokenizer.py": {
+    "mi": 58.24278654690801,
+    "rank": "A"
+  },
+  "tests/api/routes/test_scan_job_record.py": {
+    "mi": 50.073767046441844,
+    "rank": "A"
+  },
+  "tests/api/routes/test_ollama_input_limits.py": {
+    "mi": 38.60478588758556,
+    "rank": "A"
+  },
+  "tests/evaluation/test_evaluation_offline_retrieval_check.py": {
+    "mi": 48.28956636497179,
+    "rank": "A"
+  },
+  "tests/evaluation/__init__.py": {
+    "mi": 100.0,
+    "rank": "A"
+  },
+  "tests/evaluation/test_eval_rag_quality.py": {
+    "mi": 56.15494677510741,
+    "rank": "A"
+  },
+  "tests/sidecar/test_writer.py": {
+    "mi": 25.526892870663655,
+    "rank": "A"
+  },
+  "tests/sidecar/__init__.py": {
+    "mi": 100.0,
+    "rank": "A"
+  },
+  "tests/sidecar/test_sidecar_uri.py": {
+    "mi": 50.7895203473074,
+    "rank": "A"
+  },
+  "tests/sidecar/test_backfill.py": {
+    "mi": 51.539702787995786,
+    "rank": "A"
+  },
+  "tests/chunker/test_registry.py": {
+    "mi": 25.10802382862236,
+    "rank": "A"
+  },
+  "tests/chunker/test_paragraph_semantic_title_block.py": {
+    "mi": 42.27392290491574,
+    "rank": "A"
+  },
+  "tests/chunker/test_chunker_recursive_character.py": {
+    "mi": 53.37386753567163,
+    "rank": "A"
+  },
+  "tests/chunker/test_paragraph_semantic_merge_and_fallback.py": {
+    "mi": 33.83624131551637,
+    "rank": "A"
+  },
+  "tests/chunker/test_chunk_options_persistence.py": {
+    "mi": 14.340444557739577,
+    "rank": "B"
+  },
+  "tests/chunker/test_chunking.py": {
+    "mi": 18.529327655157854,
+    "rank": "B"
+  },
+  "tests/chunker/__init__.py": {
+    "mi": 100.0,
+    "rank": "A"
+  },
+  "tests/chunker/test_chunker_semantic_vector.py": {
+    "mi": 31.526705250661237,
+    "rank": "A"
+  },
+  "tests/chunker/test_token_window_source_span.py": {
+    "mi": 53.197949184608014,
+    "rank": "A"
+  },
+  "tests/chunker/test_paragraph_semantic_split_long_block.py": {
+    "mi": 52.48873620127255,
+    "rank": "A"
+  },
+  "tests/chunker/test_paragraph_semantic_table_split.py": {
+    "mi": 14.102545388641664,
+    "rank": "B"
+  },
+  "tests/chunker/test_paragraph_semantic_drop_references.py": {
+    "mi": 51.588095362351844,
+    "rank": "A"
+  },
+  "tests/chunker/test_hard_fallback_span_projection.py": {
+    "mi": 53.655527635739006,
+    "rank": "A"
+  },
+  "tests/chunker/test_recursive_character_bounds.py": {
+    "mi": 53.962505702556996,
+    "rank": "A"
+  },
+  "tests/chunker/test_overlap_validation.py": {
+    "mi": 70.93487324604557,
+    "rank": "A"
+  },
+  "tests/chunker/test_chunking_raw_lightrag_parity.py": {
+    "mi": 48.44125126790121,
+    "rank": "A"
+  },
+  "tests/chunker/test_rerank_chunking.py": {
+    "mi": 26.961670119634864,
+    "rank": "A"
+  },
+  "tests/chunker/test_sidecar_backfill_integration.py": {
+    "mi": 45.560643794670106,
+    "rank": "A"
+  },
+  "tests/extraction/test_fix_tuple_delimiter_free_text.py": {
+    "mi": 41.783843761241556,
+    "rank": "A"
+  },
+  "tests/extraction/test_keyword_parsing.py": {
+    "mi": 43.223939877154876,
+    "rank": "A"
+  },
+  "tests/extraction/test_pipeline_log_delock.py": {
+    "mi": 71.62005284669213,
+    "rank": "A"
+  },
+  "tests/extraction/test_merge_entities_relation_weight.py": {
+    "mi": 50.75803861269226,
+    "rank": "A"
+  },
+  "tests/extraction/test_extract_entities.py": {
+    "mi": 51.5168212114961,
+    "rank": "A"
+  },
+  "tests/extraction/test_kg_recovery_primitives.py": {
+    "mi": 53.34412149083158,
+    "rank": "A"
+  },
+  "tests/extraction/test_merge_entities_chunk_tracking.py": {
+    "mi": 54.41209738895448,
+    "rank": "A"
+  },
+  "tests/extraction/test_rebuild_json_empty_fallback.py": {
+    "mi": 79.58898223878703,
+    "rank": "A"
+  },
+  "tests/extraction/test_keyword_prompt_template.py": {
+    "mi": 66.02523404080829,
+    "rank": "A"
+  },
+  "tests/extraction/test_rebuild_history_scope.py": {
+    "mi": 69.83799827730473,
+    "rank": "A"
+  },
+  "tests/extraction/test_summary_map_reduce_perf.py": {
+    "mi": 82.21819291875981,
+    "rank": "A"
+  },
+  "tests/extraction/test_truncation_reporting.py": {
+    "mi": 36.4979157351159,
+    "rank": "A"
+  },
+  "tests/extraction/test_reserved_entity_type_rejection.py": {
+    "mi": 75.76142763220419,
+    "rank": "A"
+  },
+  "tests/extraction/__init__.py": {
+    "mi": 100.0,
+    "rank": "A"
+  },
+  "tests/extraction/test_json_extraction_recovery.py": {
+    "mi": 81.30784665651521,
+    "rank": "A"
+  },
+  "tests/extraction/test_kg_extraction_validator.py": {
+    "mi": 41.86921971676197,
+    "rank": "A"
+  },
+  "tests/extraction/test_rename_tracking_migration_ordering.py": {
+    "mi": 46.35341542951674,
+    "rank": "A"
+  },
+  "tests/extraction/test_rebuild_synthesis.py": {
+    "mi": 27.17208423965969,
+    "rank": "A"
+  },
+  "tests/extraction/test_relation_evidence_floor_repair.py": {
+    "mi": 51.21010605916539,
+    "rank": "A"
+  },
+  "tests/extraction/test_chunk_tracking_presence_ingestion.py": {
+    "mi": 53.877895787557705,
+    "rank": "A"
+  },
+  "tests/extraction/test_edge_vdb_none_guard.py": {
+    "mi": 73.89974374249688,
+    "rank": "A"
+  },
+  "tests/extraction/test_keyword_extraction_drivers.py": {
+    "mi": 32.43559549271189,
+    "rank": "A"
+  },
+  "tests/extraction/test_vdb_content_truncation_coverage.py": {
+    "mi": 26.619893527382494,
+    "rank": "A"
+  },
+  "tests/extraction/test_rebuild_fallback_warning_dedup.py": {
+    "mi": 72.00289368812732,
+    "rank": "A"
+  },
+  "tests/extraction/test_cache_skip_reporting.py": {
+    "mi": 54.109660792281325,
+    "rank": "A"
+  },
+  "tests/extraction/test_extract_entities_empty_chunks.py": {
+    "mi": 100.0,
+    "rank": "A"
+  },
+  "tests/extraction/test_truncate_vdb_content.py": {
+    "mi": 67.18691216565442,
+    "rank": "A"
+  },
+  "tests/extraction/test_write_ahead_indexes.py": {
+    "mi": 44.15815281928357,
+    "rank": "A"
+  },
+  "tests/extraction/test_relation_numeric_description_weight.py": {
+    "mi": 60.54830008854806,
+    "rank": "A"
+  },
+  "tests/extraction/test_extract_cache_orphans.py": {
+    "mi": 58.19058232993493,
+    "rank": "A"
+  },
+  "tests/extraction/test_merge_description_dedup.py": {
+    "mi": 55.92782899893936,
+    "rank": "A"
+  },
+  "tests/extraction/test_chunk_results_ordering.py": {
+    "mi": 73.12356711456088,
+    "rank": "A"
+  },
+  "tests/extraction/test_entity_extraction_stability.py": {
+    "mi": 0.0,
+    "rank": "C"
+  },
+  "tests/extraction/test_edge_weight_reprocess.py": {
+    "mi": 47.00024857142879,
+    "rank": "A"
+  },
+  "tests/extraction/test_summary_sanitization.py": {
+    "mi": 70.96590591666295,
+    "rank": "A"
+  }
+}

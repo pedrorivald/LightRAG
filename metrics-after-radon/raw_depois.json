@@ -1,0 +1,6989 @@
+{
+  "lightrag/pipeline_metrics.py": {
+    "loc": 153,
+    "lloc": 66,
+    "sloc": 87,
+    "comments": 16,
+    "multi": 28,
+    "blank": 20,
+    "single_comments": 18
+  },
+  "lightrag/rerank.py": {
+    "loc": 657,
+    "lloc": 246,
+    "sloc": 408,
+    "comments": 57,
+    "multi": 109,
+    "blank": 88,
+    "single_comments": 52
+  },
+  "lightrag/file_atomic.py": {
+    "loc": 191,
+    "lloc": 76,
+    "sloc": 89,
+    "comments": 11,
+    "multi": 64,
+    "blank": 27,
+    "single_comments": 11
+  },
+  "lightrag/addon_params.py": {
+    "loc": 175,
+    "lloc": 87,
+    "sloc": 113,
+    "comments": 28,
+    "multi": 11,
+    "blank": 28,
+    "single_comments": 23
+  },
+  "lightrag/table_markup.py": {
+    "loc": 191,
+    "lloc": 94,
+    "sloc": 92,
+    "comments": 17,
+    "multi": 53,
+    "blank": 29,
+    "single_comments": 17
+  },
+  "lightrag/llm_roles.py": {
+    "loc": 619,
+    "lloc": 289,
+    "sloc": 414,
+    "comments": 15,
+    "multi": 100,
+    "blank": 81,
+    "single_comments": 24
+  },
+  "lightrag/_version.py": {
+    "loc": 4,
+    "lloc": 3,
+    "sloc": 2,
+    "comments": 0,
+    "multi": 0,
+    "blank": 1,
+    "single_comments": 1
+  },
+  "lightrag/lightrag.py": {
+    "loc": 8431,
+    "lloc": 2521,
+    "sloc": 4885,
+    "comments": 1280,
+    "multi": 1517,
+    "blank": 756,
+    "single_comments": 1273
+  },
+  "lightrag/query_validation.py": {
+    "loc": 136,
+    "lloc": 37,
+    "sloc": 46,
+    "comments": 45,
+    "multi": 22,
+    "blank": 31,
+    "single_comments": 37
+  },
+  "lightrag/constants.py": {
+    "loc": 808,
+    "lloc": 200,
+    "sloc": 246,
+    "comments": 532,
+    "multi": 6,
+    "blank": 59,
+    "single_comments": 497
+  },
+  "lightrag/__init__.py": {
+    "loc": 45,
+    "lloc": 17,
+    "sloc": 35,
+    "comments": 0,
+    "multi": 0,
+    "blank": 10,
+    "single_comments": 0
+  },
+  "lightrag/types.py": {
+    "loc": 66,
+    "lloc": 52,
+    "sloc": 47,
+    "comments": 4,
+    "multi": 0,
+    "blank": 16,
+    "single_comments": 3
+  },
+  "lightrag/operate.py": {
+    "loc": 7126,
+    "lloc": 2582,
+    "sloc": 4938,
+    "comments": 937,
+    "multi": 528,
+    "blank": 814,
+    "single_comments": 846
+  },
+  "lightrag/utils.py": {
+    "loc": 8293,
+    "lloc": 3350,
+    "sloc": 4323,
+    "comments": 1072,
+    "multi": 1744,
+    "blank": 1163,
+    "single_comments": 1063
+  },
+  "lightrag/pipeline.py": {
+    "loc": 8228,
+    "lloc": 2619,
+    "sloc": 5090,
+    "comments": 1632,
+    "multi": 1030,
+    "blank": 562,
+    "single_comments": 1546
+  },
+  "lightrag/storage_migrations.py": {
+    "loc": 363,
+    "lloc": 199,
+    "sloc": 229,
+    "comments": 49,
+    "multi": 24,
+    "blank": 64,
+    "single_comments": 46
+  },
+  "lightrag/exceptions.py": {
+    "loc": 773,
+    "lloc": 203,
+    "sloc": 252,
+    "comments": 14,
+    "multi": 354,
+    "blank": 154,
+    "single_comments": 13
+  },
+  "lightrag/multimodal_context.py": {
+    "loc": 1108,
+    "lloc": 511,
+    "sloc": 730,
+    "comments": 49,
+    "multi": 193,
+    "blank": 133,
+    "single_comments": 52
+  },
+  "lightrag/utils_graph.py": {
+    "loc": 3735,
+    "lloc": 996,
+    "sloc": 2089,
+    "comments": 760,
+    "multi": 524,
+    "blank": 364,
+    "single_comments": 758
+  },
+  "lightrag/prompt.py": {
+    "loc": 900,
+    "lloc": 165,
+    "sloc": 651,
+    "comments": 36,
+    "multi": 32,
+    "blank": 175,
+    "single_comments": 42
+  },
+  "lightrag/utils_pipeline.py": {
+    "loc": 1443,
+    "lloc": 500,
+    "sloc": 723,
+    "comments": 193,
+    "multi": 365,
+    "blank": 206,
+    "single_comments": 149
+  },
+  "lightrag/namespace.py": {
+    "loc": 28,
+    "lloc": 19,
+    "sloc": 19,
+    "comments": 1,
+    "multi": 0,
+    "blank": 8,
+    "single_comments": 1
+  },
+  "lightrag/chunk_schema.py": {
+    "loc": 383,
+    "lloc": 150,
+    "sloc": 180,
+    "comments": 36,
+    "multi": 97,
+    "blank": 69,
+    "single_comments": 37
+  },
+  "lightrag/base.py": {
+    "loc": 2152,
+    "lloc": 642,
+    "sloc": 581,
+    "comments": 53,
+    "multi": 1107,
+    "blank": 378,
+    "single_comments": 86
+  },
+  "lightrag/prompt_multimodal.py": {
+    "loc": 357,
+    "lloc": 20,
+    "sloc": 259,
+    "comments": 0,
+    "multi": 30,
+    "blank": 68,
+    "single_comments": 0
+  },
+  "lightrag/tools/hash_password.py": {
+    "loc": 39,
+    "lloc": 22,
+    "sloc": 31,
+    "comments": 0,
+    "multi": 0,
+    "blank": 8,
+    "single_comments": 0
+  },
+  "lightrag/tools/clean_llm_query_cache.py": {
+    "loc": 1251,
+    "lloc": 732,
+    "sloc": 799,
+    "comments": 74,
+    "multi": 138,
+    "blank": 232,
+    "single_comments": 82
+  },
+  "lightrag/tools/__init__.py": {
+    "loc": 0,
+    "lloc": 0,
+    "sloc": 0,
+    "comments": 0,
+    "multi": 0,
+    "blank": 0,
+    "single_comments": 0
+  },
+  "lightrag/tools/kg_integrity_repair.py": {
+    "loc": 348,
+    "lloc": 167,
+    "sloc": 217,
+    "comments": 13,
+    "multi": 67,
+    "blank": 51,
+    "single_comments": 13
+  },
+  "lightrag/tools/download_cache.py": {
+    "loc": 347,
+    "lloc": 163,
+    "sloc": 253,
+    "comments": 28,
+    "multi": 21,
+    "blank": 52,
+    "single_comments": 21
+  },
+  "lightrag/tools/source_conflict_repair.py": {
+    "loc": 880,
+    "lloc": 230,
+    "sloc": 462,
+    "comments": 61,
+    "multi": 274,
+    "blank": 87,
+    "single_comments": 57
+  },
+  "lightrag/tools/chunk_tracking_repair.py": {
+    "loc": 1259,
+    "lloc": 642,
+    "sloc": 1085,
+    "comments": 20,
+    "multi": 32,
+    "blank": 111,
+    "single_comments": 31
+  },
+  "lightrag/tools/rebuild_vdb.py": {
+    "loc": 1222,
+    "lloc": 635,
+    "sloc": 869,
+    "comments": 60,
+    "multi": 150,
+    "blank": 145,
+    "single_comments": 58
+  },
+  "lightrag/tools/check_initialization.py": {
+    "loc": 179,
+    "lloc": 87,
+    "sloc": 112,
+    "comments": 9,
+    "multi": 21,
+    "blank": 37,
+    "single_comments": 9
+  },
+  "lightrag/tools/migrate_llm_cache.py": {
+    "loc": 1569,
+    "lloc": 801,
+    "sloc": 955,
+    "comments": 107,
+    "multi": 209,
+    "blank": 291,
+    "single_comments": 114
+  },
+  "lightrag/tools/migrate_graph_storage.py": {
+    "loc": 1273,
+    "lloc": 423,
+    "sloc": 622,
+    "comments": 152,
+    "multi": 352,
+    "blank": 162,
+    "single_comments": 137
+  },
+  "lightrag/llm/nvidia_openai.py": {
+    "loc": 85,
+    "lloc": 28,
+    "sloc": 61,
+    "comments": 9,
+    "multi": 8,
+    "blank": 12,
+    "single_comments": 4
+  },
+  "lightrag/llm/_error_utils.py": {
+    "loc": 58,
+    "lloc": 17,
+    "sloc": 23,
+    "comments": 10,
+    "multi": 18,
+    "blank": 7,
+    "single_comments": 10
+  },
+  "lightrag/llm/lmdeploy.py": {
+    "loc": 186,
+    "lloc": 60,
+    "sloc": 130,
+    "comments": 4,
+    "multi": 33,
+    "blank": 20,
+    "single_comments": 3
+  },
+  "lightrag/llm/zhipu.py": {
+    "loc": 304,
+    "lloc": 120,
+    "sloc": 210,
+    "comments": 44,
+    "multi": 23,
+    "blank": 31,
+    "single_comments": 40
+  },
+  "lightrag/llm/jina.py": {
+    "loc": 181,
+    "lloc": 70,
+    "sloc": 121,
+    "comments": 8,
+    "multi": 30,
+    "blank": 24,
+    "single_comments": 6
+  },
+  "lightrag/llm/__init__.py": {
+    "loc": 0,
+    "lloc": 0,
+    "sloc": 0,
+    "comments": 0,
+    "multi": 0,
+    "blank": 0,
+    "single_comments": 0
+  },
+  "lightrag/llm/voyageai.py": {
+    "loc": 200,
+    "lloc": 49,
+    "sloc": 135,
+    "comments": 8,
+    "multi": 35,
+    "blank": 23,
+    "single_comments": 7
+  },
+  "lightrag/llm/gemini.py": {
+    "loc": 869,
+    "lloc": 341,
+    "sloc": 536,
+    "comments": 73,
+    "multi": 136,
+    "blank": 126,
+    "single_comments": 71
+  },
+  "lightrag/llm/_vision_utils.py": {
+    "loc": 301,
+    "lloc": 183,
+    "sloc": 203,
+    "comments": 19,
+    "multi": 40,
+    "blank": 39,
+    "single_comments": 19
+  },
+  "lightrag/llm/binding_options.py": {
+    "loc": 954,
+    "lloc": 460,
+    "sloc": 577,
+    "comments": 217,
+    "multi": 63,
+    "blank": 133,
+    "single_comments": 181
+  },
+  "lightrag/llm/lollms.py": {
+    "loc": 227,
+    "lloc": 78,
+    "sloc": 160,
+    "comments": 7,
+    "multi": 28,
+    "blank": 32,
+    "single_comments": 7
+  },
+  "lightrag/llm/openai.py": {
+    "loc": 1405,
+    "lloc": 481,
+    "sloc": 872,
+    "comments": 171,
+    "multi": 216,
+    "blank": 154,
+    "single_comments": 163
+  },
+  "lightrag/llm/azure_openai.py": {
+    "loc": 22,
+    "lloc": 3,
+    "sloc": 10,
+    "comments": 0,
+    "multi": 8,
+    "blank": 4,
+    "single_comments": 0
+  },
+  "lightrag/llm/anthropic.py": {
+    "loc": 435,
+    "lloc": 195,
+    "sloc": 349,
+    "comments": 40,
+    "multi": 12,
+    "blank": 34,
+    "single_comments": 40
+  },
+  "lightrag/llm/llama_index_impl.py": {
+    "loc": 259,
+    "lloc": 87,
+    "sloc": 167,
+    "comments": 24,
+    "multi": 34,
+    "blank": 32,
+    "single_comments": 26
+  },
+  "lightrag/llm/ollama.py": {
+    "loc": 586,
+    "lloc": 259,
+    "sloc": 351,
+    "comments": 75,
+    "multi": 97,
+    "blank": 63,
+    "single_comments": 75
+  },
+  "lightrag/llm/bedrock.py": {
+    "loc": 708,
+    "lloc": 270,
+    "sloc": 498,
+    "comments": 65,
+    "multi": 53,
+    "blank": 89,
+    "single_comments": 68
+  },
+  "lightrag/llm/hf.py": {
+    "loc": 389,
+    "lloc": 153,
+    "sloc": 262,
+    "comments": 64,
+    "multi": 28,
+    "blank": 37,
+    "single_comments": 62
+  },
+  "lightrag/llm/deprecated/siliconcloud.py": {
+    "loc": 69,
+    "lloc": 38,
+    "sloc": 56,
+    "comments": 2,
+    "multi": 0,
+    "blank": 12,
+    "single_comments": 1
+  },
+  "lightrag/parser/plugins.py": {
+    "loc": 66,
+    "lloc": 25,
+    "sloc": 27,
+    "comments": 0,
+    "multi": 25,
+    "blank": 14,
+    "single_comments": 0
+  },
+  "lightrag/parser/param_schema.py": {
+    "loc": 670,
+    "lloc": 337,
+    "sloc": 438,
+    "comments": 43,
+    "multi": 110,
+    "blank": 86,
+    "single_comments": 36
+  },
+  "lightrag/parser/native_dispatch.py": {
+    "loc": 59,
+    "lloc": 33,
+    "sloc": 29,
+    "comments": 2,
+    "multi": 12,
+    "blank": 15,
+    "single_comments": 3
+  },
+  "lightrag/parser/registry.py": {
+    "loc": 427,
+    "lloc": 143,
+    "sloc": 256,
+    "comments": 48,
+    "multi": 66,
+    "blank": 63,
+    "single_comments": 42
+  },
+  "lightrag/parser/_html_table.py": {
+    "loc": 217,
+    "lloc": 142,
+    "sloc": 142,
+    "comments": 5,
+    "multi": 34,
+    "blank": 36,
+    "single_comments": 5
+  },
+  "lightrag/parser/__init__.py": {
+    "loc": 13,
+    "lloc": 1,
+    "sloc": 0,
+    "comments": 0,
+    "multi": 11,
+    "blank": 2,
+    "single_comments": 0
+  },
+  "lightrag/parser/llm_bridge.py": {
+    "loc": 108,
+    "lloc": 40,
+    "sloc": 61,
+    "comments": 9,
+    "multi": 27,
+    "blank": 11,
+    "single_comments": 9
+  },
+  "lightrag/parser/cli.py": {
+    "loc": 314,
+    "lloc": 134,
+    "sloc": 220,
+    "comments": 34,
+    "multi": 16,
+    "blank": 44,
+    "single_comments": 34
+  },
+  "lightrag/parser/_markdown.py": {
+    "loc": 72,
+    "lloc": 15,
+    "sloc": 16,
+    "comments": 12,
+    "multi": 29,
+    "blank": 15,
+    "single_comments": 12
+  },
+  "lightrag/parser/routing.py": {
+    "loc": 1574,
+    "lloc": 683,
+    "sloc": 921,
+    "comments": 117,
+    "multi": 327,
+    "blank": 210,
+    "single_comments": 116
+  },
+  "lightrag/parser/debug.py": {
+    "loc": 129,
+    "lloc": 44,
+    "sloc": 47,
+    "comments": 1,
+    "multi": 48,
+    "blank": 32,
+    "single_comments": 2
+  },
+  "lightrag/parser/noop.py": {
+    "loc": 67,
+    "lloc": 18,
+    "sloc": 36,
+    "comments": 2,
+    "multi": 13,
+    "blank": 14,
+    "single_comments": 4
+  },
+  "lightrag/parser/native_base.py": {
+    "loc": 506,
+    "lloc": 149,
+    "sloc": 272,
+    "comments": 116,
+    "multi": 72,
+    "blank": 49,
+    "single_comments": 113
+  },
+  "lightrag/parser/exceptions.py": {
+    "loc": 63,
+    "lloc": 27,
+    "sloc": 27,
+    "comments": 0,
+    "multi": 18,
+    "blank": 15,
+    "single_comments": 3
+  },
+  "lightrag/parser/base.py": {
+    "loc": 168,
+    "lloc": 89,
+    "sloc": 82,
+    "comments": 9,
+    "multi": 44,
+    "blank": 31,
+    "single_comments": 11
+  },
+  "lightrag/parser/markdown/ir_builder.py": {
+    "loc": 230,
+    "lloc": 98,
+    "sloc": 175,
+    "comments": 5,
+    "multi": 20,
+    "blank": 30,
+    "single_comments": 5
+  },
+  "lightrag/parser/markdown/__init__.py": {
+    "loc": 1,
+    "lloc": 1,
+    "sloc": 0,
+    "comments": 0,
+    "multi": 0,
+    "blank": 0,
+    "single_comments": 1
+  },
+  "lightrag/parser/markdown/parser.py": {
+    "loc": 1751,
+    "lloc": 777,
+    "sloc": 967,
+    "comments": 230,
+    "multi": 339,
+    "blank": 213,
+    "single_comments": 232
+  },
+  "lightrag/parser/markdown/raw_cache.py": {
+    "loc": 249,
+    "lloc": 141,
+    "sloc": 159,
+    "comments": 8,
+    "multi": 53,
+    "blank": 28,
+    "single_comments": 9
+  },
+  "lightrag/parser/markdown/extract.py": {
+    "loc": 711,
+    "lloc": 441,
+    "sloc": 434,
+    "comments": 59,
+    "multi": 121,
+    "blank": 102,
+    "single_comments": 54
+  },
+  "lightrag/parser/legacy/extractors.py": {
+    "loc": 241,
+    "lloc": 134,
+    "sloc": 156,
+    "comments": 21,
+    "multi": 24,
+    "blank": 41,
+    "single_comments": 20
+  },
+  "lightrag/parser/legacy/__init__.py": {
+    "loc": 14,
+    "lloc": 3,
+    "sloc": 5,
+    "comments": 0,
+    "multi": 6,
+    "blank": 3,
+    "single_comments": 0
+  },
+  "lightrag/parser/legacy/parser.py": {
+    "loc": 82,
+    "lloc": 29,
+    "sloc": 56,
+    "comments": 8,
+    "multi": 5,
+    "blank": 12,
+    "single_comments": 9
+  },
+  "lightrag/parser/external/_manifest.py": {
+    "loc": 167,
+    "lloc": 87,
+    "sloc": 120,
+    "comments": 2,
+    "multi": 24,
+    "blank": 22,
+    "single_comments": 1
+  },
+  "lightrag/parser/external/_base.py": {
+    "loc": 189,
+    "lloc": 65,
+    "sloc": 129,
+    "comments": 16,
+    "multi": 23,
+    "blank": 22,
+    "single_comments": 15
+  },
+  "lightrag/parser/external/_zip.py": {
+    "loc": 99,
+    "lloc": 33,
+    "sloc": 59,
+    "comments": 0,
+    "multi": 27,
+    "blank": 13,
+    "single_comments": 0
+  },
+  "lightrag/parser/external/_common.py": {
+    "loc": 339,
+    "lloc": 149,
+    "sloc": 185,
+    "comments": 0,
+    "multi": 103,
+    "blank": 49,
+    "single_comments": 2
+  },
+  "lightrag/parser/external/__init__.py": {
+    "loc": 50,
+    "lloc": 5,
+    "sloc": 34,
+    "comments": 0,
+    "multi": 11,
+    "blank": 5,
+    "single_comments": 0
+  },
+  "lightrag/parser/external/docling/ir_builder.py": {
+    "loc": 1068,
+    "lloc": 643,
+    "sloc": 797,
+    "comments": 54,
+    "multi": 92,
+    "blank": 121,
+    "single_comments": 58
+  },
+  "lightrag/parser/external/docling/manifest.py": {
+    "loc": 130,
+    "lloc": 48,
+    "sloc": 84,
+    "comments": 0,
+    "multi": 27,
+    "blank": 19,
+    "single_comments": 0
+  },
+  "lightrag/parser/external/docling/client.py": {
+    "loc": 537,
+    "lloc": 216,
+    "sloc": 333,
+    "comments": 67,
+    "multi": 70,
+    "blank": 69,
+    "single_comments": 65
+  },
+  "lightrag/parser/external/docling/cache.py": {
+    "loc": 256,
+    "lloc": 87,
+    "sloc": 136,
+    "comments": 39,
+    "multi": 47,
+    "blank": 33,
+    "single_comments": 40
+  },
+  "lightrag/parser/external/docling/__init__.py": {
+    "loc": 41,
+    "lloc": 11,
+    "sloc": 26,
+    "comments": 5,
+    "multi": 4,
+    "blank": 8,
+    "single_comments": 3
+  },
+  "lightrag/parser/external/docling/parser.py": {
+    "loc": 61,
+    "lloc": 25,
+    "sloc": 44,
+    "comments": 3,
+    "multi": 0,
+    "blank": 13,
+    "single_comments": 4
+  },
+  "lightrag/parser/external/mineru/ir_builder.py": {
+    "loc": 885,
+    "lloc": 418,
+    "sloc": 548,
+    "comments": 126,
+    "multi": 113,
+    "blank": 98,
+    "single_comments": 126
+  },
+  "lightrag/parser/external/mineru/manifest.py": {
+    "loc": 164,
+    "lloc": 86,
+    "sloc": 119,
+    "comments": 6,
+    "multi": 21,
+    "blank": 22,
+    "single_comments": 2
+  },
+  "lightrag/parser/external/mineru/client.py": {
+    "loc": 742,
+    "lloc": 359,
+    "sloc": 554,
+    "comments": 56,
+    "multi": 52,
+    "blank": 80,
+    "single_comments": 56
+  },
+  "lightrag/parser/external/mineru/cache.py": {
+    "loc": 431,
+    "lloc": 205,
+    "sloc": 311,
+    "comments": 10,
+    "multi": 52,
+    "blank": 57,
+    "single_comments": 11
+  },
+  "lightrag/parser/external/mineru/__init__.py": {
+    "loc": 31,
+    "lloc": 6,
+    "sloc": 21,
+    "comments": 0,
+    "multi": 6,
+    "blank": 4,
+    "single_comments": 0
+  },
+  "lightrag/parser/external/mineru/parser.py": {
+    "loc": 51,
+    "lloc": 22,
+    "sloc": 38,
+    "comments": 0,
+    "multi": 0,
+    "blank": 12,
+    "single_comments": 1
+  },
+  "lightrag/parser/docx/ir_builder.py": {
+    "loc": 335,
+    "lloc": 147,
+    "sloc": 220,
+    "comments": 24,
+    "multi": 45,
+    "blank": 46,
+    "single_comments": 24
+  },
+  "lightrag/parser/docx/__init__.py": {
+    "loc": 14,
+    "lloc": 3,
+    "sloc": 1,
+    "comments": 0,
+    "multi": 10,
+    "blank": 3,
+    "single_comments": 0
+  },
+  "lightrag/parser/docx/zip_budget.py": {
+    "loc": 202,
+    "lloc": 54,
+    "sloc": 93,
+    "comments": 17,
+    "multi": 63,
+    "blank": 29,
+    "single_comments": 17
+  },
+  "lightrag/parser/docx/parser.py": {
+    "loc": 182,
+    "lloc": 58,
+    "sloc": 114,
+    "comments": 26,
+    "multi": 15,
+    "blank": 25,
+    "single_comments": 28
+  },
+  "lightrag/parser/docx/numbering_resolver.py": {
+    "loc": 703,
+    "lloc": 341,
+    "sloc": 409,
+    "comments": 122,
+    "multi": 99,
+    "blank": 81,
+    "single_comments": 114
+  },
+  "lightrag/parser/docx/parse_document.py": {
+    "loc": 1536,
+    "lloc": 630,
+    "sloc": 944,
+    "comments": 235,
+    "multi": 203,
+    "blank": 192,
+    "single_comments": 197
+  },
+  "lightrag/parser/docx/drawing_image_extractor.py": {
+    "loc": 635,
+    "lloc": 397,
+    "sloc": 460,
+    "comments": 25,
+    "multi": 50,
+    "blank": 93,
+    "single_comments": 32
+  },
+  "lightrag/parser/docx/utils.py": {
+    "loc": 803,
+    "lloc": 230,
+    "sloc": 487,
+    "comments": 50,
+    "multi": 145,
+    "blank": 123,
+    "single_comments": 48
+  },
+  "lightrag/parser/docx/table_extractor.py": {
+    "loc": 486,
+    "lloc": 203,
+    "sloc": 291,
+    "comments": 57,
+    "multi": 88,
+    "blank": 64,
+    "single_comments": 43
+  },
+  "lightrag/parser/docx/smart_heading/__init__.py": {
+    "loc": 7,
+    "lloc": 1,
+    "sloc": 0,
+    "comments": 0,
+    "multi": 6,
+    "blank": 1,
+    "single_comments": 0
+  },
+  "lightrag/parser/docx/smart_heading/features.py": {
+    "loc": 832,
+    "lloc": 440,
+    "sloc": 467,
+    "comments": 148,
+    "multi": 130,
+    "blank": 114,
+    "single_comments": 121
+  },
+  "lightrag/parser/docx/smart_heading/heading_flow.py": {
+    "loc": 3424,
+    "lloc": 1581,
+    "sloc": 2197,
+    "comments": 524,
+    "multi": 456,
+    "blank": 303,
+    "single_comments": 468
+  },
+  "lightrag/parser/docx/smart_heading/nlp.py": {
+    "loc": 194,
+    "lloc": 99,
+    "sloc": 95,
+    "comments": 8,
+    "multi": 50,
+    "blank": 39,
+    "single_comments": 10
+  },
+  "lightrag/parser/docx/smart_heading/guardrails.py": {
+    "loc": 1072,
+    "lloc": 483,
+    "sloc": 561,
+    "comments": 153,
+    "multi": 230,
+    "blank": 133,
+    "single_comments": 148
+  },
+  "lightrag/parser/docx/smart_heading/title_block.py": {
+    "loc": 1757,
+    "lloc": 789,
+    "sloc": 1056,
+    "comments": 263,
+    "multi": 292,
+    "blank": 159,
+    "single_comments": 250
+  },
+  "lightrag/parser/docx/smart_heading/style_key.py": {
+    "loc": 519,
+    "lloc": 287,
+    "sloc": 368,
+    "comments": 49,
+    "multi": 51,
+    "blank": 61,
+    "single_comments": 39
+  },
+  "lightrag/parser/docx/omml/__init__.py": {
+    "loc": 10,
+    "lloc": 5,
+    "sloc": 3,
+    "comments": 0,
+    "multi": 3,
+    "blank": 3,
+    "single_comments": 1
+  },
+  "lightrag/parser/docx/omml/utils.py": {
+    "loc": 40,
+    "lloc": 17,
+    "sloc": 16,
+    "comments": 0,
+    "multi": 17,
+    "blank": 7,
+    "single_comments": 0
+  },
+  "lightrag/parser/docx/omml/ommlparser.py": {
+    "loc": 597,
+    "lloc": 362,
+    "sloc": 487,
+    "comments": 55,
+    "multi": 23,
+    "blank": 41,
+    "single_comments": 46
+  },
+  "lightrag/parser/docx/omml/cleaners.py": {
+    "loc": 38,
+    "lloc": 9,
+    "sloc": 26,
+    "comments": 0,
+    "multi": 8,
+    "blank": 4,
+    "single_comments": 0
+  },
+  "lightrag/kg/qdrant_impl.py": {
+    "loc": 1534,
+    "lloc": 608,
+    "sloc": 1042,
+    "comments": 141,
+    "multi": 178,
+    "blank": 167,
+    "single_comments": 147
+  },
+  "lightrag/kg/networkx_impl.py": {
+    "loc": 1883,
+    "lloc": 539,
+    "sloc": 765,
+    "comments": 567,
+    "multi": 379,
+    "blank": 171,
+    "single_comments": 568
+  },
+  "lightrag/kg/pgtable_impl.py": {
+    "loc": 1651,
+    "lloc": 414,
+    "sloc": 1155,
+    "comments": 250,
+    "multi": 144,
+    "blank": 125,
+    "single_comments": 227
+  },
+  "lightrag/kg/mongo_impl.py": {
+    "loc": 5246,
+    "lloc": 2209,
+    "sloc": 3345,
+    "comments": 651,
+    "multi": 719,
+    "blank": 563,
+    "single_comments": 619
+  },
+  "lightrag/kg/postgres_impl.py": {
+    "loc": 10032,
+    "lloc": 3831,
+    "sloc": 7032,
+    "comments": 1070,
+    "multi": 1013,
+    "blank": 977,
+    "single_comments": 1010
+  },
+  "lightrag/kg/faiss_impl.py": {
+    "loc": 2193,
+    "lloc": 689,
+    "sloc": 915,
+    "comments": 521,
+    "multi": 556,
+    "blank": 207,
+    "single_comments": 515
+  },
+  "lightrag/kg/pipeline_ingress.py": {
+    "loc": 955,
+    "lloc": 444,
+    "sloc": 488,
+    "comments": 33,
+    "multi": 250,
+    "blank": 184,
+    "single_comments": 33
+  },
+  "lightrag/kg/noop_vector_db_impl.py": {
+    "loc": 66,
+    "lloc": 36,
+    "sloc": 43,
+    "comments": 0,
+    "multi": 5,
+    "blank": 17,
+    "single_comments": 1
+  },
+  "lightrag/kg/file_fingerprint.py": {
+    "loc": 338,
+    "lloc": 60,
+    "sloc": 76,
+    "comments": 7,
+    "multi": 205,
+    "blank": 51,
+    "single_comments": 6
+  },
+  "lightrag/kg/__init__.py": {
+    "loc": 171,
+    "lloc": 13,
+    "sloc": 155,
+    "comments": 10,
+    "multi": 7,
+    "blank": 7,
+    "single_comments": 2
+  },
+  "lightrag/kg/factory.py": {
+    "loc": 42,
+    "lloc": 22,
+    "sloc": 20,
+    "comments": 4,
+    "multi": 6,
+    "blank": 11,
+    "single_comments": 5
+  },
+  "lightrag/kg/shared_storage.py": {
+    "loc": 4660,
+    "lloc": 1843,
+    "sloc": 2504,
+    "comments": 617,
+    "multi": 1003,
+    "blank": 634,
+    "single_comments": 519
+  },
+  "lightrag/kg/opensearch_impl.py": {
+    "loc": 7352,
+    "lloc": 3466,
+    "sloc": 4951,
+    "comments": 704,
+    "multi": 1101,
+    "blank": 559,
+    "single_comments": 741
+  },
+  "lightrag/kg/scan_job_store.py": {
+    "loc": 812,
+    "lloc": 367,
+    "sloc": 518,
+    "comments": 76,
+    "multi": 118,
+    "blank": 106,
+    "single_comments": 70
+  },
+  "lightrag/kg/milvus_impl.py": {
+    "loc": 3626,
+    "lloc": 1426,
+    "sloc": 2314,
+    "comments": 483,
+    "multi": 412,
+    "blank": 401,
+    "single_comments": 499
+  },
+  "lightrag/kg/write_seq.py": {
+    "loc": 122,
+    "lloc": 22,
+    "sloc": 19,
+    "comments": 4,
+    "multi": 82,
+    "blank": 17,
+    "single_comments": 4
+  },
+  "lightrag/kg/nano_vector_db_impl.py": {
+    "loc": 1759,
+    "lloc": 581,
+    "sloc": 785,
+    "comments": 391,
+    "multi": 428,
+    "blank": 161,
+    "single_comments": 385
+  },
+  "lightrag/kg/memgraph_impl.py": {
+    "loc": 1443,
+    "lloc": 678,
+    "sloc": 1071,
+    "comments": 73,
+    "multi": 168,
+    "blank": 149,
+    "single_comments": 55
+  },
+  "lightrag/kg/json_kv_impl.py": {
+    "loc": 541,
+    "lloc": 192,
+    "sloc": 237,
+    "comments": 97,
+    "multi": 142,
+    "blank": 68,
+    "single_comments": 94
+  },
+  "lightrag/kg/json_doc_status_impl.py": {
+    "loc": 1237,
+    "lloc": 569,
+    "sloc": 737,
+    "comments": 130,
+    "multi": 254,
+    "blank": 115,
+    "single_comments": 131
+  },
+  "lightrag/kg/neo4j_impl.py": {
+    "loc": 2165,
+    "lloc": 868,
+    "sloc": 1547,
+    "comments": 192,
+    "multi": 234,
+    "blank": 214,
+    "single_comments": 170
+  },
+  "lightrag/kg/redis_impl.py": {
+    "loc": 2860,
+    "lloc": 1438,
+    "sloc": 1809,
+    "comments": 248,
+    "multi": 504,
+    "blank": 290,
+    "single_comments": 257
+  },
+  "lightrag/kg/vector_space.py": {
+    "loc": 175,
+    "lloc": 61,
+    "sloc": 78,
+    "comments": 2,
+    "multi": 63,
+    "blank": 31,
+    "single_comments": 3
+  },
+  "lightrag/kg/deprecated/chroma_impl.py": {
+    "loc": 344,
+    "lloc": 153,
+    "sloc": 240,
+    "comments": 32,
+    "multi": 32,
+    "blank": 53,
+    "single_comments": 19
+  },
+  "lightrag/api/auth.py": {
+    "loc": 263,
+    "lloc": 108,
+    "sloc": 148,
+    "comments": 60,
+    "multi": 27,
+    "blank": 32,
+    "single_comments": 56
+  },
+  "lightrag/api/config.py": {
+    "loc": 1115,
+    "lloc": 383,
+    "sloc": 759,
+    "comments": 137,
+    "multi": 74,
+    "blank": 145,
+    "single_comments": 137
+  },
+  "lightrag/api/input_limits.py": {
+    "loc": 24,
+    "lloc": 11,
+    "sloc": 13,
+    "comments": 0,
+    "multi": 5,
+    "blank": 5,
+    "single_comments": 1
+  },
+  "lightrag/api/ui_customization.py": {
+    "loc": 960,
+    "lloc": 486,
+    "sloc": 534,
+    "comments": 121,
+    "multi": 201,
+    "blank": 118,
+    "single_comments": 107
+  },
+  "lightrag/api/utils_api.py": {
+    "loc": 928,
+    "lloc": 386,
+    "sloc": 523,
+    "comments": 144,
+    "multi": 152,
+    "blank": 117,
+    "single_comments": 136
+  },
+  "lightrag/api/asgi_helpers.py": {
+    "loc": 97,
+    "lloc": 47,
+    "sloc": 51,
+    "comments": 2,
+    "multi": 24,
+    "blank": 18,
+    "single_comments": 4
+  },
+  "lightrag/api/admission_middleware.py": {
+    "loc": 163,
+    "lloc": 54,
+    "sloc": 81,
+    "comments": 25,
+    "multi": 35,
+    "blank": 23,
+    "single_comments": 24
+  },
+  "lightrag/api/__init__.py": {
+    "loc": 1,
+    "lloc": 1,
+    "sloc": 1,
+    "comments": 0,
+    "multi": 0,
+    "blank": 0,
+    "single_comments": 0
+  },
+  "lightrag/api/gunicorn_worker.py": {
+    "loc": 69,
+    "lloc": 21,
+    "sloc": 23,
+    "comments": 3,
+    "multi": 30,
+    "blank": 12,
+    "single_comments": 4
+  },
+  "lightrag/api/gunicorn_config.py": {
+    "loc": 163,
+    "lloc": 60,
+    "sloc": 112,
+    "comments": 17,
+    "multi": 12,
+    "blank": 24,
+    "single_comments": 15
+  },
+  "lightrag/api/run_with_gunicorn.py": {
+    "loc": 302,
+    "lloc": 129,
+    "sloc": 215,
+    "comments": 35,
+    "multi": 13,
+    "blank": 39,
+    "single_comments": 35
+  },
+  "lightrag/api/admission.py": {
+    "loc": 65,
+    "lloc": 25,
+    "sloc": 18,
+    "comments": 3,
+    "multi": 25,
+    "blank": 17,
+    "single_comments": 5
+  },
+  "lightrag/api/passwords.py": {
+    "loc": 34,
+    "lloc": 20,
+    "sloc": 21,
+    "comments": 4,
+    "multi": 0,
+    "blank": 7,
+    "single_comments": 6
+  },
+  "lightrag/api/body_limit_middleware.py": {
+    "loc": 178,
+    "lloc": 66,
+    "sloc": 80,
+    "comments": 13,
+    "multi": 53,
+    "blank": 32,
+    "single_comments": 13
+  },
+  "lightrag/api/runtime_validation.py": {
+    "loc": 128,
+    "lloc": 64,
+    "sloc": 92,
+    "comments": 0,
+    "multi": 0,
+    "blank": 29,
+    "single_comments": 7
+  },
+  "lightrag/api/lightrag_server.py": {
+    "loc": 3478,
+    "lloc": 1149,
+    "sloc": 2499,
+    "comments": 483,
+    "multi": 165,
+    "blank": 370,
+    "single_comments": 444
+  },
+  "lightrag/api/login_rate_limit.py": {
+    "loc": 258,
+    "lloc": 127,
+    "sloc": 132,
+    "comments": 25,
+    "multi": 67,
+    "blank": 36,
+    "single_comments": 23
+  },
+  "lightrag/api/routers/ui_customization_routes.py": {
+    "loc": 164,
+    "lloc": 45,
+    "sloc": 109,
+    "comments": 31,
+    "multi": 20,
+    "blank": 20,
+    "single_comments": 15
+  },
+  "lightrag/api/routers/ollama_api.py": {
+    "loc": 928,
+    "lloc": 468,
+    "sloc": 684,
+    "comments": 67,
+    "multi": 47,
+    "blank": 126,
+    "single_comments": 71
+  },
+  "lightrag/api/routers/graph_routes.py": {
+    "loc": 966,
+    "lloc": 314,
+    "sloc": 470,
+    "comments": 22,
+    "multi": 367,
+    "blank": 106,
+    "single_comments": 23
+  },
+  "lightrag/api/routers/__init__.py": {
+    "loc": 14,
+    "lloc": 3,
+    "sloc": 2,
+    "comments": 0,
+    "multi": 9,
+    "blank": 3,
+    "single_comments": 0
+  },
+  "lightrag/api/routers/query_routes.py": {
+    "loc": 1545,
+    "lloc": 313,
+    "sloc": 1031,
+    "comments": 73,
+    "multi": 317,
+    "blank": 124,
+    "single_comments": 73
+  },
+  "lightrag/api/routers/document_routes.py": {
+    "loc": 7455,
+    "lloc": 2374,
+    "sloc": 4296,
+    "comments": 1030,
+    "multi": 1333,
+    "blank": 789,
+    "single_comments": 1037
+  },
+  "lightrag/evaluation/eval_rag_quality.py": {
+    "loc": 1036,
+    "lloc": 390,
+    "sloc": 655,
+    "comments": 109,
+    "multi": 122,
+    "blank": 150,
+    "single_comments": 109
+  },
+  "lightrag/evaluation/__init__.py": {
+    "loc": 25,
+    "lloc": 8,
+    "sloc": 6,
+    "comments": 0,
+    "multi": 10,
+    "blank": 8,
+    "single_comments": 1
+  },
+  "lightrag/evaluation/offline_retrieval_check.py": {
+    "loc": 254,
+    "lloc": 156,
+    "sloc": 208,
+    "comments": 1,
+    "multi": 4,
+    "blank": 41,
+    "single_comments": 1
+  },
+  "lightrag/sidecar/__init__.py": {
+    "loc": 52,
+    "lloc": 12,
+    "sloc": 29,
+    "comments": 5,
+    "multi": 8,
+    "blank": 10,
+    "single_comments": 5
+  },
+  "lightrag/sidecar/ir.py": {
+    "loc": 228,
+    "lloc": 144,
+    "sloc": 82,
+    "comments": 43,
+    "multi": 64,
+    "blank": 38,
+    "single_comments": 44
+  },
+  "lightrag/sidecar/backfill.py": {
+    "loc": 263,
+    "lloc": 117,
+    "sloc": 132,
+    "comments": 16,
+    "multi": 77,
+    "blank": 37,
+    "single_comments": 17
+  },
+  "lightrag/sidecar/writer.py": {
+    "loc": 684,
+    "lloc": 285,
+    "sloc": 487,
+    "comments": 63,
+    "multi": 62,
+    "blank": 69,
+    "single_comments": 66
+  },
+  "lightrag/sidecar/placeholders.py": {
+    "loc": 117,
+    "lloc": 38,
+    "sloc": 65,
+    "comments": 0,
+    "multi": 25,
+    "blank": 24,
+    "single_comments": 3
+  },
+  "lightrag/chunker/plugins.py": {
+    "loc": 95,
+    "lloc": 51,
+    "sloc": 62,
+    "comments": 0,
+    "multi": 15,
+    "blank": 17,
+    "single_comments": 1
+  },
+  "lightrag/chunker/registry.py": {
+    "loc": 336,
+    "lloc": 188,
+    "sloc": 239,
+    "comments": 1,
+    "multi": 41,
+    "blank": 50,
+    "single_comments": 6
+  },
+  "lightrag/chunker/semantic_vector.py": {
+    "loc": 715,
+    "lloc": 266,
+    "sloc": 380,
+    "comments": 79,
+    "multi": 187,
+    "blank": 71,
+    "single_comments": 77
+  },
+  "lightrag/chunker/__init__.py": {
+    "loc": 107,
+    "lloc": 19,
+    "sloc": 41,
+    "comments": 2,
+    "multi": 46,
+    "blank": 18,
+    "single_comments": 2
+  },
+  "lightrag/chunker/token_size.py": {
+    "loc": 304,
+    "lloc": 112,
+    "sloc": 210,
+    "comments": 14,
+    "multi": 53,
+    "blank": 27,
+    "single_comments": 14
+  },
+  "lightrag/chunker/paragraph_semantic.py": {
+    "loc": 2403,
+    "lloc": 937,
+    "sloc": 1417,
+    "comments": 372,
+    "multi": 395,
+    "blank": 237,
+    "single_comments": 354
+  },
+  "lightrag/chunker/recursive_character.py": {
+    "loc": 599,
+    "lloc": 248,
+    "sloc": 399,
+    "comments": 46,
+    "multi": 88,
+    "blank": 64,
+    "single_comments": 48
+  },
+  "tests/test_cosine_threshold_env.py": {
+    "loc": 18,
+    "lloc": 8,
+    "sloc": 7,
+    "comments": 0,
+    "multi": 5,
+    "blank": 6,
+    "single_comments": 0
+  },
+  "tests/conftest.py": {
+    "loc": 388,
+    "lloc": 133,
+    "sloc": 158,
+    "comments": 21,
+    "multi": 130,
+    "blank": 77,
+    "single_comments": 23
+  },
+  "tests/test_cosine_similarity.py": {
+    "loc": 31,
+    "lloc": 18,
+    "sloc": 19,
+    "comments": 0,
+    "multi": 0,
+    "blank": 11,
+    "single_comments": 1
+  },
+  "tests/test_queryparam_empty_int_env.py": {
+    "loc": 30,
+    "lloc": 9,
+    "sloc": 19,
+    "comments": 0,
+    "multi": 5,
+    "blank": 6,
+    "single_comments": 0
+  },
+  "tests/test_create_prefixed_exception.py": {
+    "loc": 48,
+    "lloc": 29,
+    "sloc": 27,
+    "comments": 3,
+    "multi": 7,
+    "blank": 12,
+    "single_comments": 2
+  },
+  "tests/test_doc_processing_status_from_stored.py": {
+    "loc": 91,
+    "lloc": 37,
+    "sloc": 50,
+    "comments": 5,
+    "multi": 11,
+    "blank": 25,
+    "single_comments": 5
+  },
+  "tests/test_kg_vector_chunk_quota.py": {
+    "loc": 110,
+    "lloc": 47,
+    "sloc": 88,
+    "comments": 6,
+    "multi": 0,
+    "blank": 22,
+    "single_comments": 0
+  },
+  "tests/test_parse_optional_float.py": {
+    "loc": 22,
+    "lloc": 14,
+    "sloc": 13,
+    "comments": 0,
+    "multi": 0,
+    "blank": 8,
+    "single_comments": 1
+  },
+  "tests/test_operate_vector_context.py": {
+    "loc": 65,
+    "lloc": 31,
+    "sloc": 33,
+    "comments": 0,
+    "multi": 11,
+    "blank": 19,
+    "single_comments": 2
+  },
+  "tests/test_strip_control_characters.py": {
+    "loc": 59,
+    "lloc": 27,
+    "sloc": 26,
+    "comments": 6,
+    "multi": 7,
+    "blank": 20,
+    "single_comments": 6
+  },
+  "tests/__init__.py": {
+    "loc": 1,
+    "lloc": 1,
+    "sloc": 0,
+    "comments": 0,
+    "multi": 0,
+    "blank": 0,
+    "single_comments": 1
+  },
+  "tests/test_cosine_similarity_nonfinite.py": {
+    "loc": 20,
+    "lloc": 13,
+    "sloc": 12,
+    "comments": 0,
+    "multi": 0,
+    "blank": 7,
+    "single_comments": 1
+  },
+  "tests/test_rerank_null_chunk_index_score.py": {
+    "loc": 27,
+    "lloc": 12,
+    "sloc": 19,
+    "comments": 0,
+    "multi": 3,
+    "blank": 4,
+    "single_comments": 1
+  },
+  "tests/test_get_env_value_nonfinite.py": {
+    "loc": 26,
+    "lloc": 16,
+    "sloc": 15,
+    "comments": 0,
+    "multi": 0,
+    "blank": 10,
+    "single_comments": 1
+  },
+  "tests/test_dataclass_positional_compatibility.py": {
+    "loc": 232,
+    "lloc": 47,
+    "sloc": 160,
+    "comments": 14,
+    "multi": 24,
+    "blank": 32,
+    "single_comments": 16
+  },
+  "tests/test_sync_wrapper_guard.py": {
+    "loc": 196,
+    "lloc": 96,
+    "sloc": 99,
+    "comments": 8,
+    "multi": 42,
+    "blank": 48,
+    "single_comments": 7
+  },
+  "tests/_env_import_probe.py": {
+    "loc": 72,
+    "lloc": 22,
+    "sloc": 49,
+    "comments": 1,
+    "multi": 13,
+    "blank": 9,
+    "single_comments": 1
+  },
+  "tests/test_aclear_cache_contract.py": {
+    "loc": 94,
+    "lloc": 51,
+    "sloc": 45,
+    "comments": 3,
+    "multi": 18,
+    "blank": 31,
+    "single_comments": 0
+  },
+  "tests/test_lightrag_query_validation.py": {
+    "loc": 45,
+    "lloc": 21,
+    "sloc": 32,
+    "comments": 0,
+    "multi": 3,
+    "blank": 10,
+    "single_comments": 0
+  },
+  "tests/test_query_validation.py": {
+    "loc": 286,
+    "lloc": 86,
+    "sloc": 193,
+    "comments": 9,
+    "multi": 40,
+    "blank": 48,
+    "single_comments": 5
+  },
+  "tests/test_operate_entity_chunk_selection.py": {
+    "loc": 174,
+    "lloc": 75,
+    "sloc": 110,
+    "comments": 1,
+    "multi": 17,
+    "blank": 41,
+    "single_comments": 6
+  },
+  "tests/test_operate_truncation_order.py": {
+    "loc": 341,
+    "lloc": 120,
+    "sloc": 230,
+    "comments": 3,
+    "multi": 32,
+    "blank": 69,
+    "single_comments": 10
+  },
+  "tests/test_split_text_by_token_limit.py": {
+    "loc": 40,
+    "lloc": 24,
+    "sloc": 23,
+    "comments": 0,
+    "multi": 0,
+    "blank": 16,
+    "single_comments": 1
+  },
+  "tests/test_storage_migrations_strict_read.py": {
+    "loc": 140,
+    "lloc": 77,
+    "sloc": 78,
+    "comments": 4,
+    "multi": 20,
+    "blank": 36,
+    "single_comments": 6
+  },
+  "tests/test_addon_params.py": {
+    "loc": 146,
+    "lloc": 92,
+    "sloc": 77,
+    "comments": 5,
+    "multi": 17,
+    "blank": 46,
+    "single_comments": 6
+  },
+  "tests/test_weighted_polling_nonpositive_max.py": {
+    "loc": 23,
+    "lloc": 16,
+    "sloc": 12,
+    "comments": 1,
+    "multi": 0,
+    "blank": 9,
+    "single_comments": 2
+  },
+  "tests/test_user_prompt_prefix_env.py": {
+    "loc": 287,
+    "lloc": 140,
+    "sloc": 141,
+    "comments": 19,
+    "multi": 32,
+    "blank": 87,
+    "single_comments": 27
+  },
+  "tests/test_get_env_value_padded_bool.py": {
+    "loc": 14,
+    "lloc": 9,
+    "sloc": 8,
+    "comments": 0,
+    "multi": 0,
+    "blank": 5,
+    "single_comments": 1
+  },
+  "tests/test_empty_int_env_field_defaults.py": {
+    "loc": 24,
+    "lloc": 11,
+    "sloc": 10,
+    "comments": 0,
+    "multi": 6,
+    "blank": 8,
+    "single_comments": 0
+  },
+  "tests/test_docstring_budget.py": {
+    "loc": 399,
+    "lloc": 130,
+    "sloc": 215,
+    "comments": 66,
+    "multi": 59,
+    "blank": 59,
+    "single_comments": 66
+  },
+  "tests/pipeline/test_chunking_snapshot_replay.py": {
+    "loc": 208,
+    "lloc": 92,
+    "sloc": 119,
+    "comments": 13,
+    "multi": 33,
+    "blank": 43,
+    "single_comments": 13
+  },
+  "tests/pipeline/test_pipeline_failed_retry_semantics.py": {
+    "loc": 373,
+    "lloc": 207,
+    "sloc": 255,
+    "comments": 27,
+    "multi": 20,
+    "blank": 73,
+    "single_comments": 25
+  },
+  "tests/pipeline/test_pipeline_internal_abort.py": {
+    "loc": 510,
+    "lloc": 243,
+    "sloc": 363,
+    "comments": 28,
+    "multi": 34,
+    "blank": 85,
+    "single_comments": 28
+  },
+  "tests/pipeline/test_bounded_scheduling.py": {
+    "loc": 251,
+    "lloc": 135,
+    "sloc": 157,
+    "comments": 14,
+    "multi": 24,
+    "blank": 60,
+    "single_comments": 10
+  },
+  "tests/pipeline/test_document_file_path_normalization.py": {
+    "loc": 807,
+    "lloc": 469,
+    "sloc": 511,
+    "comments": 48,
+    "multi": 80,
+    "blank": 191,
+    "single_comments": 25
+  },
+  "tests/pipeline/test_custom_chunk_patch.py": {
+    "loc": 659,
+    "lloc": 372,
+    "sloc": 485,
+    "comments": 12,
+    "multi": 49,
+    "blank": 112,
+    "single_comments": 13
+  },
+  "tests/pipeline/test_duplicate_track_id_retrieval.py": {
+    "loc": 171,
+    "lloc": 67,
+    "sloc": 111,
+    "comments": 4,
+    "multi": 26,
+    "blank": 30,
+    "single_comments": 4
+  },
+  "tests/pipeline/test_insert_done_error_handling.py": {
+    "loc": 1675,
+    "lloc": 961,
+    "sloc": 1066,
+    "comments": 126,
+    "multi": 184,
+    "blank": 299,
+    "single_comments": 126
+  },
+  "tests/pipeline/conftest.py": {
+    "loc": 27,
+    "lloc": 10,
+    "sloc": 11,
+    "comments": 0,
+    "multi": 9,
+    "blank": 6,
+    "single_comments": 1
+  },
+  "tests/pipeline/test_scheduler_memory_bounded_e2e.py": {
+    "loc": 631,
+    "lloc": 353,
+    "sloc": 488,
+    "comments": 12,
+    "multi": 33,
+    "blank": 95,
+    "single_comments": 15
+  },
+  "tests/pipeline/test_parse_warnings_split_persist.py": {
+    "loc": 163,
+    "lloc": 71,
+    "sloc": 115,
+    "comments": 5,
+    "multi": 15,
+    "blank": 29,
+    "single_comments": 4
+  },
+  "tests/pipeline/test_tolerant_load_json_dict.py": {
+    "loc": 267,
+    "lloc": 113,
+    "sloc": 156,
+    "comments": 11,
+    "multi": 48,
+    "blank": 55,
+    "single_comments": 8
+  },
+  "tests/pipeline/test_graph_keyed_locks.py": {
+    "loc": 865,
+    "lloc": 408,
+    "sloc": 585,
+    "comments": 47,
+    "multi": 87,
+    "blank": 144,
+    "single_comments": 49
+  },
+  "tests/pipeline/test_custom_chunk_rollback.py": {
+    "loc": 1005,
+    "lloc": 555,
+    "sloc": 733,
+    "comments": 45,
+    "multi": 60,
+    "blank": 165,
+    "single_comments": 47
+  },
+  "tests/pipeline/test_chunking_func_contract.py": {
+    "loc": 178,
+    "lloc": 95,
+    "sloc": 105,
+    "comments": 1,
+    "multi": 22,
+    "blank": 50,
+    "single_comments": 1
+  },
+  "tests/pipeline/test_enqueue_basename_strict.py": {
+    "loc": 252,
+    "lloc": 142,
+    "sloc": 166,
+    "comments": 9,
+    "multi": 20,
+    "blank": 56,
+    "single_comments": 10
+  },
+  "tests/pipeline/test_pipeline_ingress_exit.py": {
+    "loc": 978,
+    "lloc": 606,
+    "sloc": 662,
+    "comments": 58,
+    "multi": 108,
+    "blank": 170,
+    "single_comments": 38
+  },
+  "tests/pipeline/test_empty_chunks_document.py": {
+    "loc": 80,
+    "lloc": 42,
+    "sloc": 55,
+    "comments": 0,
+    "multi": 5,
+    "blank": 19,
+    "single_comments": 1
+  },
+  "tests/pipeline/test_enqueue_smart_heading_seed.py": {
+    "loc": 124,
+    "lloc": 50,
+    "sloc": 88,
+    "comments": 3,
+    "multi": 11,
+    "blank": 24,
+    "single_comments": 1
+  },
+  "tests/pipeline/test_enqueue_ingress_exclusion.py": {
+    "loc": 431,
+    "lloc": 200,
+    "sloc": 260,
+    "comments": 25,
+    "multi": 55,
+    "blank": 92,
+    "single_comments": 24
+  },
+  "tests/pipeline/test_demotion_survives_the_pipeline.py": {
+    "loc": 261,
+    "lloc": 115,
+    "sloc": 175,
+    "comments": 8,
+    "multi": 33,
+    "blank": 49,
+    "single_comments": 4
+  },
+  "tests/pipeline/test_admin_write_gate.py": {
+    "loc": 1544,
+    "lloc": 739,
+    "sloc": 943,
+    "comments": 147,
+    "multi": 200,
+    "blank": 270,
+    "single_comments": 131
+  },
+  "tests/pipeline/test_content_hash_normalization.py": {
+    "loc": 74,
+    "lloc": 29,
+    "sloc": 38,
+    "comments": 0,
+    "multi": 19,
+    "blank": 17,
+    "single_comments": 0
+  },
+  "tests/pipeline/test_graph_deletion_tracking_ordering.py": {
+    "loc": 2203,
+    "lloc": 1075,
+    "sloc": 1336,
+    "comments": 216,
+    "multi": 218,
+    "blank": 431,
+    "single_comments": 218
+  },
+  "tests/pipeline/test_admission_capacity.py": {
+    "loc": 376,
+    "lloc": 184,
+    "sloc": 261,
+    "comments": 11,
+    "multi": 31,
+    "blank": 73,
+    "single_comments": 11
+  },
+  "tests/pipeline/test_content_hash_dedup.py": {
+    "loc": 476,
+    "lloc": 185,
+    "sloc": 300,
+    "comments": 27,
+    "multi": 67,
+    "blank": 84,
+    "single_comments": 25
+  },
+  "tests/pipeline/__init__.py": {
+    "loc": 0,
+    "lloc": 0,
+    "sloc": 0,
+    "comments": 0,
+    "multi": 0,
+    "blank": 0,
+    "single_comments": 0
+  },
+  "tests/pipeline/test_strict_capability_gate.py": {
+    "loc": 116,
+    "lloc": 57,
+    "sloc": 58,
+    "comments": 4,
+    "multi": 22,
+    "blank": 32,
+    "single_comments": 4
+  },
+  "tests/pipeline/test_processed_after_flush.py": {
+    "loc": 159,
+    "lloc": 84,
+    "sloc": 101,
+    "comments": 1,
+    "multi": 15,
+    "blank": 42,
+    "single_comments": 1
+  },
+  "tests/pipeline/test_pipeline_content_reread.py": {
+    "loc": 496,
+    "lloc": 249,
+    "sloc": 390,
+    "comments": 16,
+    "multi": 23,
+    "blank": 70,
+    "single_comments": 13
+  },
+  "tests/pipeline/test_delete_fail_closed.py": {
+    "loc": 1028,
+    "lloc": 589,
+    "sloc": 638,
+    "comments": 40,
+    "multi": 159,
+    "blank": 187,
+    "single_comments": 44
+  },
+  "tests/pipeline/test_pipeline_cancellation.py": {
+    "loc": 796,
+    "lloc": 340,
+    "sloc": 569,
+    "comments": 66,
+    "multi": 67,
+    "blank": 94,
+    "single_comments": 66
+  },
+  "tests/pipeline/test_multimodal_path_containment.py": {
+    "loc": 245,
+    "lloc": 100,
+    "sloc": 117,
+    "comments": 26,
+    "multi": 46,
+    "blank": 55,
+    "single_comments": 27
+  },
+  "tests/pipeline/test_manual_drain_progress.py": {
+    "loc": 815,
+    "lloc": 337,
+    "sloc": 503,
+    "comments": 53,
+    "multi": 119,
+    "blank": 140,
+    "single_comments": 53
+  },
+  "tests/pipeline/test_custom_kg_self_loop_rejection.py": {
+    "loc": 145,
+    "lloc": 60,
+    "sloc": 102,
+    "comments": 1,
+    "multi": 15,
+    "blank": 26,
+    "single_comments": 2
+  },
+  "tests/pipeline/test_custom_chunking_selector.py": {
+    "loc": 802,
+    "lloc": 465,
+    "sloc": 647,
+    "comments": 8,
+    "multi": 17,
+    "blank": 129,
+    "single_comments": 9
+  },
+  "tests/pipeline/test_multimodal_content_truncation.py": {
+    "loc": 296,
+    "lloc": 189,
+    "sloc": 224,
+    "comments": 15,
+    "multi": 11,
+    "blank": 46,
+    "single_comments": 15
+  },
+  "tests/pipeline/test_persist_parsed_control_chars.py": {
+    "loc": 80,
+    "lloc": 28,
+    "sloc": 53,
+    "comments": 0,
+    "multi": 10,
+    "blank": 17,
+    "single_comments": 0
+  },
+  "tests/pipeline/test_cache_reference_flush_order.py": {
+    "loc": 528,
+    "lloc": 294,
+    "sloc": 343,
+    "comments": 6,
+    "multi": 64,
+    "blank": 108,
+    "single_comments": 13
+  },
+  "tests/pipeline/test_pipeline_ingress_feed.py": {
+    "loc": 572,
+    "lloc": 319,
+    "sloc": 348,
+    "comments": 48,
+    "multi": 76,
+    "blank": 120,
+    "single_comments": 28
+  },
+  "tests/pipeline/test_embedding_chunk_overlap_config.py": {
+    "loc": 86,
+    "lloc": 39,
+    "sloc": 52,
+    "comments": 1,
+    "multi": 9,
+    "blank": 24,
+    "single_comments": 1
+  },
+  "tests/pipeline/test_graph_merge_rename_tracking_order.py": {
+    "loc": 869,
+    "lloc": 445,
+    "sloc": 520,
+    "comments": 32,
+    "multi": 132,
+    "blank": 176,
+    "single_comments": 41
+  },
+  "tests/pipeline/test_chunking_executor_bounds.py": {
+    "loc": 139,
+    "lloc": 79,
+    "sloc": 83,
+    "comments": 2,
+    "multi": 14,
+    "blank": 37,
+    "single_comments": 5
+  },
+  "tests/pipeline/test_parse_engine_early_persist.py": {
+    "loc": 312,
+    "lloc": 106,
+    "sloc": 200,
+    "comments": 25,
+    "multi": 36,
+    "blank": 53,
+    "single_comments": 23
+  },
+  "tests/pipeline/test_vlm_empty_int_env.py": {
+    "loc": 29,
+    "lloc": 20,
+    "sloc": 21,
+    "comments": 0,
+    "multi": 0,
+    "blank": 7,
+    "single_comments": 1
+  },
+  "tests/pipeline/test_scheduler_memory_bounded.py": {
+    "loc": 292,
+    "lloc": 153,
+    "sloc": 176,
+    "comments": 9,
+    "multi": 59,
+    "blank": 49,
+    "single_comments": 8
+  },
+  "tests/pipeline/test_fault_injection_matrix.py": {
+    "loc": 597,
+    "lloc": 263,
+    "sloc": 389,
+    "comments": 37,
+    "multi": 73,
+    "blank": 101,
+    "single_comments": 34
+  },
+  "tests/pipeline/test_pipeline_metrics.py": {
+    "loc": 123,
+    "lloc": 66,
+    "sloc": 80,
+    "comments": 2,
+    "multi": 11,
+    "blank": 31,
+    "single_comments": 1
+  },
+  "tests/pipeline/test_purge_primitive.py": {
+    "loc": 852,
+    "lloc": 399,
+    "sloc": 642,
+    "comments": 17,
+    "multi": 56,
+    "blank": 139,
+    "single_comments": 15
+  },
+  "tests/pipeline/test_pipeline_orchestrator_get_by_id_failure.py": {
+    "loc": 239,
+    "lloc": 120,
+    "sloc": 148,
+    "comments": 6,
+    "multi": 32,
+    "blank": 53,
+    "single_comments": 6
+  },
+  "tests/pipeline/test_manual_exclusive_reset.py": {
+    "loc": 798,
+    "lloc": 447,
+    "sloc": 541,
+    "comments": 44,
+    "multi": 65,
+    "blank": 154,
+    "single_comments": 38
+  },
+  "tests/pipeline/test_validator_strict_content_probe.py": {
+    "loc": 225,
+    "lloc": 119,
+    "sloc": 134,
+    "comments": 5,
+    "multi": 24,
+    "blank": 61,
+    "single_comments": 6
+  },
+  "tests/pipeline/test_multimodal_surrounding_context.py": {
+    "loc": 893,
+    "lloc": 351,
+    "sloc": 701,
+    "comments": 69,
+    "multi": 24,
+    "blank": 100,
+    "single_comments": 68
+  },
+  "tests/pipeline/test_pipeline_analyze_multimodal.py": {
+    "loc": 2044,
+    "lloc": 976,
+    "sloc": 1600,
+    "comments": 83,
+    "multi": 134,
+    "blank": 228,
+    "single_comments": 82
+  },
+  "tests/pipeline/test_chunk_options_regex_scrub.py": {
+    "loc": 220,
+    "lloc": 102,
+    "sloc": 132,
+    "comments": 24,
+    "multi": 20,
+    "blank": 44,
+    "single_comments": 24
+  },
+  "tests/pipeline/test_parse_worker_content_sanitized.py": {
+    "loc": 114,
+    "lloc": 55,
+    "sloc": 73,
+    "comments": 4,
+    "multi": 13,
+    "blank": 24,
+    "single_comments": 4
+  },
+  "tests/pipeline/test_pipeline_release_closure.py": {
+    "loc": 4181,
+    "lloc": 1800,
+    "sloc": 3091,
+    "comments": 242,
+    "multi": 302,
+    "blank": 577,
+    "single_comments": 211
+  },
+  "tests/pipeline/test_doc_status_chunk_preservation.py": {
+    "loc": 2415,
+    "lloc": 1077,
+    "sloc": 1952,
+    "comments": 71,
+    "multi": 119,
+    "blank": 281,
+    "single_comments": 63
+  },
+  "tests/pipeline/test_purge_fail_closed.py": {
+    "loc": 818,
+    "lloc": 396,
+    "sloc": 527,
+    "comments": 27,
+    "multi": 93,
+    "blank": 170,
+    "single_comments": 28
+  },
+  "tests/pipeline/test_graph_deletion_tracking.py": {
+    "loc": 481,
+    "lloc": 273,
+    "sloc": 418,
+    "comments": 10,
+    "multi": 0,
+    "blank": 52,
+    "single_comments": 11
+  },
+  "tests/pipeline/test_chunking_off_event_loop.py": {
+    "loc": 408,
+    "lloc": 205,
+    "sloc": 257,
+    "comments": 8,
+    "multi": 45,
+    "blank": 94,
+    "single_comments": 12
+  },
+  "tests/pipeline/test_manual_drain_enqueue_stall_fence.py": {
+    "loc": 424,
+    "lloc": 229,
+    "sloc": 267,
+    "comments": 23,
+    "multi": 45,
+    "blank": 86,
+    "single_comments": 26
+  },
+  "tests/pipeline/test_doc_status_reset_metadata.py": {
+    "loc": 545,
+    "lloc": 207,
+    "sloc": 415,
+    "comments": 20,
+    "multi": 41,
+    "blank": 68,
+    "single_comments": 21
+  },
+  "tests/pipeline/test_enqueue_created_at.py": {
+    "loc": 137,
+    "lloc": 76,
+    "sloc": 93,
+    "comments": 1,
+    "multi": 8,
+    "blank": 34,
+    "single_comments": 2
+  },
+  "tests/pipeline/test_truncation_doc_status_metadata.py": {
+    "loc": 197,
+    "lloc": 90,
+    "sloc": 116,
+    "comments": 4,
+    "multi": 30,
+    "blank": 47,
+    "single_comments": 4
+  },
+  "tests/pipeline/test_parse_failure_doc_status_fields.py": {
+    "loc": 507,
+    "lloc": 255,
+    "sloc": 359,
+    "comments": 27,
+    "multi": 46,
+    "blank": 80,
+    "single_comments": 22
+  },
+  "tests/tools/conftest.py": {
+    "loc": 36,
+    "lloc": 7,
+    "sloc": 5,
+    "comments": 0,
+    "multi": 24,
+    "blank": 7,
+    "single_comments": 0
+  },
+  "tests/tools/test_migrate_graph_storage.py": {
+    "loc": 1427,
+    "lloc": 831,
+    "sloc": 978,
+    "comments": 193,
+    "multi": 56,
+    "blank": 219,
+    "single_comments": 174
+  },
+  "tests/tools/test_chunk_tracking_repair.py": {
+    "loc": 1284,
+    "lloc": 674,
+    "sloc": 990,
+    "comments": 11,
+    "multi": 54,
+    "blank": 226,
+    "single_comments": 14
+  },
+  "tests/tools/__init__.py": {
+    "loc": 0,
+    "lloc": 0,
+    "sloc": 0,
+    "comments": 0,
+    "multi": 0,
+    "blank": 0,
+    "single_comments": 0
+  },
+  "tests/tools/test_migrate_llm_cache.py": {
+    "loc": 54,
+    "lloc": 27,
+    "sloc": 41,
+    "comments": 0,
+    "multi": 0,
+    "blank": 12,
+    "single_comments": 1
+  },
+  "tests/tools/test_migrate_graph_storage_networkx.py": {
+    "loc": 267,
+    "lloc": 138,
+    "sloc": 163,
+    "comments": 25,
+    "multi": 37,
+    "blank": 45,
+    "single_comments": 22
+  },
+  "tests/tools/test_clean_llm_query_cache_modes.py": {
+    "loc": 46,
+    "lloc": 20,
+    "sloc": 21,
+    "comments": 2,
+    "multi": 8,
+    "blank": 14,
+    "single_comments": 3
+  },
+  "tests/tools/test_rebuild_vdb.py": {
+    "loc": 1258,
+    "lloc": 706,
+    "sloc": 828,
+    "comments": 120,
+    "multi": 26,
+    "blank": 285,
+    "single_comments": 119
+  },
+  "tests/tools/test_source_conflict_repair_cli.py": {
+    "loc": 689,
+    "lloc": 336,
+    "sloc": 481,
+    "comments": 19,
+    "multi": 75,
+    "blank": 117,
+    "single_comments": 16
+  },
+  "tests/llm/test_asymmetric_embedding.py": {
+    "loc": 401,
+    "lloc": 191,
+    "sloc": 264,
+    "comments": 17,
+    "multi": 13,
+    "blank": 100,
+    "single_comments": 24
+  },
+  "tests/llm/test_vlm_cache_key.py": {
+    "loc": 185,
+    "lloc": 91,
+    "sloc": 130,
+    "comments": 4,
+    "multi": 17,
+    "blank": 34,
+    "single_comments": 4
+  },
+  "tests/llm/test_query_truncated_response_not_cached.py": {
+    "loc": 96,
+    "lloc": 48,
+    "sloc": 70,
+    "comments": 0,
+    "multi": 4,
+    "blank": 22,
+    "single_comments": 0
+  },
+  "tests/llm/test_batch_embeddings.py": {
+    "loc": 223,
+    "lloc": 116,
+    "sloc": 160,
+    "comments": 5,
+    "multi": 5,
+    "blank": 46,
+    "single_comments": 12
+  },
+  "tests/llm/test_bypass_truncated_response.py": {
+    "loc": 76,
+    "lloc": 44,
+    "sloc": 47,
+    "comments": 0,
+    "multi": 6,
+    "blank": 22,
+    "single_comments": 1
+  },
+  "tests/llm/test_runtime_target_validation.py": {
+    "loc": 112,
+    "lloc": 44,
+    "sloc": 88,
+    "comments": 0,
+    "multi": 0,
+    "blank": 24,
+    "single_comments": 0
+  },
+  "tests/llm/test_process_chunks_unified_two_stage_truncation.py": {
+    "loc": 154,
+    "lloc": 70,
+    "sloc": 93,
+    "comments": 7,
+    "multi": 26,
+    "blank": 32,
+    "single_comments": 3
+  },
+  "tests/llm/test_query_cache_conversation_history.py": {
+    "loc": 448,
+    "lloc": 218,
+    "sloc": 286,
+    "comments": 16,
+    "multi": 48,
+    "blank": 92,
+    "single_comments": 22
+  },
+  "tests/llm/test_llm_cache_identity.py": {
+    "loc": 94,
+    "lloc": 45,
+    "sloc": 73,
+    "comments": 0,
+    "multi": 0,
+    "blank": 21,
+    "single_comments": 0
+  },
+  "tests/llm/test_llm_binding_image_payload.py": {
+    "loc": 207,
+    "lloc": 122,
+    "sloc": 157,
+    "comments": 0,
+    "multi": 4,
+    "blank": 46,
+    "single_comments": 0
+  },
+  "tests/llm/test_llm_role_runtime.py": {
+    "loc": 1161,
+    "lloc": 617,
+    "sloc": 855,
+    "comments": 27,
+    "multi": 31,
+    "blank": 246,
+    "single_comments": 29
+  },
+  "tests/llm/test_token_executor.py": {
+    "loc": 173,
+    "lloc": 85,
+    "sloc": 102,
+    "comments": 9,
+    "multi": 17,
+    "blank": 45,
+    "single_comments": 9
+  },
+  "tests/llm/__init__.py": {
+    "loc": 0,
+    "lloc": 0,
+    "sloc": 0,
+    "comments": 0,
+    "multi": 0,
+    "blank": 0,
+    "single_comments": 0
+  },
+  "tests/llm/test_provider_install_guards.py": {
+    "loc": 163,
+    "lloc": 73,
+    "sloc": 104,
+    "comments": 3,
+    "multi": 23,
+    "blank": 31,
+    "single_comments": 5
+  },
+  "tests/llm/test_vlm_image_inputs.py": {
+    "loc": 135,
+    "lloc": 72,
+    "sloc": 103,
+    "comments": 1,
+    "multi": 0,
+    "blank": 30,
+    "single_comments": 2
+  },
+  "tests/llm/test_tokenizer_contract.py": {
+    "loc": 278,
+    "lloc": 121,
+    "sloc": 117,
+    "comments": 16,
+    "multi": 71,
+    "blank": 73,
+    "single_comments": 17
+  },
+  "tests/llm/test_global_concurrency_queue.py": {
+    "loc": 968,
+    "lloc": 579,
+    "sloc": 657,
+    "comments": 115,
+    "multi": 23,
+    "blank": 192,
+    "single_comments": 96
+  },
+  "tests/llm/test_vlm_json_escape_repair.py": {
+    "loc": 760,
+    "lloc": 332,
+    "sloc": 461,
+    "comments": 37,
+    "multi": 166,
+    "blank": 115,
+    "single_comments": 18
+  },
+  "tests/llm/test_tokenizer_split_truncate_contract.py": {
+    "loc": 760,
+    "lloc": 410,
+    "sloc": 415,
+    "comments": 62,
+    "multi": 123,
+    "blank": 170,
+    "single_comments": 52
+  },
+  "tests/llm/test_query_cache_user_prompt_prefix.py": {
+    "loc": 768,
+    "lloc": 332,
+    "sloc": 514,
+    "comments": 31,
+    "multi": 72,
+    "blank": 146,
+    "single_comments": 36
+  },
+  "tests/llm/test_remove_think_tags.py": {
+    "loc": 91,
+    "lloc": 58,
+    "sloc": 53,
+    "comments": 0,
+    "multi": 6,
+    "blank": 19,
+    "single_comments": 13
+  },
+  "tests/llm/test_dimension_mismatch.py": {
+    "loc": 388,
+    "lloc": 189,
+    "sloc": 233,
+    "comments": 75,
+    "multi": 35,
+    "blank": 64,
+    "single_comments": 56
+  },
+  "tests/llm/test_bounded_submit.py": {
+    "loc": 321,
+    "lloc": 181,
+    "sloc": 195,
+    "comments": 21,
+    "multi": 25,
+    "blank": 80,
+    "single_comments": 21
+  },
+  "tests/llm/test_no_model_suffix_safety.py": {
+    "loc": 220,
+    "lloc": 61,
+    "sloc": 108,
+    "comments": 43,
+    "multi": 33,
+    "blank": 44,
+    "single_comments": 35
+  },
+  "tests/llm/test_query_cache_kg_chunk_selection.py": {
+    "loc": 121,
+    "lloc": 68,
+    "sloc": 92,
+    "comments": 0,
+    "multi": 0,
+    "blank": 29,
+    "single_comments": 0
+  },
+  "tests/llm/test_apply_rerank_result_validation.py": {
+    "loc": 62,
+    "lloc": 34,
+    "sloc": 43,
+    "comments": 0,
+    "multi": 0,
+    "blank": 18,
+    "single_comments": 1
+  },
+  "tests/llm/test_utils_llm_cache.py": {
+    "loc": 483,
+    "lloc": 230,
+    "sloc": 334,
+    "comments": 10,
+    "multi": 40,
+    "blank": 95,
+    "single_comments": 14
+  },
+  "tests/llm/lollms_impl/test_lollms_max_tokens.py": {
+    "loc": 143,
+    "lloc": 67,
+    "sloc": 107,
+    "comments": 0,
+    "multi": 0,
+    "blank": 35,
+    "single_comments": 1
+  },
+  "tests/llm/lollms_impl/__init__.py": {
+    "loc": 0,
+    "lloc": 0,
+    "sloc": 0,
+    "comments": 0,
+    "multi": 0,
+    "blank": 0,
+    "single_comments": 0
+  },
+  "tests/llm/nvidia_impl/__init__.py": {
+    "loc": 0,
+    "lloc": 0,
+    "sloc": 0,
+    "comments": 0,
+    "multi": 0,
+    "blank": 0,
+    "single_comments": 0
+  },
+  "tests/llm/nvidia_impl/test_nvidia_client_cleanup.py": {
+    "loc": 91,
+    "lloc": 47,
+    "sloc": 49,
+    "comments": 0,
+    "multi": 14,
+    "blank": 25,
+    "single_comments": 3
+  },
+  "tests/llm/nvidia_impl/test_nvidia_input_type_context.py": {
+    "loc": 115,
+    "lloc": 64,
+    "sloc": 64,
+    "comments": 0,
+    "multi": 19,
+    "blank": 32,
+    "single_comments": 0
+  },
+  "tests/llm/voyageai_impl/__init__.py": {
+    "loc": 0,
+    "lloc": 0,
+    "sloc": 0,
+    "comments": 0,
+    "multi": 0,
+    "blank": 0,
+    "single_comments": 0
+  },
+  "tests/llm/voyageai_impl/test_voyageai_embed.py": {
+    "loc": 164,
+    "lloc": 101,
+    "sloc": 103,
+    "comments": 3,
+    "multi": 3,
+    "blank": 46,
+    "single_comments": 12
+  },
+  "tests/llm/bedrock_impl/__init__.py": {
+    "loc": 0,
+    "lloc": 0,
+    "sloc": 0,
+    "comments": 0,
+    "multi": 0,
+    "blank": 0,
+    "single_comments": 0
+  },
+  "tests/llm/bedrock_impl/test_bedrock_llm.py": {
+    "loc": 1365,
+    "lloc": 726,
+    "sloc": 1097,
+    "comments": 10,
+    "multi": 40,
+    "blank": 218,
+    "single_comments": 10
+  },
+  "tests/llm/bedrock_impl/test_bedrock_token_usage.py": {
+    "loc": 128,
+    "lloc": 62,
+    "sloc": 101,
+    "comments": 0,
+    "multi": 0,
+    "blank": 26,
+    "single_comments": 1
+  },
+  "tests/llm/gemini_impl/__init__.py": {
+    "loc": 0,
+    "lloc": 0,
+    "sloc": 0,
+    "comments": 0,
+    "multi": 0,
+    "blank": 0,
+    "single_comments": 0
+  },
+  "tests/llm/gemini_impl/test_gemini_llm.py": {
+    "loc": 630,
+    "lloc": 287,
+    "sloc": 454,
+    "comments": 21,
+    "multi": 23,
+    "blank": 125,
+    "single_comments": 28
+  },
+  "tests/llm/ollama_impl/test_ollama_role_kwargs.py": {
+    "loc": 112,
+    "lloc": 63,
+    "sloc": 88,
+    "comments": 3,
+    "multi": 0,
+    "blank": 20,
+    "single_comments": 4
+  },
+  "tests/llm/ollama_impl/test_ollama_truncation.py": {
+    "loc": 158,
+    "lloc": 83,
+    "sloc": 93,
+    "comments": 2,
+    "multi": 21,
+    "blank": 40,
+    "single_comments": 4
+  },
+  "tests/llm/ollama_impl/test_ollama_embed_dimension_forwarding.py": {
+    "loc": 66,
+    "lloc": 33,
+    "sloc": 38,
+    "comments": 0,
+    "multi": 9,
+    "blank": 18,
+    "single_comments": 1
+  },
+  "tests/llm/ollama_impl/__init__.py": {
+    "loc": 0,
+    "lloc": 0,
+    "sloc": 0,
+    "comments": 0,
+    "multi": 0,
+    "blank": 0,
+    "single_comments": 0
+  },
+  "tests/llm/ollama_impl/test_ollama_think_option.py": {
+    "loc": 135,
+    "lloc": 74,
+    "sloc": 80,
+    "comments": 2,
+    "multi": 21,
+    "blank": 32,
+    "single_comments": 2
+  },
+  "tests/llm/ollama_impl/test_ollama_token_usage.py": {
+    "loc": 289,
+    "lloc": 116,
+    "sloc": 184,
+    "comments": 8,
+    "multi": 27,
+    "blank": 68,
+    "single_comments": 10
+  },
+  "tests/llm/ollama_impl/test_ollama_max_tokens.py": {
+    "loc": 91,
+    "lloc": 38,
+    "sloc": 68,
+    "comments": 0,
+    "multi": 0,
+    "blank": 22,
+    "single_comments": 1
+  },
+  "tests/llm/zhipu_impl/__init__.py": {
+    "loc": 0,
+    "lloc": 0,
+    "sloc": 0,
+    "comments": 0,
+    "multi": 0,
+    "blank": 0,
+    "single_comments": 0
+  },
+  "tests/llm/zhipu_impl/test_zhipu_llm.py": {
+    "loc": 469,
+    "lloc": 268,
+    "sloc": 347,
+    "comments": 0,
+    "multi": 9,
+    "blank": 113,
+    "single_comments": 0
+  },
+  "tests/llm/azure_openai_impl/test_azure_embed_truncation_forwarding.py": {
+    "loc": 148,
+    "lloc": 68,
+    "sloc": 100,
+    "comments": 0,
+    "multi": 16,
+    "blank": 29,
+    "single_comments": 3
+  },
+  "tests/llm/azure_openai_impl/__init__.py": {
+    "loc": 0,
+    "lloc": 0,
+    "sloc": 0,
+    "comments": 0,
+    "multi": 0,
+    "blank": 0,
+    "single_comments": 0
+  },
+  "tests/llm/hf_impl/test_hf_model_if_cache_device_placement.py": {
+    "loc": 285,
+    "lloc": 134,
+    "sloc": 168,
+    "comments": 8,
+    "multi": 45,
+    "blank": 65,
+    "single_comments": 7
+  },
+  "tests/llm/hf_impl/conftest.py": {
+    "loc": 55,
+    "lloc": 17,
+    "sloc": 19,
+    "comments": 3,
+    "multi": 22,
+    "blank": 10,
+    "single_comments": 4
+  },
+  "tests/llm/hf_impl/__init__.py": {
+    "loc": 0,
+    "lloc": 0,
+    "sloc": 0,
+    "comments": 0,
+    "multi": 0,
+    "blank": 0,
+    "single_comments": 0
+  },
+  "tests/llm/hf_impl/test_hf_off_event_loop.py": {
+    "loc": 834,
+    "lloc": 539,
+    "sloc": 581,
+    "comments": 17,
+    "multi": 46,
+    "blank": 190,
+    "single_comments": 17
+  },
+  "tests/llm/hf_impl/test_hf_embed_masked_pooling.py": {
+    "loc": 380,
+    "lloc": 222,
+    "sloc": 222,
+    "comments": 13,
+    "multi": 48,
+    "blank": 100,
+    "single_comments": 10
+  },
+  "tests/llm/hf_impl/_fork_probe.py": {
+    "loc": 163,
+    "lloc": 78,
+    "sloc": 91,
+    "comments": 14,
+    "multi": 29,
+    "blank": 29,
+    "single_comments": 14
+  },
+  "tests/llm/lmdeploy_impl/__init__.py": {
+    "loc": 0,
+    "lloc": 0,
+    "sloc": 0,
+    "comments": 0,
+    "multi": 0,
+    "blank": 0,
+    "single_comments": 0
+  },
+  "tests/llm/lmdeploy_impl/test_lmdeploy_do_sample.py": {
+    "loc": 179,
+    "lloc": 64,
+    "sloc": 119,
+    "comments": 0,
+    "multi": 25,
+    "blank": 34,
+    "single_comments": 1
+  },
+  "tests/llm/anthropic_impl/test_anthropic_truncation.py": {
+    "loc": 52,
+    "lloc": 29,
+    "sloc": 37,
+    "comments": 0,
+    "multi": 0,
+    "blank": 14,
+    "single_comments": 1
+  },
+  "tests/llm/anthropic_impl/test_anthropic_token_usage.py": {
+    "loc": 164,
+    "lloc": 60,
+    "sloc": 130,
+    "comments": 1,
+    "multi": 8,
+    "blank": 25,
+    "single_comments": 1
+  },
+  "tests/llm/anthropic_impl/test_anthropic_client_cleanup.py": {
+    "loc": 370,
+    "lloc": 176,
+    "sloc": 226,
+    "comments": 17,
+    "multi": 26,
+    "blank": 89,
+    "single_comments": 29
+  },
+  "tests/llm/anthropic_impl/__init__.py": {
+    "loc": 0,
+    "lloc": 0,
+    "sloc": 0,
+    "comments": 0,
+    "multi": 0,
+    "blank": 0,
+    "single_comments": 0
+  },
+  "tests/llm/openai_impl/test_openai_length_finish_reason.py": {
+    "loc": 449,
+    "lloc": 201,
+    "sloc": 339,
+    "comments": 9,
+    "multi": 30,
+    "blank": 70,
+    "single_comments": 10
+  },
+  "tests/llm/openai_impl/test_openai_permanent_rate_limit.py": {
+    "loc": 406,
+    "lloc": 166,
+    "sloc": 247,
+    "comments": 30,
+    "multi": 29,
+    "blank": 93,
+    "single_comments": 37
+  },
+  "tests/llm/openai_impl/__init__.py": {
+    "loc": 0,
+    "lloc": 0,
+    "sloc": 0,
+    "comments": 0,
+    "multi": 0,
+    "blank": 0,
+    "single_comments": 0
+  },
+  "tests/llm/openai_impl/test_openai_stream_generatorexit_cot_cleanup.py": {
+    "loc": 185,
+    "lloc": 73,
+    "sloc": 119,
+    "comments": 3,
+    "multi": 31,
+    "blank": 32,
+    "single_comments": 3
+  },
+  "tests/llm/openai_impl/test_openai_retry_transient.py": {
+    "loc": 106,
+    "lloc": 55,
+    "sloc": 69,
+    "comments": 8,
+    "multi": 6,
+    "blank": 20,
+    "single_comments": 11
+  },
+  "tests/llm/openai_impl/test_openai_embed_special_token.py": {
+    "loc": 179,
+    "lloc": 78,
+    "sloc": 80,
+    "comments": 9,
+    "multi": 35,
+    "blank": 50,
+    "single_comments": 14
+  },
+  "tests/llm/jina_impl/test_jina_api_key_isolation.py": {
+    "loc": 32,
+    "lloc": 22,
+    "sloc": 21,
+    "comments": 0,
+    "multi": 0,
+    "blank": 9,
+    "single_comments": 2
+  },
+  "tests/llm/llama_index_impl/__init__.py": {
+    "loc": 0,
+    "lloc": 0,
+    "sloc": 0,
+    "comments": 0,
+    "multi": 0,
+    "blank": 0,
+    "single_comments": 0
+  },
+  "tests/llm/llama_index_impl/test_llama_index_complete_and_embed.py": {
+    "loc": 129,
+    "lloc": 68,
+    "sloc": 69,
+    "comments": 0,
+    "multi": 20,
+    "blank": 40,
+    "single_comments": 0
+  },
+  "tests/workspace/test_workspace_sanitization.py": {
+    "loc": 187,
+    "lloc": 106,
+    "sloc": 98,
+    "comments": 13,
+    "multi": 10,
+    "blank": 42,
+    "single_comments": 37
+  },
+  "tests/workspace/__init__.py": {
+    "loc": 0,
+    "lloc": 0,
+    "sloc": 0,
+    "comments": 0,
+    "multi": 0,
+    "blank": 0,
+    "single_comments": 0
+  },
+  "tests/workspace/test_workspace_path_validation.py": {
+    "loc": 170,
+    "lloc": 75,
+    "sloc": 115,
+    "comments": 6,
+    "multi": 17,
+    "blank": 35,
+    "single_comments": 3
+  },
+  "tests/workspace/test_workspace_migration_isolation.py": {
+    "loc": 288,
+    "lloc": 140,
+    "sloc": 182,
+    "comments": 56,
+    "multi": 23,
+    "blank": 49,
+    "single_comments": 34
+  },
+  "tests/workspace/test_workspace_isolation.py": {
+    "loc": 1198,
+    "lloc": 500,
+    "sloc": 700,
+    "comments": 181,
+    "multi": 77,
+    "blank": 242,
+    "single_comments": 179
+  },
+  "tests/setup/test_misc.py": {
+    "loc": 2182,
+    "lloc": 482,
+    "sloc": 1948,
+    "comments": 2,
+    "multi": 17,
+    "blank": 165,
+    "single_comments": 52
+  },
+  "tests/setup/test_collect.py": {
+    "loc": 1889,
+    "lloc": 335,
+    "sloc": 1592,
+    "comments": 2,
+    "multi": 0,
+    "blank": 251,
+    "single_comments": 46
+  },
+  "tests/setup/__init__.py": {
+    "loc": 1,
+    "lloc": 1,
+    "sloc": 0,
+    "comments": 0,
+    "multi": 0,
+    "blank": 0,
+    "single_comments": 1
+  },
+  "tests/setup/test_env.py": {
+    "loc": 3027,
+    "lloc": 507,
+    "sloc": 2739,
+    "comments": 2,
+    "multi": 0,
+    "blank": 234,
+    "single_comments": 54
+  },
+  "tests/setup/test_generate.py": {
+    "loc": 2694,
+    "lloc": 696,
+    "sloc": 2281,
+    "comments": 26,
+    "multi": 113,
+    "blank": 242,
+    "single_comments": 58
+  },
+  "tests/setup/test_apple_container.py": {
+    "loc": 191,
+    "lloc": 88,
+    "sloc": 125,
+    "comments": 18,
+    "multi": 11,
+    "blank": 39,
+    "single_comments": 16
+  },
+  "tests/setup/test_validate.py": {
+    "loc": 1352,
+    "lloc": 272,
+    "sloc": 1245,
+    "comments": 2,
+    "multi": 0,
+    "blank": 76,
+    "single_comments": 31
+  },
+  "tests/setup/_helpers.py": {
+    "loc": 137,
+    "lloc": 73,
+    "sloc": 95,
+    "comments": 2,
+    "multi": 9,
+    "blank": 23,
+    "single_comments": 10
+  },
+  "tests/utils/test_embedding_func_shape_validation.py": {
+    "loc": 297,
+    "lloc": 156,
+    "sloc": 145,
+    "comments": 2,
+    "multi": 66,
+    "blank": 83,
+    "single_comments": 3
+  },
+  "tests/utils/test_has_chunk_tracking_row.py": {
+    "loc": 45,
+    "lloc": 12,
+    "sloc": 28,
+    "comments": 10,
+    "multi": 9,
+    "blank": 8,
+    "single_comments": 0
+  },
+  "tests/utils/test_aexport_data_excel.py": {
+    "loc": 131,
+    "lloc": 72,
+    "sloc": 90,
+    "comments": 3,
+    "multi": 7,
+    "blank": 30,
+    "single_comments": 4
+  },
+  "tests/utils/test_pick_by_vector_similarity.py": {
+    "loc": 108,
+    "lloc": 46,
+    "sloc": 76,
+    "comments": 3,
+    "multi": 6,
+    "blank": 22,
+    "single_comments": 4
+  },
+  "tests/utils/test_aexport_data_portable_relationships.py": {
+    "loc": 278,
+    "lloc": 120,
+    "sloc": 148,
+    "comments": 7,
+    "multi": 53,
+    "blank": 64,
+    "single_comments": 13
+  },
+  "tests/utils/test_subtract_source_ids.py": {
+    "loc": 107,
+    "lloc": 45,
+    "sloc": 48,
+    "comments": 4,
+    "multi": 24,
+    "blank": 31,
+    "single_comments": 4
+  },
+  "tests/utils/test_pick_by_vector_similarity_order.py": {
+    "loc": 133,
+    "lloc": 75,
+    "sloc": 101,
+    "comments": 1,
+    "multi": 6,
+    "blank": 25,
+    "single_comments": 1
+  },
+  "tests/utils/test_storage_io_offload.py": {
+    "loc": 526,
+    "lloc": 270,
+    "sloc": 293,
+    "comments": 16,
+    "multi": 94,
+    "blank": 120,
+    "single_comments": 19
+  },
+  "tests/utils/test_graph_attribute_validator.py": {
+    "loc": 393,
+    "lloc": 208,
+    "sloc": 245,
+    "comments": 16,
+    "multi": 71,
+    "blank": 64,
+    "single_comments": 13
+  },
+  "tests/utils/test_deferred_cancellation_stamp.py": {
+    "loc": 282,
+    "lloc": 146,
+    "sloc": 161,
+    "comments": 10,
+    "multi": 46,
+    "blank": 67,
+    "single_comments": 8
+  },
+  "tests/utils/test_merge_source_ids.py": {
+    "loc": 115,
+    "lloc": 53,
+    "sloc": 57,
+    "comments": 14,
+    "multi": 12,
+    "blank": 32,
+    "single_comments": 14
+  },
+  "tests/utils/test_validate_file_path_security.py": {
+    "loc": 155,
+    "lloc": 70,
+    "sloc": 81,
+    "comments": 5,
+    "multi": 28,
+    "blank": 41,
+    "single_comments": 5
+  },
+  "tests/utils/__init__.py": {
+    "loc": 0,
+    "lloc": 0,
+    "sloc": 0,
+    "comments": 0,
+    "multi": 0,
+    "blank": 0,
+    "single_comments": 0
+  },
+  "tests/utils/test_compute_args_hash.py": {
+    "loc": 126,
+    "lloc": 47,
+    "sloc": 46,
+    "comments": 21,
+    "multi": 20,
+    "blank": 35,
+    "single_comments": 25
+  },
+  "tests/utils/test_load_json.py": {
+    "loc": 43,
+    "lloc": 29,
+    "sloc": 27,
+    "comments": 0,
+    "multi": 0,
+    "blank": 15,
+    "single_comments": 1
+  },
+  "tests/utils/test_log_without_raising.py": {
+    "loc": 45,
+    "lloc": 22,
+    "sloc": 21,
+    "comments": 1,
+    "multi": 6,
+    "blank": 16,
+    "single_comments": 2
+  },
+  "tests/utils/test_safe_log_value.py": {
+    "loc": 31,
+    "lloc": 14,
+    "sloc": 13,
+    "comments": 2,
+    "multi": 6,
+    "blank": 10,
+    "single_comments": 2
+  },
+  "tests/utils/test_update_chunk_cache_list.py": {
+    "loc": 86,
+    "lloc": 58,
+    "sloc": 50,
+    "comments": 0,
+    "multi": 8,
+    "blank": 26,
+    "single_comments": 2
+  },
+  "tests/utils/test_normalize_rerank_result.py": {
+    "loc": 177,
+    "lloc": 54,
+    "sloc": 122,
+    "comments": 12,
+    "multi": 27,
+    "blank": 21,
+    "single_comments": 7
+  },
+  "tests/utils/test_compute_incremental_chunk_ids.py": {
+    "loc": 91,
+    "lloc": 45,
+    "sloc": 38,
+    "comments": 0,
+    "multi": 21,
+    "blank": 29,
+    "single_comments": 3
+  },
+  "tests/utils/test_resolve_user_prompt.py": {
+    "loc": 165,
+    "lloc": 69,
+    "sloc": 65,
+    "comments": 15,
+    "multi": 37,
+    "blank": 45,
+    "single_comments": 18
+  },
+  "tests/utils/test_merge_attributes_join_unique_order.py": {
+    "loc": 180,
+    "lloc": 58,
+    "sloc": 90,
+    "comments": 24,
+    "multi": 33,
+    "blank": 34,
+    "single_comments": 23
+  },
+  "tests/utils/test_truncation_tally.py": {
+    "loc": 230,
+    "lloc": 127,
+    "sloc": 154,
+    "comments": 7,
+    "multi": 16,
+    "blank": 53,
+    "single_comments": 7
+  },
+  "tests/parser/test_chunk_r_separators_env.py": {
+    "loc": 73,
+    "lloc": 40,
+    "sloc": 41,
+    "comments": 0,
+    "multi": 11,
+    "blank": 19,
+    "single_comments": 2
+  },
+  "tests/parser/test_registry.py": {
+    "loc": 261,
+    "lloc": 135,
+    "sloc": 173,
+    "comments": 6,
+    "multi": 21,
+    "blank": 58,
+    "single_comments": 9
+  },
+  "tests/parser/test_plugins.py": {
+    "loc": 132,
+    "lloc": 63,
+    "sloc": 89,
+    "comments": 5,
+    "multi": 4,
+    "blank": 31,
+    "single_comments": 8
+  },
+  "tests/parser/test_parse_native_lightrag_e2e.py": {
+    "loc": 436,
+    "lloc": 203,
+    "sloc": 290,
+    "comments": 34,
+    "multi": 25,
+    "blank": 84,
+    "single_comments": 37
+  },
+  "tests/parser/test_engine_params.py": {
+    "loc": 370,
+    "lloc": 179,
+    "sloc": 245,
+    "comments": 47,
+    "multi": 9,
+    "blank": 79,
+    "single_comments": 37
+  },
+  "tests/parser/test_legacy_extractors.py": {
+    "loc": 185,
+    "lloc": 112,
+    "sloc": 119,
+    "comments": 5,
+    "multi": 19,
+    "blank": 43,
+    "single_comments": 4
+  },
+  "tests/parser/test_llm_bridge.py": {
+    "loc": 364,
+    "lloc": 190,
+    "sloc": 262,
+    "comments": 24,
+    "multi": 0,
+    "blank": 81,
+    "single_comments": 21
+  },
+  "tests/parser/test_parser_exceptions.py": {
+    "loc": 52,
+    "lloc": 15,
+    "sloc": 21,
+    "comments": 7,
+    "multi": 6,
+    "blank": 18,
+    "single_comments": 7
+  },
+  "tests/parser/test_engine_param_cache_signature.py": {
+    "loc": 106,
+    "lloc": 63,
+    "sloc": 63,
+    "comments": 8,
+    "multi": 5,
+    "blank": 30,
+    "single_comments": 8
+  },
+  "tests/parser/test_chunk_size_empty_env.py": {
+    "loc": 171,
+    "lloc": 72,
+    "sloc": 139,
+    "comments": 0,
+    "multi": 5,
+    "blank": 26,
+    "single_comments": 1
+  },
+  "tests/parser/__init__.py": {
+    "loc": 0,
+    "lloc": 0,
+    "sloc": 0,
+    "comments": 0,
+    "multi": 0,
+    "blank": 0,
+    "single_comments": 0
+  },
+  "tests/parser/test_legacy_parser.py": {
+    "loc": 148,
+    "lloc": 92,
+    "sloc": 101,
+    "comments": 3,
+    "multi": 6,
+    "blank": 37,
+    "single_comments": 4
+  },
+  "tests/parser/test_parser_cli.py": {
+    "loc": 269,
+    "lloc": 122,
+    "sloc": 196,
+    "comments": 10,
+    "multi": 18,
+    "blank": 47,
+    "single_comments": 8
+  },
+  "tests/parser/test_chunk_v_buffer_empty_env.py": {
+    "loc": 22,
+    "lloc": 13,
+    "sloc": 14,
+    "comments": 0,
+    "multi": 0,
+    "blank": 7,
+    "single_comments": 1
+  },
+  "tests/parser/test_smart_heading_global_default.py": {
+    "loc": 302,
+    "lloc": 174,
+    "sloc": 175,
+    "comments": 29,
+    "multi": 17,
+    "blank": 82,
+    "single_comments": 28
+  },
+  "tests/parser/test_hint_params.py": {
+    "loc": 408,
+    "lloc": 175,
+    "sloc": 261,
+    "comments": 65,
+    "multi": 6,
+    "blank": 98,
+    "single_comments": 43
+  },
+  "tests/parser/test_markdown.py": {
+    "loc": 72,
+    "lloc": 20,
+    "sloc": 58,
+    "comments": 8,
+    "multi": 0,
+    "blank": 11,
+    "single_comments": 3
+  },
+  "tests/parser/markdown/test_parser.py": {
+    "loc": 548,
+    "lloc": 315,
+    "sloc": 366,
+    "comments": 85,
+    "multi": 6,
+    "blank": 103,
+    "single_comments": 73
+  },
+  "tests/parser/markdown/conftest.py": {
+    "loc": 73,
+    "lloc": 25,
+    "sloc": 36,
+    "comments": 2,
+    "multi": 14,
+    "blank": 18,
+    "single_comments": 5
+  },
+  "tests/parser/markdown/test_raw_cache.py": {
+    "loc": 338,
+    "lloc": 222,
+    "sloc": 231,
+    "comments": 29,
+    "multi": 18,
+    "blank": 74,
+    "single_comments": 15
+  },
+  "tests/parser/markdown/test_image_budgets.py": {
+    "loc": 654,
+    "lloc": 342,
+    "sloc": 399,
+    "comments": 76,
+    "multi": 42,
+    "blank": 144,
+    "single_comments": 69
+  },
+  "tests/parser/markdown/test_e2e_sidecar.py": {
+    "loc": 218,
+    "lloc": 115,
+    "sloc": 160,
+    "comments": 9,
+    "multi": 6,
+    "blank": 42,
+    "single_comments": 10
+  },
+  "tests/parser/markdown/__init__.py": {
+    "loc": 1,
+    "lloc": 1,
+    "sloc": 0,
+    "comments": 0,
+    "multi": 0,
+    "blank": 0,
+    "single_comments": 1
+  },
+  "tests/parser/markdown/test_routing.py": {
+    "loc": 81,
+    "lloc": 46,
+    "sloc": 47,
+    "comments": 1,
+    "multi": 4,
+    "blank": 29,
+    "single_comments": 1
+  },
+  "tests/parser/markdown/test_download_deadline.py": {
+    "loc": 785,
+    "lloc": 422,
+    "sloc": 488,
+    "comments": 78,
+    "multi": 70,
+    "blank": 155,
+    "single_comments": 72
+  },
+  "tests/parser/markdown/test_redirect_guard.py": {
+    "loc": 333,
+    "lloc": 215,
+    "sloc": 224,
+    "comments": 29,
+    "multi": 17,
+    "blank": 71,
+    "single_comments": 21
+  },
+  "tests/parser/markdown/test_extract.py": {
+    "loc": 570,
+    "lloc": 291,
+    "sloc": 357,
+    "comments": 40,
+    "multi": 51,
+    "blank": 128,
+    "single_comments": 34
+  },
+  "tests/parser/markdown/test_ir_builder.py": {
+    "loc": 159,
+    "lloc": 80,
+    "sloc": 135,
+    "comments": 2,
+    "multi": 0,
+    "blank": 21,
+    "single_comments": 3
+  },
+  "tests/parser/external/test_common.py": {
+    "loc": 459,
+    "lloc": 195,
+    "sloc": 296,
+    "comments": 39,
+    "multi": 21,
+    "blank": 105,
+    "single_comments": 37
+  },
+  "tests/parser/external/__init__.py": {
+    "loc": 0,
+    "lloc": 0,
+    "sloc": 0,
+    "comments": 0,
+    "multi": 0,
+    "blank": 0,
+    "single_comments": 0
+  },
+  "tests/parser/external/test_engine_param_thread.py": {
+    "loc": 104,
+    "lloc": 68,
+    "sloc": 69,
+    "comments": 9,
+    "multi": 7,
+    "blank": 23,
+    "single_comments": 5
+  },
+  "tests/parser/external/docling/test_docling_download_bounds.py": {
+    "loc": 360,
+    "lloc": 172,
+    "sloc": 226,
+    "comments": 15,
+    "multi": 56,
+    "blank": 67,
+    "single_comments": 11
+  },
+  "tests/parser/external/docling/__init__.py": {
+    "loc": 0,
+    "lloc": 0,
+    "sloc": 0,
+    "comments": 0,
+    "multi": 0,
+    "blank": 0,
+    "single_comments": 0
+  },
+  "tests/parser/external/docling/test_manifest.py": {
+    "loc": 57,
+    "lloc": 26,
+    "sloc": 25,
+    "comments": 11,
+    "multi": 6,
+    "blank": 15,
+    "single_comments": 11
+  },
+  "tests/parser/external/docling/test_client.py": {
+    "loc": 981,
+    "lloc": 422,
+    "sloc": 727,
+    "comments": 54,
+    "multi": 48,
+    "blank": 151,
+    "single_comments": 55
+  },
+  "tests/parser/external/docling/test_ir_builder.py": {
+    "loc": 1168,
+    "lloc": 332,
+    "sloc": 962,
+    "comments": 78,
+    "multi": 34,
+    "blank": 101,
+    "single_comments": 71
+  },
+  "tests/parser/external/docling/test_cache.py": {
+    "loc": 222,
+    "lloc": 104,
+    "sloc": 153,
+    "comments": 17,
+    "multi": 9,
+    "blank": 43,
+    "single_comments": 17
+  },
+  "tests/parser/external/docling/test_parse_docling_sidecar.py": {
+    "loc": 668,
+    "lloc": 264,
+    "sloc": 539,
+    "comments": 17,
+    "multi": 21,
+    "blank": 90,
+    "single_comments": 18
+  },
+  "tests/parser/external/mineru/test_mineru_download_bounds.py": {
+    "loc": 358,
+    "lloc": 170,
+    "sloc": 203,
+    "comments": 23,
+    "multi": 67,
+    "blank": 69,
+    "single_comments": 19
+  },
+  "tests/parser/external/mineru/test_parse_mineru_sidecar.py": {
+    "loc": 553,
+    "lloc": 227,
+    "sloc": 432,
+    "comments": 20,
+    "multi": 17,
+    "blank": 81,
+    "single_comments": 23
+  },
+  "tests/parser/external/mineru/__init__.py": {
+    "loc": 0,
+    "lloc": 0,
+    "sloc": 0,
+    "comments": 0,
+    "multi": 0,
+    "blank": 0,
+    "single_comments": 0
+  },
+  "tests/parser/external/mineru/test_delete_file_variants_mineru_raw.py": {
+    "loc": 114,
+    "lloc": 76,
+    "sloc": 76,
+    "comments": 8,
+    "multi": 7,
+    "blank": 23,
+    "single_comments": 8
+  },
+  "tests/parser/external/mineru/test_client.py": {
+    "loc": 1157,
+    "lloc": 669,
+    "sloc": 870,
+    "comments": 50,
+    "multi": 29,
+    "blank": 207,
+    "single_comments": 51
+  },
+  "tests/parser/external/mineru/test_ir_builder.py": {
+    "loc": 1225,
+    "lloc": 510,
+    "sloc": 885,
+    "comments": 75,
+    "multi": 149,
+    "blank": 136,
+    "single_comments": 55
+  },
+  "tests/parser/external/mineru/test_cache.py": {
+    "loc": 461,
+    "lloc": 231,
+    "sloc": 350,
+    "comments": 16,
+    "multi": 20,
+    "blank": 73,
+    "single_comments": 18
+  },
+  "tests/parser/docx/test_smart_heading_title_block.py": {
+    "loc": 2758,
+    "lloc": 1050,
+    "sloc": 1918,
+    "comments": 272,
+    "multi": 339,
+    "blank": 371,
+    "single_comments": 130
+  },
+  "tests/parser/docx/_native_docx_fixtures.py": {
+    "loc": 329,
+    "lloc": 28,
+    "sloc": 297,
+    "comments": 29,
+    "multi": 18,
+    "blank": 13,
+    "single_comments": 1
+  },
+  "tests/parser/docx/test_smart_heading_flow.py": {
+    "loc": 4199,
+    "lloc": 2036,
+    "sloc": 2960,
+    "comments": 349,
+    "multi": 437,
+    "blank": 597,
+    "single_comments": 205
+  },
+  "tests/parser/docx/test_ir_builder_doc_title.py": {
+    "loc": 52,
+    "lloc": 22,
+    "sloc": 31,
+    "comments": 0,
+    "multi": 6,
+    "blank": 15,
+    "single_comments": 0
+  },
+  "tests/parser/docx/test_is_openai_retryable_spend_stop.py": {
+    "loc": 75,
+    "lloc": 28,
+    "sloc": 53,
+    "comments": 0,
+    "multi": 8,
+    "blank": 13,
+    "single_comments": 1
+  },
+  "tests/parser/docx/test_extract_blocks_characterization.py": {
+    "loc": 278,
+    "lloc": 181,
+    "sloc": 195,
+    "comments": 11,
+    "multi": 13,
+    "blank": 60,
+    "single_comments": 10
+  },
+  "tests/parser/docx/test_numbering_resolver.py": {
+    "loc": 644,
+    "lloc": 367,
+    "sloc": 404,
+    "comments": 40,
+    "multi": 98,
+    "blank": 105,
+    "single_comments": 37
+  },
+  "tests/parser/docx/test_native_docx_golden.py": {
+    "loc": 165,
+    "lloc": 68,
+    "sloc": 111,
+    "comments": 9,
+    "multi": 18,
+    "blank": 31,
+    "single_comments": 5
+  },
+  "tests/parser/docx/test_smart_heading_wiring.py": {
+    "loc": 473,
+    "lloc": 224,
+    "sloc": 350,
+    "comments": 7,
+    "multi": 33,
+    "blank": 81,
+    "single_comments": 9
+  },
+  "tests/parser/docx/__init__.py": {
+    "loc": 0,
+    "lloc": 0,
+    "sloc": 0,
+    "comments": 0,
+    "multi": 0,
+    "blank": 0,
+    "single_comments": 0
+  },
+  "tests/parser/docx/test_smart_heading_skeleton.py": {
+    "loc": 791,
+    "lloc": 380,
+    "sloc": 551,
+    "comments": 78,
+    "multi": 87,
+    "blank": 113,
+    "single_comments": 40
+  },
+  "tests/parser/docx/test_smart_heading_guards.py": {
+    "loc": 569,
+    "lloc": 220,
+    "sloc": 361,
+    "comments": 103,
+    "multi": 47,
+    "blank": 118,
+    "single_comments": 43
+  },
+  "tests/parser/docx/test_smart_heading_features.py": {
+    "error": "SyntaxError at line: 541"
+  },
+  "tests/parser/docx/test_smart_heading_e2e.py": {
+    "loc": 1164,
+    "lloc": 656,
+    "sloc": 803,
+    "comments": 91,
+    "multi": 120,
+    "blank": 163,
+    "single_comments": 78
+  },
+  "tests/parser/docx/test_smart_heading_guardrails.py": {
+    "loc": 934,
+    "lloc": 382,
+    "sloc": 624,
+    "comments": 83,
+    "multi": 95,
+    "blank": 168,
+    "single_comments": 47
+  },
+  "tests/parser/docx/test_smart_heading_nesting.py": {
+    "loc": 196,
+    "lloc": 70,
+    "sloc": 126,
+    "comments": 51,
+    "multi": 8,
+    "blank": 34,
+    "single_comments": 28
+  },
+  "tests/parser/docx/test_zip_budget.py": {
+    "loc": 883,
+    "lloc": 438,
+    "sloc": 537,
+    "comments": 57,
+    "multi": 122,
+    "blank": 175,
+    "single_comments": 49
+  },
+  "tests/parser/docx/test_ir_builder_security.py": {
+    "loc": 104,
+    "lloc": 49,
+    "sloc": 73,
+    "comments": 7,
+    "multi": 0,
+    "blank": 23,
+    "single_comments": 8
+  },
+  "tests/parser/docx/test_smart_heading_style_key.py": {
+    "loc": 469,
+    "lloc": 189,
+    "sloc": 346,
+    "comments": 42,
+    "multi": 24,
+    "blank": 74,
+    "single_comments": 25
+  },
+  "tests/parser/docx/test_omml_latex_delimiters.py": {
+    "loc": 313,
+    "lloc": 75,
+    "sloc": 218,
+    "comments": 56,
+    "multi": 11,
+    "blank": 43,
+    "single_comments": 41
+  },
+  "tests/parser/docx/test_smart_heading_anchoring.py": {
+    "loc": 222,
+    "lloc": 96,
+    "sloc": 162,
+    "comments": 23,
+    "multi": 13,
+    "blank": 35,
+    "single_comments": 12
+  },
+  "tests/parser/docx/test_drawing_image_extractor.py": {
+    "loc": 578,
+    "lloc": 316,
+    "sloc": 474,
+    "comments": 1,
+    "multi": 5,
+    "blank": 99,
+    "single_comments": 0
+  },
+  "tests/parser/docx/test_native_docx_extract.py": {
+    "loc": 440,
+    "lloc": 214,
+    "sloc": 262,
+    "comments": 20,
+    "multi": 50,
+    "blank": 109,
+    "single_comments": 19
+  },
+  "tests/parser/docx/test_validation_raises.py": {
+    "loc": 45,
+    "lloc": 16,
+    "sloc": 19,
+    "comments": 5,
+    "multi": 11,
+    "blank": 11,
+    "single_comments": 4
+  },
+  "tests/kg/conftest_scheduling_backends.py": {
+    "loc": 243,
+    "lloc": 103,
+    "sloc": 154,
+    "comments": 11,
+    "multi": 27,
+    "blank": 50,
+    "single_comments": 12
+  },
+  "tests/kg/test_unified_lock_safety.py": {
+    "loc": 122,
+    "lloc": 43,
+    "sloc": 52,
+    "comments": 7,
+    "multi": 32,
+    "blank": 28,
+    "single_comments": 10
+  },
+  "tests/kg/test_vector_space.py": {
+    "loc": 160,
+    "lloc": 56,
+    "sloc": 93,
+    "comments": 21,
+    "multi": 6,
+    "blank": 40,
+    "single_comments": 21
+  },
+  "tests/kg/test_reservation_architecture.py": {
+    "loc": 36,
+    "lloc": 18,
+    "sloc": 25,
+    "comments": 0,
+    "multi": 0,
+    "blank": 10,
+    "single_comments": 1
+  },
+  "tests/kg/test_keyed_holder_table.py": {
+    "loc": 604,
+    "lloc": 396,
+    "sloc": 387,
+    "comments": 69,
+    "multi": 61,
+    "blank": 111,
+    "single_comments": 45
+  },
+  "tests/kg/test_shared_storage_rpc_counts.py": {
+    "loc": 294,
+    "lloc": 181,
+    "sloc": 189,
+    "comments": 25,
+    "multi": 13,
+    "blank": 66,
+    "single_comments": 26
+  },
+  "tests/kg/test_reserved_background_task.py": {
+    "loc": 143,
+    "lloc": 95,
+    "sloc": 95,
+    "comments": 10,
+    "multi": 8,
+    "blank": 36,
+    "single_comments": 4
+  },
+  "tests/kg/test_committed_background_task.py": {
+    "loc": 302,
+    "lloc": 173,
+    "sloc": 219,
+    "comments": 16,
+    "multi": 16,
+    "blank": 55,
+    "single_comments": 12
+  },
+  "tests/kg/test_batch_graph_operations.py": {
+    "loc": 1532,
+    "lloc": 746,
+    "sloc": 1191,
+    "comments": 56,
+    "multi": 43,
+    "blank": 251,
+    "single_comments": 47
+  },
+  "tests/kg/test_pipeline_status_logger.py": {
+    "loc": 335,
+    "lloc": 204,
+    "sloc": 211,
+    "comments": 40,
+    "multi": 30,
+    "blank": 70,
+    "single_comments": 24
+  },
+  "tests/kg/test_scheduling_page_plans.py": {
+    "loc": 265,
+    "lloc": 150,
+    "sloc": 165,
+    "comments": 6,
+    "multi": 48,
+    "blank": 46,
+    "single_comments": 6
+  },
+  "tests/kg/test_keyed_lock_cancel_safety.py": {
+    "loc": 235,
+    "lloc": 123,
+    "sloc": 128,
+    "comments": 21,
+    "multi": 35,
+    "blank": 52,
+    "single_comments": 20
+  },
+  "tests/kg/test_file_atomic.py": {
+    "loc": 333,
+    "lloc": 207,
+    "sloc": 215,
+    "comments": 5,
+    "multi": 40,
+    "blank": 73,
+    "single_comments": 5
+  },
+  "tests/kg/test_keyed_lock_dead_worker_recovery.py": {
+    "loc": 262,
+    "lloc": 154,
+    "sloc": 154,
+    "comments": 25,
+    "multi": 42,
+    "blank": 45,
+    "single_comments": 21
+  },
+  "tests/kg/__init__.py": {
+    "loc": 0,
+    "lloc": 0,
+    "sloc": 0,
+    "comments": 0,
+    "multi": 0,
+    "blank": 0,
+    "single_comments": 0
+  },
+  "tests/kg/test_bounded_pipeline_history.py": {
+    "loc": 243,
+    "lloc": 122,
+    "sloc": 125,
+    "comments": 20,
+    "multi": 27,
+    "blank": 71,
+    "single_comments": 20
+  },
+  "tests/kg/test_keyed_lock_async_registry.py": {
+    "loc": 278,
+    "lloc": 184,
+    "sloc": 187,
+    "comments": 16,
+    "multi": 29,
+    "blank": 50,
+    "single_comments": 12
+  },
+  "tests/kg/test_write_seq.py": {
+    "loc": 101,
+    "lloc": 55,
+    "sloc": 51,
+    "comments": 2,
+    "multi": 28,
+    "blank": 22,
+    "single_comments": 0
+  },
+  "tests/kg/test_get_all_update_flags_status.py": {
+    "loc": 46,
+    "lloc": 26,
+    "sloc": 32,
+    "comments": 1,
+    "multi": 5,
+    "blank": 8,
+    "single_comments": 1
+  },
+  "tests/kg/test_scan_job_store.py": {
+    "loc": 449,
+    "lloc": 274,
+    "sloc": 312,
+    "comments": 38,
+    "multi": 42,
+    "blank": 72,
+    "single_comments": 23
+  },
+  "tests/kg/test_pipeline_ingress.py": {
+    "loc": 751,
+    "lloc": 402,
+    "sloc": 499,
+    "comments": 64,
+    "multi": 58,
+    "blank": 142,
+    "single_comments": 52
+  },
+  "tests/kg/test_scheduling_base_defaults.py": {
+    "loc": 279,
+    "lloc": 138,
+    "sloc": 188,
+    "comments": 28,
+    "multi": 16,
+    "blank": 61,
+    "single_comments": 14
+  },
+  "tests/kg/test_scheduling_backend_fixture.py": {
+    "loc": 77,
+    "lloc": 37,
+    "sloc": 40,
+    "comments": 3,
+    "multi": 13,
+    "blank": 22,
+    "single_comments": 2
+  },
+  "tests/kg/test_global_concurrency_slots.py": {
+    "loc": 437,
+    "lloc": 278,
+    "sloc": 278,
+    "comments": 49,
+    "multi": 11,
+    "blank": 105,
+    "single_comments": 43
+  },
+  "tests/kg/test_doc_status_scheduling_contract.py": {
+    "loc": 784,
+    "lloc": 277,
+    "sloc": 539,
+    "comments": 41,
+    "multi": 58,
+    "blank": 151,
+    "single_comments": 36
+  },
+  "tests/kg/test_degree_return_type.py": {
+    "loc": 143,
+    "lloc": 93,
+    "sloc": 90,
+    "comments": 10,
+    "multi": 12,
+    "blank": 29,
+    "single_comments": 12
+  },
+  "tests/kg/test_file_backed_vector_space.py": {
+    "loc": 480,
+    "lloc": 277,
+    "sloc": 272,
+    "comments": 25,
+    "multi": 61,
+    "blank": 113,
+    "single_comments": 34
+  },
+  "tests/kg/test_graph_storage.py": {
+    "loc": 1907,
+    "lloc": 785,
+    "sloc": 1352,
+    "comments": 181,
+    "multi": 157,
+    "blank": 223,
+    "single_comments": 175
+  },
+  "tests/kg/test_reservation_dead_process_recovery.py": {
+    "loc": 760,
+    "lloc": 425,
+    "sloc": 531,
+    "comments": 54,
+    "multi": 60,
+    "blank": 119,
+    "single_comments": 50
+  },
+  "tests/kg/test_reservation_primitives.py": {
+    "loc": 898,
+    "lloc": 421,
+    "sloc": 657,
+    "comments": 55,
+    "multi": 56,
+    "blank": 139,
+    "single_comments": 46
+  },
+  "tests/kg/test_doc_status_strict_parse_branches.py": {
+    "loc": 171,
+    "lloc": 87,
+    "sloc": 106,
+    "comments": 14,
+    "multi": 8,
+    "blank": 48,
+    "single_comments": 9
+  },
+  "tests/kg/faiss_impl/test_faiss_deferred_embedding.py": {
+    "loc": 1894,
+    "lloc": 1198,
+    "sloc": 1246,
+    "comments": 98,
+    "multi": 198,
+    "blank": 357,
+    "single_comments": 93
+  },
+  "tests/kg/faiss_impl/test_faiss_fingerprint_fence.py": {
+    "loc": 547,
+    "lloc": 321,
+    "sloc": 334,
+    "comments": 37,
+    "multi": 74,
+    "blank": 102,
+    "single_comments": 37
+  },
+  "tests/kg/faiss_impl/test_faiss_deferred_delete.py": {
+    "loc": 639,
+    "lloc": 375,
+    "sloc": 434,
+    "comments": 31,
+    "multi": 60,
+    "blank": 118,
+    "single_comments": 27
+  },
+  "tests/kg/faiss_impl/test_faiss_meta_inconsistency.py": {
+    "loc": 163,
+    "lloc": 103,
+    "sloc": 101,
+    "comments": 10,
+    "multi": 23,
+    "blank": 28,
+    "single_comments": 11
+  },
+  "tests/kg/faiss_impl/test_atomic_write_faiss.py": {
+    "loc": 137,
+    "lloc": 76,
+    "sloc": 81,
+    "comments": 11,
+    "multi": 18,
+    "blank": 29,
+    "single_comments": 9
+  },
+  "tests/kg/faiss_impl/__init__.py": {
+    "loc": 0,
+    "lloc": 0,
+    "sloc": 0,
+    "comments": 0,
+    "multi": 0,
+    "blank": 0,
+    "single_comments": 0
+  },
+  "tests/kg/faiss_impl/test_faiss_drop.py": {
+    "loc": 480,
+    "lloc": 323,
+    "sloc": 324,
+    "comments": 24,
+    "multi": 41,
+    "blank": 93,
+    "single_comments": 22
+  },
+  "tests/kg/faiss_impl/test_faiss_write_off_event_loop.py": {
+    "loc": 320,
+    "lloc": 172,
+    "sloc": 189,
+    "comments": 13,
+    "multi": 48,
+    "blank": 72,
+    "single_comments": 11
+  },
+  "tests/kg/redis_impl/test_redis_doc_status_lookup.py": {
+    "loc": 312,
+    "lloc": 125,
+    "sloc": 194,
+    "comments": 24,
+    "multi": 28,
+    "blank": 67,
+    "single_comments": 23
+  },
+  "tests/kg/redis_impl/__init__.py": {
+    "loc": 0,
+    "lloc": 0,
+    "sloc": 0,
+    "comments": 0,
+    "multi": 0,
+    "blank": 0,
+    "single_comments": 0
+  },
+  "tests/kg/redis_impl/test_redis_scheduling_pages.py": {
+    "loc": 751,
+    "lloc": 436,
+    "sloc": 522,
+    "comments": 68,
+    "multi": 50,
+    "blank": 115,
+    "single_comments": 64
+  },
+  "tests/kg/redis_impl/test_redis_kv_upsert_create_time.py": {
+    "loc": 449,
+    "lloc": 295,
+    "sloc": 277,
+    "comments": 23,
+    "multi": 36,
+    "blank": 109,
+    "single_comments": 27
+  },
+  "tests/kg/redis_impl/test_redis_eviction_guard.py": {
+    "loc": 195,
+    "lloc": 127,
+    "sloc": 126,
+    "comments": 0,
+    "multi": 19,
+    "blank": 47,
+    "single_comments": 3
+  },
+  "tests/kg/redis_impl/test_redis_doc_status_track_id_hydration.py": {
+    "loc": 146,
+    "lloc": 63,
+    "sloc": 82,
+    "comments": 4,
+    "multi": 25,
+    "blank": 38,
+    "single_comments": 1
+  },
+  "tests/kg/redis_impl/test_redis_kv_create_time_integration.py": {
+    "loc": 401,
+    "lloc": 228,
+    "sloc": 259,
+    "comments": 9,
+    "multi": 38,
+    "blank": 92,
+    "single_comments": 12
+  },
+  "tests/kg/redis_impl/test_redis_finalize.py": {
+    "loc": 359,
+    "lloc": 204,
+    "sloc": 230,
+    "comments": 37,
+    "multi": 32,
+    "blank": 71,
+    "single_comments": 26
+  },
+  "tests/kg/redis_impl/fake_redis.py": {
+    "loc": 549,
+    "lloc": 400,
+    "sloc": 396,
+    "comments": 26,
+    "multi": 60,
+    "blank": 70,
+    "single_comments": 23
+  },
+  "tests/kg/qdrant_impl/test_qdrant_deferred_embedding.py": {
+    "loc": 592,
+    "lloc": 389,
+    "sloc": 410,
+    "comments": 30,
+    "multi": 24,
+    "blank": 127,
+    "single_comments": 31
+  },
+  "tests/kg/qdrant_impl/test_qdrant_vector_space.py": {
+    "loc": 199,
+    "lloc": 85,
+    "sloc": 119,
+    "comments": 10,
+    "multi": 28,
+    "blank": 43,
+    "single_comments": 9
+  },
+  "tests/kg/qdrant_impl/test_qdrant_upsert_batching.py": {
+    "loc": 172,
+    "lloc": 97,
+    "sloc": 115,
+    "comments": 10,
+    "multi": 9,
+    "blank": 38,
+    "single_comments": 10
+  },
+  "tests/kg/qdrant_impl/__init__.py": {
+    "loc": 0,
+    "lloc": 0,
+    "sloc": 0,
+    "comments": 0,
+    "multi": 0,
+    "blank": 0,
+    "single_comments": 0
+  },
+  "tests/kg/qdrant_impl/test_qdrant_migration.py": {
+    "loc": 574,
+    "lloc": 232,
+    "sloc": 357,
+    "comments": 93,
+    "multi": 28,
+    "blank": 108,
+    "single_comments": 81
+  },
+  "tests/kg/postgres_impl/test_postgres_upsert.py": {
+    "loc": 844,
+    "lloc": 446,
+    "sloc": 566,
+    "comments": 100,
+    "multi": 35,
+    "blank": 156,
+    "single_comments": 87
+  },
+  "tests/kg/postgres_impl/test_postgres_vector_deferred.py": {
+    "loc": 1035,
+    "lloc": 591,
+    "sloc": 596,
+    "comments": 151,
+    "multi": 53,
+    "blank": 237,
+    "single_comments": 149
+  },
+  "tests/kg/postgres_impl/test_postgres_graph_read_contract.py": {
+    "loc": 230,
+    "lloc": 108,
+    "sloc": 108,
+    "comments": 15,
+    "multi": 46,
+    "blank": 55,
+    "single_comments": 21
+  },
+  "tests/kg/postgres_impl/test_postgres_migration.py": {
+    "loc": 856,
+    "lloc": 444,
+    "sloc": 572,
+    "comments": 106,
+    "multi": 45,
+    "blank": 142,
+    "single_comments": 97
+  },
+  "tests/kg/postgres_impl/test_postgres_graph_batch.py": {
+    "loc": 242,
+    "lloc": 140,
+    "sloc": 140,
+    "comments": 35,
+    "multi": 8,
+    "blank": 65,
+    "single_comments": 29
+  },
+  "tests/kg/postgres_impl/test_postgres_index_name.py": {
+    "loc": 210,
+    "lloc": 93,
+    "sloc": 104,
+    "comments": 29,
+    "multi": 17,
+    "blank": 52,
+    "single_comments": 37
+  },
+  "tests/kg/postgres_impl/test_postgres_batch_limits.py": {
+    "loc": 160,
+    "lloc": 84,
+    "sloc": 103,
+    "comments": 20,
+    "multi": 7,
+    "blank": 31,
+    "single_comments": 19
+  },
+  "tests/kg/postgres_impl/test_postgres_age_graph_ensure.py": {
+    "loc": 451,
+    "lloc": 267,
+    "sloc": 274,
+    "comments": 26,
+    "multi": 18,
+    "blank": 120,
+    "single_comments": 39
+  },
+  "tests/kg/postgres_impl/test_pg_scheduling_pages.py": {
+    "loc": 816,
+    "lloc": 468,
+    "sloc": 558,
+    "comments": 85,
+    "multi": 31,
+    "blank": 159,
+    "single_comments": 68
+  },
+  "tests/kg/postgres_impl/test_postgres_get_all_complete_or_raise.py": {
+    "loc": 127,
+    "lloc": 46,
+    "sloc": 80,
+    "comments": 13,
+    "multi": 14,
+    "blank": 23,
+    "single_comments": 10
+  },
+  "tests/kg/postgres_impl/test_pg_scheduling_index_migration.py": {
+    "loc": 150,
+    "lloc": 97,
+    "sloc": 87,
+    "comments": 9,
+    "multi": 17,
+    "blank": 36,
+    "single_comments": 10
+  },
+  "tests/kg/postgres_impl/__init__.py": {
+    "loc": 0,
+    "lloc": 0,
+    "sloc": 0,
+    "comments": 0,
+    "multi": 0,
+    "blank": 0,
+    "single_comments": 0
+  },
+  "tests/kg/postgres_impl/test_postgres_performance_timing.py": {
+    "loc": 152,
+    "lloc": 63,
+    "sloc": 108,
+    "comments": 1,
+    "multi": 11,
+    "blank": 32,
+    "single_comments": 1
+  },
+  "tests/kg/postgres_impl/test_postgres_client_manager.py": {
+    "loc": 142,
+    "lloc": 82,
+    "sloc": 84,
+    "comments": 3,
+    "multi": 18,
+    "blank": 37,
+    "single_comments": 3
+  },
+  "tests/kg/postgres_impl/test_postgres_doc_status_lookup.py": {
+    "loc": 228,
+    "lloc": 137,
+    "sloc": 147,
+    "comments": 16,
+    "multi": 14,
+    "blank": 53,
+    "single_comments": 14
+  },
+  "tests/kg/postgres_impl/test_postgres_search_path_table_exists.py": {
+    "loc": 35,
+    "lloc": 20,
+    "sloc": 25,
+    "comments": 0,
+    "multi": 0,
+    "blank": 10,
+    "single_comments": 0
+  },
+  "tests/kg/postgres_impl/test_postgres_vector_space.py": {
+    "loc": 165,
+    "lloc": 70,
+    "sloc": 103,
+    "comments": 8,
+    "multi": 22,
+    "blank": 34,
+    "single_comments": 6
+  },
+  "tests/kg/postgres_impl/test_postgres_delete_set_ids.py": {
+    "loc": 98,
+    "lloc": 52,
+    "sloc": 55,
+    "comments": 6,
+    "multi": 12,
+    "blank": 26,
+    "single_comments": 5
+  },
+  "tests/kg/postgres_impl/test_postgres_halfvec.py": {
+    "loc": 374,
+    "lloc": 207,
+    "sloc": 259,
+    "comments": 23,
+    "multi": 0,
+    "blank": 82,
+    "single_comments": 33
+  },
+  "tests/kg/postgres_impl/test_postgres_age_version_gate.py": {
+    "loc": 2026,
+    "lloc": 707,
+    "sloc": 994,
+    "comments": 199,
+    "multi": 451,
+    "blank": 396,
+    "single_comments": 185
+  },
+  "tests/kg/postgres_impl/test_postgres_cypher_injection.py": {
+    "loc": 546,
+    "lloc": 340,
+    "sloc": 323,
+    "comments": 57,
+    "multi": 29,
+    "blank": 123,
+    "single_comments": 71
+  },
+  "tests/kg/postgres_impl/test_doc_full_parse_engine_text.py": {
+    "loc": 91,
+    "lloc": 46,
+    "sloc": 60,
+    "comments": 5,
+    "multi": 7,
+    "blank": 21,
+    "single_comments": 3
+  },
+  "tests/kg/postgres_impl/test_postgres_retry_integration.py": {
+    "loc": 350,
+    "lloc": 184,
+    "sloc": 223,
+    "comments": 24,
+    "multi": 45,
+    "blank": 63,
+    "single_comments": 19
+  },
+  "tests/kg/postgres_impl/test_postgres_self_loop_listing.py": {
+    "loc": 90,
+    "lloc": 39,
+    "sloc": 47,
+    "comments": 2,
+    "multi": 18,
+    "blank": 22,
+    "single_comments": 3
+  },
+  "tests/kg/postgres_impl/test_postgres_age_quote_fix.py": {
+    "loc": 252,
+    "lloc": 158,
+    "sloc": 144,
+    "comments": 14,
+    "multi": 14,
+    "blank": 72,
+    "single_comments": 22
+  },
+  "tests/kg/postgres_impl/test_postgres_vector_payload_strips_embedding.py": {
+    "loc": 85,
+    "lloc": 39,
+    "sloc": 54,
+    "comments": 1,
+    "multi": 9,
+    "blank": 21,
+    "single_comments": 1
+  },
+  "tests/kg/postgres_impl/test_postgres_doc_status_track_id_hydration.py": {
+    "loc": 136,
+    "lloc": 58,
+    "sloc": 77,
+    "comments": 2,
+    "multi": 25,
+    "blank": 32,
+    "single_comments": 2
+  },
+  "tests/kg/postgres_impl/test_postgres_upsert_edge_cypher.py": {
+    "loc": 567,
+    "lloc": 300,
+    "sloc": 297,
+    "comments": 55,
+    "multi": 83,
+    "blank": 129,
+    "single_comments": 58
+  },
+  "tests/kg/postgres_impl/test_postgres_get_knowledge_graph_all.py": {
+    "loc": 224,
+    "lloc": 112,
+    "sloc": 127,
+    "comments": 21,
+    "multi": 26,
+    "blank": 45,
+    "single_comments": 26
+  },
+  "tests/kg/milvus_impl/test_milvus_off_event_loop.py": {
+    "loc": 991,
+    "lloc": 628,
+    "sloc": 614,
+    "comments": 35,
+    "multi": 137,
+    "blank": 205,
+    "single_comments": 35
+  },
+  "tests/kg/milvus_impl/test_milvus_query_paging.py": {
+    "loc": 590,
+    "lloc": 350,
+    "sloc": 377,
+    "comments": 28,
+    "multi": 71,
+    "blank": 115,
+    "single_comments": 27
+  },
+  "tests/kg/milvus_impl/test_milvus_index_config.py": {
+    "loc": 415,
+    "lloc": 267,
+    "sloc": 272,
+    "comments": 29,
+    "multi": 5,
+    "blank": 79,
+    "single_comments": 59
+  },
+  "tests/kg/milvus_impl/test_milvus_index_creation.py": {
+    "loc": 1136,
+    "lloc": 495,
+    "sloc": 908,
+    "comments": 41,
+    "multi": 10,
+    "blank": 162,
+    "single_comments": 56
+  },
+  "tests/kg/milvus_impl/test_milvus_deferred_embedding.py": {
+    "loc": 720,
+    "lloc": 464,
+    "sloc": 449,
+    "comments": 56,
+    "multi": 47,
+    "blank": 168,
+    "single_comments": 56
+  },
+  "tests/kg/milvus_impl/__init__.py": {
+    "loc": 0,
+    "lloc": 0,
+    "sloc": 0,
+    "comments": 0,
+    "multi": 0,
+    "blank": 0,
+    "single_comments": 0
+  },
+  "tests/kg/milvus_impl/test_milvus_vector_space.py": {
+    "loc": 149,
+    "lloc": 81,
+    "sloc": 82,
+    "comments": 3,
+    "multi": 28,
+    "blank": 38,
+    "single_comments": 1
+  },
+  "tests/kg/milvus_impl/test_milvus_kwargs_bridge.py": {
+    "loc": 296,
+    "lloc": 98,
+    "sloc": 214,
+    "comments": 33,
+    "multi": 18,
+    "blank": 36,
+    "single_comments": 28
+  },
+  "tests/kg/milvus_impl/test_milvus_migration_retry.py": {
+    "loc": 681,
+    "lloc": 409,
+    "sloc": 506,
+    "comments": 43,
+    "multi": 17,
+    "blank": 122,
+    "single_comments": 36
+  },
+  "tests/kg/milvus_impl/test_milvus_migration_memory.py": {
+    "loc": 217,
+    "lloc": 128,
+    "sloc": 157,
+    "comments": 7,
+    "multi": 8,
+    "blank": 46,
+    "single_comments": 6
+  },
+  "tests/kg/milvus_impl/test_milvus_escape_filter.py": {
+    "loc": 161,
+    "lloc": 90,
+    "sloc": 124,
+    "comments": 0,
+    "multi": 0,
+    "blank": 36,
+    "single_comments": 1
+  },
+  "tests/kg/json_impl/test_json_scheduling_pages.py": {
+    "loc": 489,
+    "lloc": 235,
+    "sloc": 393,
+    "comments": 25,
+    "multi": 19,
+    "blank": 59,
+    "single_comments": 18
+  },
+  "tests/kg/json_impl/test_json_write_off_event_loop.py": {
+    "loc": 216,
+    "lloc": 118,
+    "sloc": 140,
+    "comments": 1,
+    "multi": 24,
+    "blank": 48,
+    "single_comments": 4
+  },
+  "tests/kg/json_impl/test_json_kv_upsert_create_time.py": {
+    "loc": 226,
+    "lloc": 156,
+    "sloc": 143,
+    "comments": 2,
+    "multi": 20,
+    "blank": 59,
+    "single_comments": 4
+  },
+  "tests/kg/json_impl/test_json_doc_status_track_id_hydration.py": {
+    "loc": 148,
+    "lloc": 57,
+    "sloc": 93,
+    "comments": 7,
+    "multi": 23,
+    "blank": 27,
+    "single_comments": 5
+  },
+  "tests/kg/json_impl/__init__.py": {
+    "loc": 0,
+    "lloc": 0,
+    "sloc": 0,
+    "comments": 0,
+    "multi": 0,
+    "blank": 0,
+    "single_comments": 0
+  },
+  "tests/kg/json_impl/test_json_storage_rpc_counts.py": {
+    "loc": 203,
+    "lloc": 106,
+    "sloc": 136,
+    "comments": 9,
+    "multi": 15,
+    "blank": 43,
+    "single_comments": 9
+  },
+  "tests/kg/json_impl/test_json_kv_copy_on_read.py": {
+    "loc": 137,
+    "lloc": 61,
+    "sloc": 91,
+    "comments": 5,
+    "multi": 14,
+    "blank": 27,
+    "single_comments": 5
+  },
+  "tests/kg/json_impl/test_json_commit_reconciliation.py": {
+    "loc": 315,
+    "lloc": 140,
+    "sloc": 197,
+    "comments": 6,
+    "multi": 49,
+    "blank": 63,
+    "single_comments": 6
+  },
+  "tests/kg/json_impl/test_atomic_write_write_json.py": {
+    "loc": 66,
+    "lloc": 46,
+    "sloc": 41,
+    "comments": 1,
+    "multi": 8,
+    "blank": 16,
+    "single_comments": 1
+  },
+  "tests/kg/json_impl/test_write_json_optimization.py": {
+    "loc": 490,
+    "lloc": 257,
+    "sloc": 318,
+    "comments": 53,
+    "multi": 22,
+    "blank": 91,
+    "single_comments": 59
+  },
+  "tests/kg/json_impl/test_json_doc_status_storage.py": {
+    "loc": 227,
+    "lloc": 89,
+    "sloc": 185,
+    "comments": 3,
+    "multi": 6,
+    "blank": 36,
+    "single_comments": 0
+  },
+  "tests/kg/json_impl/test_json_doc_status_copy_on_read.py": {
+    "loc": 395,
+    "lloc": 157,
+    "sloc": 293,
+    "comments": 13,
+    "multi": 31,
+    "blank": 60,
+    "single_comments": 11
+  },
+  "tests/kg/mongo_impl/test_mongo_doc_status_track_id_hydration.py": {
+    "loc": 128,
+    "lloc": 56,
+    "sloc": 76,
+    "comments": 2,
+    "multi": 16,
+    "blank": 35,
+    "single_comments": 1
+  },
+  "tests/kg/mongo_impl/test_mongo_doc_status_id_sort.py": {
+    "loc": 160,
+    "lloc": 91,
+    "sloc": 130,
+    "comments": 3,
+    "multi": 0,
+    "blank": 28,
+    "single_comments": 2
+  },
+  "tests/kg/mongo_impl/test_mongo_edge_batch_methods.py": {
+    "loc": 401,
+    "lloc": 264,
+    "sloc": 261,
+    "comments": 21,
+    "multi": 39,
+    "blank": 78,
+    "single_comments": 23
+  },
+  "tests/kg/mongo_impl/test_mongo_vector_query_cosine_threshold.py": {
+    "loc": 83,
+    "lloc": 43,
+    "sloc": 49,
+    "comments": 0,
+    "multi": 13,
+    "blank": 21,
+    "single_comments": 0
+  },
+  "tests/kg/mongo_impl/test_mongo_self_loop_contract.py": {
+    "loc": 137,
+    "lloc": 71,
+    "sloc": 74,
+    "comments": 0,
+    "multi": 30,
+    "blank": 33,
+    "single_comments": 0
+  },
+  "tests/kg/mongo_impl/test_mongo_dedupe_legacy_edges.py": {
+    "loc": 296,
+    "lloc": 125,
+    "sloc": 212,
+    "comments": 0,
+    "multi": 40,
+    "blank": 44,
+    "single_comments": 0
+  },
+  "tests/kg/mongo_impl/test_client_manager_lifecycle.py": {
+    "loc": 100,
+    "lloc": 58,
+    "sloc": 65,
+    "comments": 0,
+    "multi": 5,
+    "blank": 24,
+    "single_comments": 6
+  },
+  "tests/kg/mongo_impl/test_mongo_deferred_embedding.py": {
+    "loc": 570,
+    "lloc": 385,
+    "sloc": 387,
+    "comments": 24,
+    "multi": 31,
+    "blank": 131,
+    "single_comments": 21
+  },
+  "tests/kg/mongo_impl/test_mongo_vector_space.py": {
+    "loc": 499,
+    "lloc": 259,
+    "sloc": 285,
+    "comments": 27,
+    "multi": 55,
+    "blank": 125,
+    "single_comments": 34
+  },
+  "tests/kg/mongo_impl/test_mongo_storage.py": {
+    "loc": 1635,
+    "lloc": 888,
+    "sloc": 1193,
+    "comments": 79,
+    "multi": 142,
+    "blank": 226,
+    "single_comments": 74
+  },
+  "tests/kg/mongo_impl/test_mongo_node_degrees_batch.py": {
+    "loc": 66,
+    "lloc": 38,
+    "sloc": 34,
+    "comments": 0,
+    "multi": 12,
+    "blank": 18,
+    "single_comments": 2
+  },
+  "tests/kg/mongo_impl/__init__.py": {
+    "loc": 0,
+    "lloc": 0,
+    "sloc": 0,
+    "comments": 0,
+    "multi": 0,
+    "blank": 0,
+    "single_comments": 0
+  },
+  "tests/kg/mongo_impl/test_mongo_scheduling_pages.py": {
+    "loc": 868,
+    "lloc": 454,
+    "sloc": 586,
+    "comments": 70,
+    "multi": 23,
+    "blank": 201,
+    "single_comments": 58
+  },
+  "tests/kg/mongo_impl/test_mongo_bfs_tie_break.py": {
+    "loc": 216,
+    "lloc": 95,
+    "sloc": 143,
+    "comments": 10,
+    "multi": 21,
+    "blank": 43,
+    "single_comments": 9
+  },
+  "tests/kg/mongo_impl/test_mongo_attribute_names.py": {
+    "loc": 263,
+    "lloc": 142,
+    "sloc": 152,
+    "comments": 7,
+    "multi": 39,
+    "blank": 63,
+    "single_comments": 9
+  },
+  "tests/kg/memgraph_impl/test_memgraph_storage.py": {
+    "loc": 137,
+    "lloc": 77,
+    "sloc": 99,
+    "comments": 7,
+    "multi": 0,
+    "blank": 33,
+    "single_comments": 5
+  },
+  "tests/kg/memgraph_impl/test_memgraph_graph_read_contract.py": {
+    "loc": 174,
+    "lloc": 84,
+    "sloc": 104,
+    "comments": 6,
+    "multi": 14,
+    "blank": 47,
+    "single_comments": 9
+  },
+  "tests/kg/memgraph_impl/test_memgraph_kg_tie_break.py": {
+    "loc": 95,
+    "lloc": 51,
+    "sloc": 57,
+    "comments": 3,
+    "multi": 7,
+    "blank": 27,
+    "single_comments": 4
+  },
+  "tests/kg/memgraph_impl/test_memgraph_all_edges_dedup.py": {
+    "loc": 128,
+    "lloc": 81,
+    "sloc": 82,
+    "comments": 0,
+    "multi": 12,
+    "blank": 34,
+    "single_comments": 0
+  },
+  "tests/kg/memgraph_impl/__init__.py": {
+    "loc": 0,
+    "lloc": 0,
+    "sloc": 0,
+    "comments": 0,
+    "multi": 0,
+    "blank": 0,
+    "single_comments": 0
+  },
+  "tests/kg/neo4j_impl/test_neo4j_robust_fallback_truncation.py": {
+    "loc": 143,
+    "lloc": 90,
+    "sloc": 83,
+    "comments": 0,
+    "multi": 17,
+    "blank": 40,
+    "single_comments": 3
+  },
+  "tests/kg/neo4j_impl/test_neo4j_graph_read_contract.py": {
+    "loc": 156,
+    "lloc": 86,
+    "sloc": 104,
+    "comments": 0,
+    "multi": 8,
+    "blank": 41,
+    "single_comments": 3
+  },
+  "tests/kg/neo4j_impl/test_workspace_label_injection.py": {
+    "loc": 178,
+    "lloc": 61,
+    "sloc": 99,
+    "comments": 25,
+    "multi": 18,
+    "blank": 40,
+    "single_comments": 21
+  },
+  "tests/kg/neo4j_impl/test_neo4j_fulltext_index.py": {
+    "loc": 361,
+    "lloc": 136,
+    "sloc": 233,
+    "comments": 37,
+    "multi": 31,
+    "blank": 62,
+    "single_comments": 35
+  },
+  "tests/kg/neo4j_impl/__init__.py": {
+    "loc": 0,
+    "lloc": 0,
+    "sloc": 0,
+    "comments": 0,
+    "multi": 0,
+    "blank": 0,
+    "single_comments": 0
+  },
+  "tests/kg/neo4j_impl/test_neo4j_all_edges_dedup.py": {
+    "loc": 130,
+    "lloc": 83,
+    "sloc": 84,
+    "comments": 0,
+    "multi": 12,
+    "blank": 34,
+    "single_comments": 0
+  },
+  "tests/kg/neo4j_impl/test_neo4j_kg_tie_break.py": {
+    "loc": 98,
+    "lloc": 51,
+    "sloc": 57,
+    "comments": 4,
+    "multi": 9,
+    "blank": 27,
+    "single_comments": 5
+  },
+  "tests/kg/neo4j_impl/test_search_labels_sanitize.py": {
+    "loc": 48,
+    "lloc": 9,
+    "sloc": 33,
+    "comments": 5,
+    "multi": 6,
+    "blank": 7,
+    "single_comments": 2
+  },
+  "tests/kg/opensearch_impl/test_opensearch_storage.py": {
+    "loc": 7190,
+    "lloc": 3808,
+    "sloc": 5639,
+    "comments": 319,
+    "multi": 491,
+    "blank": 693,
+    "single_comments": 367
+  },
+  "tests/kg/opensearch_impl/test_os_scheduling_pages.py": {
+    "loc": 1345,
+    "lloc": 764,
+    "sloc": 910,
+    "comments": 98,
+    "multi": 69,
+    "blank": 272,
+    "single_comments": 94
+  },
+  "tests/kg/opensearch_impl/test_opensearch_kv_create_time_integration.py": {
+    "loc": 311,
+    "lloc": 174,
+    "sloc": 199,
+    "comments": 11,
+    "multi": 30,
+    "blank": 69,
+    "single_comments": 13
+  },
+  "tests/kg/opensearch_impl/test_workspace_index_collision.py": {
+    "loc": 504,
+    "lloc": 258,
+    "sloc": 364,
+    "comments": 22,
+    "multi": 26,
+    "blank": 81,
+    "single_comments": 33
+  },
+  "tests/kg/opensearch_impl/test_cwe89_opensearch_injection.py": {
+    "loc": 233,
+    "lloc": 135,
+    "sloc": 143,
+    "comments": 20,
+    "multi": 10,
+    "blank": 52,
+    "single_comments": 28
+  },
+  "tests/kg/opensearch_impl/__init__.py": {
+    "loc": 0,
+    "lloc": 0,
+    "sloc": 0,
+    "comments": 0,
+    "multi": 0,
+    "blank": 0,
+    "single_comments": 0
+  },
+  "tests/kg/opensearch_impl/test_opensearch_kv_upsert_create_time.py": {
+    "loc": 223,
+    "lloc": 124,
+    "sloc": 150,
+    "comments": 2,
+    "multi": 23,
+    "blank": 44,
+    "single_comments": 6
+  },
+  "tests/kg/opensearch_impl/test_opensearch_merge_edge_payloads.py": {
+    "loc": 132,
+    "lloc": 49,
+    "sloc": 69,
+    "comments": 0,
+    "multi": 34,
+    "blank": 29,
+    "single_comments": 0
+  },
+  "tests/kg/opensearch_impl/test_opensearch_edge_degrees_batch.py": {
+    "loc": 149,
+    "lloc": 88,
+    "sloc": 86,
+    "comments": 3,
+    "multi": 19,
+    "blank": 39,
+    "single_comments": 5
+  },
+  "tests/kg/opensearch_impl/test_opensearch_strict_reads.py": {
+    "loc": 886,
+    "lloc": 502,
+    "sloc": 587,
+    "comments": 68,
+    "multi": 59,
+    "blank": 176,
+    "single_comments": 64
+  },
+  "tests/kg/opensearch_impl/test_opensearch_bfs_tie_break.py": {
+    "loc": 322,
+    "lloc": 165,
+    "sloc": 194,
+    "comments": 11,
+    "multi": 50,
+    "blank": 68,
+    "single_comments": 10
+  },
+  "tests/kg/opensearch_impl/test_opensearch_self_loop_contract.py": {
+    "loc": 117,
+    "lloc": 59,
+    "sloc": 68,
+    "comments": 3,
+    "multi": 21,
+    "blank": 25,
+    "single_comments": 3
+  },
+  "tests/kg/opensearch_impl/test_opensearch_vector_space.py": {
+    "loc": 470,
+    "lloc": 238,
+    "sloc": 262,
+    "comments": 33,
+    "multi": 51,
+    "blank": 122,
+    "single_comments": 35
+  },
+  "tests/kg/opensearch_impl/test_llm_cache_tools_opensearch.py": {
+    "loc": 189,
+    "lloc": 87,
+    "sloc": 154,
+    "comments": 0,
+    "multi": 3,
+    "blank": 32,
+    "single_comments": 0
+  },
+  "tests/kg/noop_impl/test_noop_vector_storage.py": {
+    "loc": 248,
+    "lloc": 116,
+    "sloc": 208,
+    "comments": 4,
+    "multi": 0,
+    "blank": 40,
+    "single_comments": 0
+  },
+  "tests/kg/noop_impl/__init__.py": {
+    "loc": 0,
+    "lloc": 0,
+    "sloc": 0,
+    "comments": 0,
+    "multi": 0,
+    "blank": 0,
+    "single_comments": 0
+  },
+  "tests/kg/nano_impl/test_nano_deferred_embedding.py": {
+    "loc": 1088,
+    "lloc": 724,
+    "sloc": 734,
+    "comments": 46,
+    "multi": 92,
+    "blank": 222,
+    "single_comments": 40
+  },
+  "tests/kg/nano_impl/test_nano_drop.py": {
+    "loc": 379,
+    "lloc": 247,
+    "sloc": 256,
+    "comments": 20,
+    "multi": 30,
+    "blank": 76,
+    "single_comments": 17
+  },
+  "tests/kg/nano_impl/test_nano_fingerprint_fence.py": {
+    "loc": 343,
+    "lloc": 206,
+    "sloc": 215,
+    "comments": 10,
+    "multi": 46,
+    "blank": 68,
+    "single_comments": 14
+  },
+  "tests/kg/nano_impl/__init__.py": {
+    "loc": 0,
+    "lloc": 0,
+    "sloc": 0,
+    "comments": 0,
+    "multi": 0,
+    "blank": 0,
+    "single_comments": 0
+  },
+  "tests/kg/nano_impl/test_atomic_write_nano.py": {
+    "loc": 99,
+    "lloc": 53,
+    "sloc": 55,
+    "comments": 9,
+    "multi": 15,
+    "blank": 23,
+    "single_comments": 6
+  },
+  "tests/kg/nano_impl/test_nano_save_off_event_loop.py": {
+    "loc": 346,
+    "lloc": 182,
+    "sloc": 200,
+    "comments": 14,
+    "multi": 57,
+    "blank": 78,
+    "single_comments": 11
+  },
+  "tests/kg/nano_impl/test_nano_deferred_delete.py": {
+    "loc": 865,
+    "lloc": 575,
+    "sloc": 539,
+    "comments": 31,
+    "multi": 117,
+    "blank": 186,
+    "single_comments": 23
+  },
+  "tests/kg/pgtable_impl/test_pgtable_smoke.py": {
+    "loc": 1594,
+    "lloc": 766,
+    "sloc": 969,
+    "comments": 136,
+    "multi": 220,
+    "blank": 276,
+    "single_comments": 129
+  },
+  "tests/kg/pgtable_impl/test_pgtable_graph_storage.py": {
+    "loc": 1425,
+    "lloc": 727,
+    "sloc": 880,
+    "comments": 141,
+    "multi": 141,
+    "blank": 269,
+    "single_comments": 135
+  },
+  "tests/kg/pgtable_impl/__init__.py": {
+    "loc": 0,
+    "lloc": 0,
+    "sloc": 0,
+    "comments": 0,
+    "multi": 0,
+    "blank": 0,
+    "single_comments": 0
+  },
+  "tests/kg/networkx_impl/test_networkx_attribute_validation.py": {
+    "loc": 582,
+    "lloc": 320,
+    "sloc": 353,
+    "comments": 24,
+    "multi": 77,
+    "blank": 126,
+    "single_comments": 26
+  },
+  "tests/kg/networkx_impl/test_networkx_atomic_write.py": {
+    "loc": 187,
+    "lloc": 91,
+    "sloc": 96,
+    "comments": 15,
+    "multi": 40,
+    "blank": 36,
+    "single_comments": 15
+  },
+  "tests/kg/networkx_impl/test_networkx_drop.py": {
+    "loc": 330,
+    "lloc": 247,
+    "sloc": 248,
+    "comments": 10,
+    "multi": 12,
+    "blank": 58,
+    "single_comments": 12
+  },
+  "tests/kg/networkx_impl/test_networkx_fingerprint_fence.py": {
+    "loc": 1475,
+    "lloc": 820,
+    "sloc": 824,
+    "comments": 114,
+    "multi": 280,
+    "blank": 252,
+    "single_comments": 119
+  },
+  "tests/kg/networkx_impl/__init__.py": {
+    "loc": 0,
+    "lloc": 0,
+    "sloc": 0,
+    "comments": 0,
+    "multi": 0,
+    "blank": 0,
+    "single_comments": 0
+  },
+  "tests/kg/networkx_impl/test_networkx_kg_star_tie_break.py": {
+    "loc": 53,
+    "lloc": 36,
+    "sloc": 42,
+    "comments": 0,
+    "multi": 0,
+    "blank": 9,
+    "single_comments": 2
+  },
+  "tests/kg/networkx_impl/test_networkx_popular_labels.py": {
+    "loc": 86,
+    "lloc": 45,
+    "sloc": 42,
+    "comments": 8,
+    "multi": 13,
+    "blank": 24,
+    "single_comments": 7
+  },
+  "tests/kg/networkx_impl/test_networkx_index_done.py": {
+    "loc": 204,
+    "lloc": 122,
+    "sloc": 130,
+    "comments": 9,
+    "multi": 22,
+    "blank": 44,
+    "single_comments": 8
+  },
+  "tests/kg/networkx_impl/test_networkx_dirty_discard.py": {
+    "loc": 368,
+    "lloc": 237,
+    "sloc": 232,
+    "comments": 26,
+    "multi": 59,
+    "blank": 62,
+    "single_comments": 15
+  },
+  "tests/kg/networkx_impl/test_networkx_bounded_iteration.py": {
+    "loc": 46,
+    "lloc": 28,
+    "sloc": 32,
+    "comments": 0,
+    "multi": 0,
+    "blank": 14,
+    "single_comments": 0
+  },
+  "tests/kg/networkx_impl/test_networkx_get_node_edge_copy_on_read.py": {
+    "loc": 62,
+    "lloc": 45,
+    "sloc": 47,
+    "comments": 0,
+    "multi": 0,
+    "blank": 15,
+    "single_comments": 0
+  },
+  "tests/kg/networkx_impl/test_networkx_commit_gate.py": {
+    "loc": 515,
+    "lloc": 282,
+    "sloc": 284,
+    "comments": 15,
+    "multi": 99,
+    "blank": 116,
+    "single_comments": 16
+  },
+  "tests/kg/networkx_impl/test_networkx_get_kg_truncation.py": {
+    "loc": 57,
+    "lloc": 33,
+    "sloc": 42,
+    "comments": 2,
+    "multi": 5,
+    "blank": 8,
+    "single_comments": 2
+  },
+  "tests/api/test_cors.py": {
+    "loc": 191,
+    "lloc": 84,
+    "sloc": 102,
+    "comments": 21,
+    "multi": 21,
+    "blank": 42,
+    "single_comments": 26
+  },
+  "tests/api/test_ollama_query_mode.py": {
+    "loc": 131,
+    "lloc": 32,
+    "sloc": 101,
+    "comments": 16,
+    "multi": 12,
+    "blank": 15,
+    "single_comments": 3
+  },
+  "tests/api/test_lightrag_ollama_chat.py": {
+    "loc": 875,
+    "lloc": 449,
+    "sloc": 566,
+    "comments": 57,
+    "multi": 120,
+    "blank": 137,
+    "single_comments": 52
+  },
+  "tests/api/test_body_limit_middleware.py": {
+    "loc": 403,
+    "lloc": 198,
+    "sloc": 251,
+    "comments": 22,
+    "multi": 36,
+    "blank": 95,
+    "single_comments": 21
+  },
+  "tests/api/conftest.py": {
+    "loc": 47,
+    "lloc": 18,
+    "sloc": 19,
+    "comments": 0,
+    "multi": 20,
+    "blank": 8,
+    "single_comments": 0
+  },
+  "tests/api/test_api_docs_toggle.py": {
+    "loc": 271,
+    "lloc": 137,
+    "sloc": 167,
+    "comments": 18,
+    "multi": 21,
+    "blank": 62,
+    "single_comments": 21
+  },
+  "tests/api/test_webui_title_injection.py": {
+    "loc": 159,
+    "lloc": 83,
+    "sloc": 96,
+    "comments": 6,
+    "multi": 18,
+    "blank": 37,
+    "single_comments": 8
+  },
+  "tests/api/test_custom_chunker_startup.py": {
+    "loc": 233,
+    "lloc": 136,
+    "sloc": 187,
+    "comments": 2,
+    "multi": 6,
+    "blank": 36,
+    "single_comments": 4
+  },
+  "tests/api/test_workspace_entry_mount.py": {
+    "loc": 351,
+    "lloc": 203,
+    "sloc": 245,
+    "comments": 12,
+    "multi": 24,
+    "blank": 68,
+    "single_comments": 14
+  },
+  "tests/api/test_embedding_model_required.py": {
+    "loc": 103,
+    "lloc": 47,
+    "sloc": 47,
+    "comments": 1,
+    "multi": 27,
+    "blank": 27,
+    "single_comments": 2
+  },
+  "tests/api/__init__.py": {
+    "loc": 0,
+    "lloc": 0,
+    "sloc": 0,
+    "comments": 0,
+    "multi": 0,
+    "blank": 0,
+    "single_comments": 0
+  },
+  "tests/api/test_ai_content_notice.py": {
+    "loc": 215,
+    "lloc": 111,
+    "sloc": 126,
+    "comments": 15,
+    "multi": 22,
+    "blank": 49,
+    "single_comments": 18
+  },
+  "tests/api/test_recovery_fence_visibility.py": {
+    "loc": 132,
+    "lloc": 43,
+    "sloc": 76,
+    "comments": 1,
+    "multi": 29,
+    "blank": 24,
+    "single_comments": 3
+  },
+  "tests/api/test_path_prefixes.py": {
+    "loc": 874,
+    "lloc": 457,
+    "sloc": 481,
+    "comments": 40,
+    "multi": 171,
+    "blank": 165,
+    "single_comments": 57
+  },
+  "tests/api/test_health_scheduling_view.py": {
+    "loc": 150,
+    "lloc": 76,
+    "sloc": 93,
+    "comments": 9,
+    "multi": 16,
+    "blank": 35,
+    "single_comments": 6
+  },
+  "tests/api/test_error_message_sanitization.py": {
+    "loc": 211,
+    "lloc": 105,
+    "sloc": 115,
+    "comments": 16,
+    "multi": 34,
+    "blank": 45,
+    "single_comments": 17
+  },
+  "tests/api/test_gunicorn_worker_orphan_exit.py": {
+    "loc": 116,
+    "lloc": 70,
+    "sloc": 58,
+    "comments": 4,
+    "multi": 21,
+    "blank": 33,
+    "single_comments": 4
+  },
+  "tests/api/test_auth_verify.py": {
+    "loc": 167,
+    "lloc": 82,
+    "sloc": 88,
+    "comments": 12,
+    "multi": 36,
+    "blank": 31,
+    "single_comments": 12
+  },
+  "tests/api/test_ui_customization.py": {
+    "loc": 1530,
+    "lloc": 765,
+    "sloc": 1199,
+    "comments": 122,
+    "multi": 102,
+    "blank": 171,
+    "single_comments": 58
+  },
+  "tests/api/test_admission_middleware.py": {
+    "loc": 472,
+    "lloc": 273,
+    "sloc": 315,
+    "comments": 17,
+    "multi": 38,
+    "blank": 107,
+    "single_comments": 12
+  },
+  "tests/api/test_health_auth.py": {
+    "loc": 310,
+    "lloc": 164,
+    "sloc": 192,
+    "comments": 20,
+    "multi": 18,
+    "blank": 78,
+    "single_comments": 22
+  },
+  "tests/api/config/test_api_config_bedrock.py": {
+    "loc": 193,
+    "lloc": 114,
+    "sloc": 139,
+    "comments": 0,
+    "multi": 0,
+    "blank": 54,
+    "single_comments": 0
+  },
+  "tests/api/config/test_api_config_embedding_chunk_overlap.py": {
+    "loc": 60,
+    "lloc": 32,
+    "sloc": 36,
+    "comments": 0,
+    "multi": 8,
+    "blank": 16,
+    "single_comments": 0
+  },
+  "tests/api/config/test_api_config_admission.py": {
+    "loc": 195,
+    "lloc": 111,
+    "sloc": 115,
+    "comments": 10,
+    "multi": 13,
+    "blank": 56,
+    "single_comments": 11
+  },
+  "tests/api/config/test_ollama_embedding_dimension.py": {
+    "loc": 51,
+    "lloc": 21,
+    "sloc": 36,
+    "comments": 0,
+    "multi": 0,
+    "blank": 14,
+    "single_comments": 1
+  },
+  "tests/api/config/test_embedding_dimension_guard.py": {
+    "loc": 286,
+    "lloc": 104,
+    "sloc": 206,
+    "comments": 8,
+    "multi": 12,
+    "blank": 59,
+    "single_comments": 9
+  },
+  "tests/api/config/test_api_config_role_max_async.py": {
+    "loc": 95,
+    "lloc": 56,
+    "sloc": 63,
+    "comments": 0,
+    "multi": 0,
+    "blank": 32,
+    "single_comments": 0
+  },
+  "tests/api/config/__init__.py": {
+    "loc": 0,
+    "lloc": 0,
+    "sloc": 0,
+    "comments": 0,
+    "multi": 0,
+    "blank": 0,
+    "single_comments": 0
+  },
+  "tests/api/config/test_splash_ollama_warning.py": {
+    "loc": 96,
+    "lloc": 46,
+    "sloc": 42,
+    "comments": 5,
+    "multi": 21,
+    "blank": 26,
+    "single_comments": 7
+  },
+  "tests/api/config/test_api_config_lollms_host.py": {
+    "loc": 175,
+    "lloc": 74,
+    "sloc": 100,
+    "comments": 9,
+    "multi": 20,
+    "blank": 47,
+    "single_comments": 8
+  },
+  "tests/api/config/test_whitelist_exposes_api_routes.py": {
+    "loc": 80,
+    "lloc": 26,
+    "sloc": 61,
+    "comments": 10,
+    "multi": 6,
+    "blank": 12,
+    "single_comments": 1
+  },
+  "tests/api/config/test_api_config_enable_api_docs.py": {
+    "loc": 42,
+    "lloc": 19,
+    "sloc": 26,
+    "comments": 0,
+    "multi": 0,
+    "blank": 15,
+    "single_comments": 1
+  },
+  "tests/api/config/test_api_config_ollama_role_think.py": {
+    "loc": 134,
+    "lloc": 67,
+    "sloc": 59,
+    "comments": 0,
+    "multi": 36,
+    "blank": 39,
+    "single_comments": 0
+  },
+  "tests/api/config/test_api_config_vlm_enable.py": {
+    "loc": 111,
+    "lloc": 65,
+    "sloc": 77,
+    "comments": 2,
+    "multi": 0,
+    "blank": 30,
+    "single_comments": 4
+  },
+  "tests/api/config/test_api_config_scan_batch.py": {
+    "loc": 68,
+    "lloc": 39,
+    "sloc": 41,
+    "comments": 2,
+    "multi": 7,
+    "blank": 18,
+    "single_comments": 2
+  },
+  "tests/api/config/test_api_config_custom_chunker.py": {
+    "loc": 24,
+    "lloc": 14,
+    "sloc": 15,
+    "comments": 0,
+    "multi": 0,
+    "blank": 8,
+    "single_comments": 1
+  },
+  "tests/api/config/test_ollama_think_startup_validation.py": {
+    "loc": 154,
+    "lloc": 65,
+    "sloc": 83,
+    "comments": 12,
+    "multi": 26,
+    "blank": 33,
+    "single_comments": 12
+  },
+  "tests/api/config/test_api_config_gemini.py": {
+    "loc": 12,
+    "lloc": 6,
+    "sloc": 6,
+    "comments": 0,
+    "multi": 0,
+    "blank": 6,
+    "single_comments": 0
+  },
+  "tests/api/auth/test_token_renewal_bounds.py": {
+    "loc": 678,
+    "lloc": 336,
+    "sloc": 370,
+    "comments": 21,
+    "multi": 113,
+    "blank": 152,
+    "single_comments": 43
+  },
+  "tests/api/auth/test_shared_credential_check.py": {
+    "loc": 220,
+    "lloc": 90,
+    "sloc": 127,
+    "comments": 6,
+    "multi": 38,
+    "blank": 49,
+    "single_comments": 6
+  },
+  "tests/api/auth/test_auth.py": {
+    "loc": 433,
+    "lloc": 225,
+    "sloc": 269,
+    "comments": 13,
+    "multi": 46,
+    "blank": 110,
+    "single_comments": 8
+  },
+  "tests/api/auth/test_login_rate_limit.py": {
+    "loc": 339,
+    "lloc": 211,
+    "sloc": 200,
+    "comments": 40,
+    "multi": 35,
+    "blank": 93,
+    "single_comments": 11
+  },
+  "tests/api/auth/__init__.py": {
+    "loc": 0,
+    "lloc": 0,
+    "sloc": 0,
+    "comments": 0,
+    "multi": 0,
+    "blank": 0,
+    "single_comments": 0
+  },
+  "tests/api/auth/test_whitelist_path_prefix.py": {
+    "loc": 155,
+    "lloc": 82,
+    "sloc": 71,
+    "comments": 2,
+    "multi": 42,
+    "blank": 39,
+    "single_comments": 3
+  },
+  "tests/api/routes/test_supported_extensions_markdown.py": {
+    "loc": 48,
+    "lloc": 27,
+    "sloc": 25,
+    "comments": 3,
+    "multi": 7,
+    "blank": 13,
+    "single_comments": 3
+  },
+  "tests/api/routes/test_insert_text_whitespace.py": {
+    "loc": 46,
+    "lloc": 27,
+    "sloc": 32,
+    "comments": 0,
+    "multi": 0,
+    "blank": 13,
+    "single_comments": 1
+  },
+  "tests/api/routes/test_supported_file_types_endpoint.py": {
+    "loc": 119,
+    "lloc": 67,
+    "sloc": 78,
+    "comments": 5,
+    "multi": 10,
+    "blank": 23,
+    "single_comments": 8
+  },
+  "tests/api/routes/test_description_api_validation.py": {
+    "loc": 403,
+    "lloc": 178,
+    "sloc": 303,
+    "comments": 8,
+    "multi": 7,
+    "blank": 85,
+    "single_comments": 8
+  },
+  "tests/api/routes/test_query_history_content_type.py": {
+    "loc": 40,
+    "lloc": 25,
+    "sloc": 28,
+    "comments": 0,
+    "multi": 0,
+    "blank": 11,
+    "single_comments": 1
+  },
+  "tests/api/routes/test_clear_documents_llm_cache.py": {
+    "loc": 306,
+    "lloc": 198,
+    "sloc": 184,
+    "comments": 6,
+    "multi": 39,
+    "blank": 76,
+    "single_comments": 7
+  },
+  "tests/api/routes/test_graph_attribute_validation.py": {
+    "loc": 654,
+    "lloc": 360,
+    "sloc": 432,
+    "comments": 10,
+    "multi": 74,
+    "blank": 135,
+    "single_comments": 13
+  },
+  "tests/api/routes/test_source_conflict_routes.py": {
+    "loc": 814,
+    "lloc": 372,
+    "sloc": 577,
+    "comments": 37,
+    "multi": 89,
+    "blank": 123,
+    "single_comments": 25
+  },
+  "tests/api/routes/test_graph_self_loop_rejection.py": {
+    "loc": 87,
+    "lloc": 43,
+    "sloc": 53,
+    "comments": 0,
+    "multi": 10,
+    "blank": 23,
+    "single_comments": 1
+  },
+  "tests/api/routes/test_scan_candidate_spool.py": {
+    "loc": 343,
+    "lloc": 154,
+    "sloc": 178,
+    "comments": 21,
+    "multi": 59,
+    "blank": 84,
+    "single_comments": 22
+  },
+  "tests/api/routes/test_document_source_characters.py": {
+    "loc": 160,
+    "lloc": 73,
+    "sloc": 87,
+    "comments": 5,
+    "multi": 29,
+    "blank": 38,
+    "single_comments": 6
+  },
+  "tests/api/routes/test_document_status_truncation_metadata.py": {
+    "loc": 57,
+    "lloc": 21,
+    "sloc": 38,
+    "comments": 3,
+    "multi": 7,
+    "blank": 12,
+    "single_comments": 0
+  },
+  "tests/api/routes/test_graph_entity_name_normalization.py": {
+    "loc": 274,
+    "lloc": 126,
+    "sloc": 221,
+    "comments": 0,
+    "multi": 0,
+    "blank": 52,
+    "single_comments": 1
+  },
+  "tests/api/routes/test_scan_mtime_ordering.py": {
+    "loc": 94,
+    "lloc": 50,
+    "sloc": 55,
+    "comments": 1,
+    "multi": 9,
+    "blank": 28,
+    "single_comments": 2
+  },
+  "tests/api/routes/test_force_reset_drops_stalled_enqueues.py": {
+    "loc": 262,
+    "lloc": 122,
+    "sloc": 172,
+    "comments": 14,
+    "multi": 33,
+    "blank": 50,
+    "single_comments": 7
+  },
+  "tests/api/routes/__init__.py": {
+    "loc": 0,
+    "lloc": 0,
+    "sloc": 0,
+    "comments": 0,
+    "multi": 0,
+    "blank": 0,
+    "single_comments": 0
+  },
+  "tests/api/routes/test_scan_classification_exits.py": {
+    "loc": 470,
+    "lloc": 244,
+    "sloc": 327,
+    "comments": 18,
+    "multi": 24,
+    "blank": 107,
+    "single_comments": 12
+  },
+  "tests/api/routes/test_graph_entity_rename_self_loop.py": {
+    "loc": 173,
+    "lloc": 98,
+    "sloc": 127,
+    "comments": 0,
+    "multi": 4,
+    "blank": 40,
+    "single_comments": 2
+  },
+  "tests/api/routes/test_graph_entity_name_whitespace.py": {
+    "loc": 99,
+    "lloc": 58,
+    "sloc": 75,
+    "comments": 0,
+    "multi": 0,
+    "blank": 23,
+    "single_comments": 1
+  },
+  "tests/api/routes/test_texts_per_request_limit.py": {
+    "loc": 137,
+    "lloc": 76,
+    "sloc": 79,
+    "comments": 2,
+    "multi": 17,
+    "blank": 38,
+    "single_comments": 3
+  },
+  "tests/api/routes/test_query_llm_generated.py": {
+    "loc": 210,
+    "lloc": 113,
+    "sloc": 124,
+    "comments": 12,
+    "multi": 20,
+    "blank": 52,
+    "single_comments": 14
+  },
+  "tests/api/routes/test_stall_fence_spares_admitted_text.py": {
+    "loc": 215,
+    "lloc": 100,
+    "sloc": 146,
+    "comments": 13,
+    "multi": 20,
+    "blank": 45,
+    "single_comments": 4
+  },
+  "tests/api/routes/test_graph_routes_pipeline_busy.py": {
+    "loc": 533,
+    "lloc": 197,
+    "sloc": 350,
+    "comments": 44,
+    "multi": 46,
+    "blank": 93,
+    "single_comments": 44
+  },
+  "tests/api/routes/test_aquery_data_endpoint.py": {
+    "loc": 781,
+    "lloc": 508,
+    "sloc": 567,
+    "comments": 46,
+    "multi": 8,
+    "blank": 153,
+    "single_comments": 53
+  },
+  "tests/api/routes/test_query_user_prompt_prefix_field.py": {
+    "loc": 99,
+    "lloc": 42,
+    "sloc": 41,
+    "comments": 11,
+    "multi": 20,
+    "blank": 27,
+    "single_comments": 11
+  },
+  "tests/api/routes/test_admission_released_before_processing.py": {
+    "loc": 394,
+    "lloc": 199,
+    "sloc": 246,
+    "comments": 25,
+    "multi": 39,
+    "blank": 83,
+    "single_comments": 26
+  },
+  "tests/api/routes/test_admission_endpoints.py": {
+    "loc": 167,
+    "lloc": 97,
+    "sloc": 97,
+    "comments": 9,
+    "multi": 16,
+    "blank": 47,
+    "single_comments": 7
+  },
+  "tests/api/routes/test_clear_documents_parsed_files.py": {
+    "loc": 222,
+    "lloc": 150,
+    "sloc": 149,
+    "comments": 3,
+    "multi": 12,
+    "blank": 59,
+    "single_comments": 2
+  },
+  "tests/api/routes/test_login_route.py": {
+    "loc": 296,
+    "lloc": 181,
+    "sloc": 186,
+    "comments": 10,
+    "multi": 31,
+    "blank": 70,
+    "single_comments": 9
+  },
+  "tests/api/routes/test_clear_documents_ingress.py": {
+    "loc": 307,
+    "lloc": 173,
+    "sloc": 207,
+    "comments": 10,
+    "multi": 37,
+    "blank": 57,
+    "single_comments": 6
+  },
+  "tests/api/routes/test_document_routes_docx_archive.py": {
+    "loc": 3968,
+    "lloc": 1988,
+    "sloc": 2754,
+    "comments": 223,
+    "multi": 295,
+    "blank": 696,
+    "single_comments": 223
+  },
+  "tests/api/routes/test_query_input_limits.py": {
+    "loc": 229,
+    "lloc": 98,
+    "sloc": 127,
+    "comments": 19,
+    "multi": 26,
+    "blank": 56,
+    "single_comments": 20
+  },
+  "tests/api/routes/test_document_routes_paginated.py": {
+    "loc": 205,
+    "lloc": 96,
+    "sloc": 160,
+    "comments": 1,
+    "multi": 6,
+    "blank": 38,
+    "single_comments": 1
+  },
+  "tests/api/routes/test_scan_manual_retry.py": {
+    "loc": 540,
+    "lloc": 294,
+    "sloc": 364,
+    "comments": 26,
+    "multi": 58,
+    "blank": 106,
+    "single_comments": 12
+  },
+  "tests/api/routes/test_query_stream_routes.py": {
+    "loc": 366,
+    "lloc": 203,
+    "sloc": 277,
+    "comments": 16,
+    "multi": 13,
+    "blank": 54,
+    "single_comments": 22
+  },
+  "tests/api/routes/test_document_routes_chunking.py": {
+    "loc": 1111,
+    "lloc": 437,
+    "sloc": 819,
+    "comments": 111,
+    "multi": 45,
+    "blank": 152,
+    "single_comments": 95
+  },
+  "tests/api/routes/test_scan_unsafe_source.py": {
+    "loc": 315,
+    "lloc": 185,
+    "sloc": 180,
+    "comments": 6,
+    "multi": 45,
+    "blank": 82,
+    "single_comments": 8
+  },
+  "tests/api/routes/test_query_request_strip.py": {
+    "loc": 53,
+    "lloc": 28,
+    "sloc": 34,
+    "comments": 0,
+    "multi": 4,
+    "blank": 14,
+    "single_comments": 1
+  },
+  "tests/api/routes/test_scan_streaming_batches.py": {
+    "loc": 333,
+    "lloc": 199,
+    "sloc": 217,
+    "comments": 11,
+    "multi": 27,
+    "blank": 79,
+    "single_comments": 10
+  },
+  "tests/api/routes/test_query_validation_responses.py": {
+    "loc": 98,
+    "lloc": 59,
+    "sloc": 62,
+    "comments": 9,
+    "multi": 10,
+    "blank": 22,
+    "single_comments": 4
+  },
+  "tests/api/routes/test_concurrent_query_tokenizer.py": {
+    "loc": 184,
+    "lloc": 115,
+    "sloc": 117,
+    "comments": 6,
+    "multi": 16,
+    "blank": 42,
+    "single_comments": 9
+  },
+  "tests/api/routes/test_scan_job_record.py": {
+    "loc": 388,
+    "lloc": 227,
+    "sloc": 253,
+    "comments": 19,
+    "multi": 38,
+    "blank": 84,
+    "single_comments": 13
+  },
+  "tests/api/routes/test_ollama_input_limits.py": {
+    "loc": 595,
+    "lloc": 314,
+    "sloc": 412,
+    "comments": 26,
+    "multi": 39,
+    "blank": 127,
+    "single_comments": 17
+  },
+  "tests/evaluation/test_evaluation_offline_retrieval_check.py": {
+    "loc": 101,
+    "lloc": 45,
+    "sloc": 89,
+    "comments": 0,
+    "multi": 0,
+    "blank": 12,
+    "single_comments": 0
+  },
+  "tests/evaluation/__init__.py": {
+    "loc": 0,
+    "lloc": 0,
+    "sloc": 0,
+    "comments": 0,
+    "multi": 0,
+    "blank": 0,
+    "single_comments": 0
+  },
+  "tests/evaluation/test_eval_rag_quality.py": {
+    "loc": 209,
+    "lloc": 119,
+    "sloc": 132,
+    "comments": 6,
+    "multi": 16,
+    "blank": 52,
+    "single_comments": 9
+  },
+  "tests/sidecar/test_writer.py": {
+    "loc": 951,
+    "lloc": 352,
+    "sloc": 764,
+    "comments": 19,
+    "multi": 76,
+    "blank": 92,
+    "single_comments": 19
+  },
+  "tests/sidecar/__init__.py": {
+    "loc": 0,
+    "lloc": 0,
+    "sloc": 0,
+    "comments": 0,
+    "multi": 0,
+    "blank": 0,
+    "single_comments": 0
+  },
+  "tests/sidecar/test_sidecar_uri.py": {
+    "loc": 120,
+    "lloc": 75,
+    "sloc": 89,
+    "comments": 1,
+    "multi": 4,
+    "blank": 27,
+    "single_comments": 0
+  },
+  "tests/sidecar/test_backfill.py": {
+    "loc": 325,
+    "lloc": 160,
+    "sloc": 207,
+    "comments": 30,
+    "multi": 9,
+    "blank": 79,
+    "single_comments": 30
+  },
+  "tests/chunker/test_registry.py": {
+    "loc": 542,
+    "lloc": 298,
+    "sloc": 430,
+    "comments": 1,
+    "multi": 5,
+    "blank": 105,
+    "single_comments": 2
+  },
+  "tests/chunker/test_paragraph_semantic_title_block.py": {
+    "loc": 522,
+    "lloc": 171,
+    "sloc": 381,
+    "comments": 37,
+    "multi": 29,
+    "blank": 79,
+    "single_comments": 33
+  },
+  "tests/chunker/test_chunker_recursive_character.py": {
+    "loc": 287,
+    "lloc": 131,
+    "sloc": 186,
+    "comments": 16,
+    "multi": 34,
+    "blank": 52,
+    "single_comments": 15
+  },
+  "tests/chunker/test_paragraph_semantic_merge_and_fallback.py": {
+    "loc": 887,
+    "lloc": 259,
+    "sloc": 641,
+    "comments": 118,
+    "multi": 14,
+    "blank": 116,
+    "single_comments": 116
+  },
+  "tests/chunker/test_chunk_options_persistence.py": {
+    "loc": 1961,
+    "lloc": 1003,
+    "sloc": 1365,
+    "comments": 64,
+    "multi": 197,
+    "blank": 340,
+    "single_comments": 59
+  },
+  "tests/chunker/test_chunking.py": {
+    "loc": 1253,
+    "lloc": 502,
+    "sloc": 756,
+    "comments": 144,
+    "multi": 91,
+    "blank": 259,
+    "single_comments": 147
+  },
+  "tests/chunker/__init__.py": {
+    "loc": 0,
+    "lloc": 0,
+    "sloc": 0,
+    "comments": 0,
+    "multi": 0,
+    "blank": 0,
+    "single_comments": 0
+  },
+  "tests/chunker/test_chunker_semantic_vector.py": {
+    "loc": 805,
+    "lloc": 432,
+    "sloc": 505,
+    "comments": 40,
+    "multi": 93,
+    "blank": 167,
+    "single_comments": 40
+  },
+  "tests/chunker/test_token_window_source_span.py": {
+    "loc": 201,
+    "lloc": 110,
+    "sloc": 139,
+    "comments": 8,
+    "multi": 17,
+    "blank": 36,
+    "single_comments": 9
+  },
+  "tests/chunker/test_paragraph_semantic_split_long_block.py": {
+    "loc": 323,
+    "lloc": 111,
+    "sloc": 245,
+    "comments": 31,
+    "multi": 0,
+    "blank": 50,
+    "single_comments": 28
+  },
+  "tests/chunker/test_paragraph_semantic_table_split.py": {
+    "loc": 1351,
+    "lloc": 532,
+    "sloc": 943,
+    "comments": 217,
+    "multi": 16,
+    "blank": 185,
+    "single_comments": 207
+  },
+  "tests/chunker/test_paragraph_semantic_drop_references.py": {
+    "loc": 355,
+    "lloc": 130,
+    "sloc": 249,
+    "comments": 33,
+    "multi": 11,
+    "blank": 67,
+    "single_comments": 28
+  },
+  "tests/chunker/test_hard_fallback_span_projection.py": {
+    "loc": 316,
+    "lloc": 138,
+    "sloc": 220,
+    "comments": 9,
+    "multi": 40,
+    "blank": 50,
+    "single_comments": 6
+  },
+  "tests/chunker/test_recursive_character_bounds.py": {
+    "loc": 376,
+    "lloc": 146,
+    "sloc": 187,
+    "comments": 14,
+    "multi": 73,
+    "blank": 96,
+    "single_comments": 20
+  },
+  "tests/chunker/test_overlap_validation.py": {
+    "loc": 113,
+    "lloc": 47,
+    "sloc": 59,
+    "comments": 18,
+    "multi": 5,
+    "blank": 25,
+    "single_comments": 24
+  },
+  "tests/chunker/test_chunking_raw_lightrag_parity.py": {
+    "loc": 769,
+    "lloc": 309,
+    "sloc": 502,
+    "comments": 47,
+    "multi": 90,
+    "blank": 129,
+    "single_comments": 48
+  },
+  "tests/chunker/test_rerank_chunking.py": {
+    "loc": 759,
+    "lloc": 374,
+    "sloc": 538,
+    "comments": 73,
+    "multi": 32,
+    "blank": 112,
+    "single_comments": 77
+  },
+  "tests/chunker/test_sidecar_backfill_integration.py": {
+    "loc": 395,
+    "lloc": 178,
+    "sloc": 265,
+    "comments": 56,
+    "multi": 10,
+    "blank": 72,
+    "single_comments": 48
+  },
+  "tests/extraction/test_fix_tuple_delimiter_free_text.py": {
+    "loc": 89,
+    "lloc": 58,
+    "sloc": 69,
+    "comments": 0,
+    "multi": 0,
+    "blank": 14,
+    "single_comments": 6
+  },
+  "tests/extraction/test_keyword_parsing.py": {
+    "loc": 174,
+    "lloc": 83,
+    "sloc": 136,
+    "comments": 0,
+    "multi": 2,
+    "blank": 36,
+    "single_comments": 0
+  },
+  "tests/extraction/test_pipeline_log_delock.py": {
+    "loc": 179,
+    "lloc": 72,
+    "sloc": 102,
+    "comments": 6,
+    "multi": 33,
+    "blank": 37,
+    "single_comments": 7
+  },
+  "tests/extraction/test_merge_entities_relation_weight.py": {
+    "loc": 320,
+    "lloc": 123,
+    "sloc": 232,
+    "comments": 7,
+    "multi": 23,
+    "blank": 58,
+    "single_comments": 7
+  },
+  "tests/extraction/test_extract_entities.py": {
+    "loc": 459,
+    "lloc": 184,
+    "sloc": 294,
+    "comments": 25,
+    "multi": 43,
+    "blank": 91,
+    "single_comments": 31
+  },
+  "tests/extraction/test_kg_recovery_primitives.py": {
+    "loc": 309,
+    "lloc": 174,
+    "sloc": 198,
+    "comments": 9,
+    "multi": 28,
+    "blank": 72,
+    "single_comments": 11
+  },
+  "tests/extraction/test_merge_entities_chunk_tracking.py": {
+    "loc": 284,
+    "lloc": 122,
+    "sloc": 168,
+    "comments": 0,
+    "multi": 52,
+    "blank": 62,
+    "single_comments": 2
+  },
+  "tests/extraction/test_rebuild_json_empty_fallback.py": {
+    "loc": 82,
+    "lloc": 33,
+    "sloc": 49,
+    "comments": 0,
+    "multi": 17,
+    "blank": 16,
+    "single_comments": 0
+  },
+  "tests/extraction/test_keyword_prompt_template.py": {
+    "loc": 69,
+    "lloc": 38,
+    "sloc": 47,
+    "comments": 0,
+    "multi": 6,
+    "blank": 16,
+    "single_comments": 0
+  },
+  "tests/extraction/test_rebuild_history_scope.py": {
+    "loc": 196,
+    "lloc": 74,
+    "sloc": 124,
+    "comments": 14,
+    "multi": 28,
+    "blank": 35,
+    "single_comments": 9
+  },
+  "tests/extraction/test_summary_map_reduce_perf.py": {
+    "loc": 115,
+    "lloc": 42,
+    "sloc": 62,
+    "comments": 8,
+    "multi": 22,
+    "blank": 23,
+    "single_comments": 8
+  },
+  "tests/extraction/test_truncation_reporting.py": {
+    "loc": 660,
+    "lloc": 293,
+    "sloc": 441,
+    "comments": 12,
+    "multi": 75,
+    "blank": 132,
+    "single_comments": 12
+  },
+  "tests/extraction/test_reserved_entity_type_rejection.py": {
+    "loc": 89,
+    "lloc": 34,
+    "sloc": 47,
+    "comments": 4,
+    "multi": 9,
+    "blank": 29,
+    "single_comments": 4
+  },
+  "tests/extraction/__init__.py": {
+    "loc": 0,
+    "lloc": 0,
+    "sloc": 0,
+    "comments": 0,
+    "multi": 0,
+    "blank": 0,
+    "single_comments": 0
+  },
+  "tests/extraction/test_json_extraction_recovery.py": {
+    "loc": 60,
+    "lloc": 26,
+    "sloc": 35,
+    "comments": 3,
+    "multi": 9,
+    "blank": 12,
+    "single_comments": 4
+  },
+  "tests/extraction/test_kg_extraction_validator.py": {
+    "loc": 628,
+    "lloc": 272,
+    "sloc": 408,
+    "comments": 22,
+    "multi": 71,
+    "blank": 125,
+    "single_comments": 24
+  },
+  "tests/extraction/test_rename_tracking_migration_ordering.py": {
+    "loc": 216,
+    "lloc": 113,
+    "sloc": 155,
+    "comments": 0,
+    "multi": 12,
+    "blank": 48,
+    "single_comments": 1
+  },
+  "tests/extraction/test_rebuild_synthesis.py": {
+    "loc": 285,
+    "lloc": 154,
+    "sloc": 225,
+    "comments": 0,
+    "multi": 0,
+    "blank": 60,
+    "single_comments": 0
+  },
+  "tests/extraction/test_relation_evidence_floor_repair.py": {
+    "loc": 389,
+    "lloc": 163,
+    "sloc": 248,
+    "comments": 7,
+    "multi": 54,
+    "blank": 78,
+    "single_comments": 9
+  },
+  "tests/extraction/test_chunk_tracking_presence_ingestion.py": {
+    "loc": 288,
+    "lloc": 119,
+    "sloc": 192,
+    "comments": 3,
+    "multi": 23,
+    "blank": 69,
+    "single_comments": 4
+  },
+  "tests/extraction/test_edge_vdb_none_guard.py": {
+    "loc": 97,
+    "lloc": 44,
+    "sloc": 61,
+    "comments": 2,
+    "multi": 12,
+    "blank": 22,
+    "single_comments": 2
+  },
+  "tests/extraction/test_keyword_extraction_drivers.py": {
+    "loc": 270,
+    "lloc": 160,
+    "sloc": 204,
+    "comments": 0,
+    "multi": 0,
+    "blank": 63,
+    "single_comments": 3
+  },
+  "tests/extraction/test_vdb_content_truncation_coverage.py": {
+    "loc": 1068,
+    "lloc": 443,
+    "sloc": 790,
+    "comments": 31,
+    "multi": 86,
+    "blank": 158,
+    "single_comments": 34
+  },
+  "tests/extraction/test_rebuild_fallback_warning_dedup.py": {
+    "loc": 146,
+    "lloc": 57,
+    "sloc": 82,
+    "comments": 2,
+    "multi": 29,
+    "blank": 33,
+    "single_comments": 2
+  },
+  "tests/extraction/test_cache_skip_reporting.py": {
+    "loc": 256,
+    "lloc": 117,
+    "sloc": 167,
+    "comments": 2,
+    "multi": 25,
+    "blank": 57,
+    "single_comments": 7
+  },
+  "tests/extraction/test_extract_entities_empty_chunks.py": {
+    "loc": 18,
+    "lloc": 9,
+    "sloc": 12,
+    "comments": 0,
+    "multi": 4,
+    "blank": 2,
+    "single_comments": 0
+  },
+  "tests/extraction/test_truncate_vdb_content.py": {
+    "loc": 100,
+    "lloc": 64,
+    "sloc": 57,
+    "comments": 3,
+    "multi": 12,
+    "blank": 29,
+    "single_comments": 2
+  },
+  "tests/extraction/test_write_ahead_indexes.py": {
+    "loc": 369,
+    "lloc": 187,
+    "sloc": 259,
+    "comments": 5,
+    "multi": 29,
+    "blank": 75,
+    "single_comments": 6
+  },
+  "tests/extraction/test_relation_numeric_description_weight.py": {
+    "loc": 39,
+    "lloc": 15,
+    "sloc": 31,
+    "comments": 0,
+    "multi": 0,
+    "blank": 7,
+    "single_comments": 1
+  },
+  "tests/extraction/test_extract_cache_orphans.py": {
+    "loc": 215,
+    "lloc": 100,
+    "sloc": 142,
+    "comments": 8,
+    "multi": 19,
+    "blank": 44,
+    "single_comments": 10
+  },
+  "tests/extraction/test_merge_description_dedup.py": {
+    "loc": 272,
+    "lloc": 117,
+    "sloc": 178,
+    "comments": 20,
+    "multi": 15,
+    "blank": 57,
+    "single_comments": 22
+  },
+  "tests/extraction/test_chunk_results_ordering.py": {
+    "loc": 171,
+    "lloc": 66,
+    "sloc": 94,
+    "comments": 6,
+    "multi": 32,
+    "blank": 38,
+    "single_comments": 7
+  },
+  "tests/extraction/test_entity_extraction_stability.py": {
+    "loc": 1860,
+    "lloc": 913,
+    "sloc": 1333,
+    "comments": 64,
+    "multi": 31,
+    "blank": 412,
+    "single_comments": 84
+  },
+  "tests/extraction/test_edge_weight_reprocess.py": {
+    "loc": 454,
+    "lloc": 229,
+    "sloc": 299,
+    "comments": 13,
+    "multi": 56,
+    "blank": 86,
+    "single_comments": 13
+  },
+  "tests/extraction/test_summary_sanitization.py": {
+    "loc": 160,
+    "lloc": 63,
+    "sloc": 93,
+    "comments": 6,
+    "multi": 26,
+    "blank": 35,
+    "single_comments": 6
+  }
+}
